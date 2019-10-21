@@ -4,7 +4,7 @@ seo-title: Adobe Campaign - Neue Erfahrung beim Enterprise Support
 description: Adobe Campaign - Neue Erfahrung beim Enterprise Support
 seo-description: Adobe Campaign - Neue Erfahrung beim Enterprise Support
 translation-type: tm+mt
-source-git-commit: ab441fe873ce4b5d85a478290186eb1593905454
+source-git-commit: 599e17962f0e6b8067cd31f1ee4f92a721af5784
 
 ---
 
@@ -23,10 +23,10 @@ Um zu beginnen, benötigen wir Ihre Hilfe bei der Bestätigung, wer für Ihr Unt
 
 Aus unseren Aufzeichnungen geht hervor, dass Sie ein **Systemadministrator in Ihrer Organisation** sind, der für die Verwaltung und Übermittlung von Supportanfragen für diese Adobe-Produkte zuständig ist.
 
-Als Systemadministrator haben Sie Zugriff auf die [!DNL Adobe Admin Console Support Tab] , die Ihnen Folgendes ermöglicht:
+Als Systemadministrator haben Sie Zugriff auf die [!DNL Adobe Admin Console Support Portal] , die Ihnen Folgendes ermöglicht:
 
 * Verbesserte Funktionen zur Fallverwaltung
-* Einfach Gespräche mit [!DNL Adobe Customer Care]
+* Einfach Gespräche mit [!DNL Adobe Customer Support]
 * Gewähren Sie Support-Benutzern Zugriff auf das Portal
 
 >[!NOTE]
