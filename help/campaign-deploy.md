@@ -4,7 +4,7 @@ description: Ihre neue Adobe-Kundendiensterfahrung kommt - Kontakt zur Kampagnen
 seo-title: Ihre neue Adobe-Kundendiensterfahrung kommt - Kontakt zur Kampagnenbereitstellung
 seo-description: Ihre neue Adobe-Kundendiensterfahrung kommt - Kontakt zur Kampagnenbereitstellung
 translation-type: tm+mt
-source-git-commit: e171b2b32f06834e588c01df39b321c7ce39544a
+source-git-commit: 599e17962f0e6b8067cd31f1ee4f92a721af5784
 
 ---
 
@@ -19,19 +19,17 @@ Um zu beginnen, benötigen wir Ihre Hilfe bei der Bestätigung, wer für Ihr Unt
 
 ## AKTION: Systemadministrator bestätigen (Systemadministrator)
 
-Unsere Aufzeichnungen haben Sie als den **Hauptansprechpartner beim ursprünglichen Einkauf für das Adobe Campaign-Produkt/die Adobe Campaign-Produkte Ihrer Organisation identifiziert**. Sie werden daher als Systemadministrator aufgeführt, der für die Verwaltung und Übermittlung von Supportanfragen für diese Adobe-Produkte zuständig ist.
+Unsere Aufzeichnungen haben Sie als Hauptansprechpartner beim ursprünglichen Kaufprozess für das Adobe Experience Manager/Adobe Campaign-Produkt/die Adobe Campaign-Produkte Ihrer Organisation identifiziert. Als Ergebnis werden Sie als **Systemadministrator** aufgeführt, der für die Verwaltung und Übermittlung von Supportanfragen für diese Adobe-Produkte zuständig ist.
 
-Als Systemadministrator haben Sie Zugriff auf die [!DNL Adobe Admin Console Support Tab] , die Ihnen Folgendes ermöglicht:
+Als Systemadministrator haben Sie Zugriff auf die [!DNL Adobe Admin Console Support Portal] , die Ihnen Folgendes ermöglicht:
 
 * Verbesserte Funktionen zur Fallverwaltung
-* Einfach Gespräche mit [!DNL Adobe Customer Care]
+* Einfach Gespräche mit [!DNL Adobe Customer Support]
 * Gewähren Sie Support-Benutzern Zugriff auf das Portal
 
-Bitte bestätigen Sie, dass Sie diese Rolle als Systemadministrator für Adobe Experience Manager-/Adobe Campaign-Produkte in Ihrer Organisation akzeptieren (oder eine alternative Kontaktstelle bereitstellen), indem Sie die **Ausfertigung abschließen und die[!DNL System Admin Confirmation Form]bis zum 4. November 2019**&#x200B;übermitteln.
+Bitte bestätigen Sie, dass Sie diese Rolle als Systemadministrator für Adobe Experience Manager/Adobe Campaign-Produkte in Ihrer Organisation akzeptieren (oder eine alternative Kontaktstelle bereitstellen), indem Sie das [[!DNL-Systemverwaltungsbestätigungsformular]](https://adobe.allegiancetech.com/cgi-bin/qwebcorporate.dll?idx=N5M8RY) bis zum 4. November 2019 ausfüllen und einreichen. Durch Ausfüllen dieses Formulars stellen Sie sicher, dass die entsprechenden Anmeldeinformationen dem Systemadministrator Ihres Unternehmens zugewiesen wurden, und ermöglichen es uns, weitere Details anzugeben, damit Ihr Unternehmen auf die bevorstehenden Änderungen vorbereitet ist.
 
-Durch Ausfüllen dieses Formulars stellen Sie sicher, dass die entsprechenden Anmeldeinformationen dem Systemadministrator Ihres Unternehmens zugewiesen wurden, und ermöglichen es uns, weitere Details anzugeben, damit Ihr Unternehmen auf die bevorstehenden Änderungen vorbereitet ist.
-
-Nach der Übermittlung der [!DNL System Admin Confirmation Form]Daten sind derzeit keine weiteren Aktionen erforderlich.  Die nächsten Schritte werden wir Anfang 2020 mit den bestätigten Systemadministratoren in Verbindung setzen.
+Nach Erhalt des [[!DNL System-Administratorbestätigungsformulars]](https://adobe.allegiancetech.com/cgi-bin/qwebcorporate.dll?idx=N5M8RY)wird eine E-Mail-Bestätigung versendet.
 
 Für Fragen zu dieser E-Mail kontaktieren Sie uns bitte unter customercare@adobe.com.
 
