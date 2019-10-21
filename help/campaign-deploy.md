@@ -4,7 +4,7 @@ description: Ihre neue Adobe-Kundendiensterfahrung kommt - Kontakt zur Kampagnen
 seo-title: Ihre neue Adobe-Kundendiensterfahrung kommt - Kontakt zur Kampagnenbereitstellung
 seo-description: Ihre neue Adobe-Kundendiensterfahrung kommt - Kontakt zur Kampagnenbereitstellung
 translation-type: tm+mt
-source-git-commit: 599e17962f0e6b8067cd31f1ee4f92a721af5784
+source-git-commit: 71e000e4c5c63f67550109acc5cfc35569af972f
 
 ---
 
@@ -27,7 +27,9 @@ Als Systemadministrator haben Sie Zugriff auf die [!DNL Adobe Admin Console Supp
 * Einfach Gespräche mit [!DNL Adobe Customer Support]
 * Gewähren Sie Support-Benutzern Zugriff auf das Portal
 
-Bitte bestätigen Sie, dass Sie diese Rolle als Systemadministrator für Adobe Experience Manager/Adobe Campaign-Produkte in Ihrer Organisation akzeptieren (oder eine alternative Kontaktstelle bereitstellen), indem Sie das [[!DNL-Systemverwaltungsbestätigungsformular]](https://adobe.allegiancetech.com/cgi-bin/qwebcorporate.dll?idx=N5M8RY) bis zum 4. November 2019 ausfüllen und einreichen. Durch Ausfüllen dieses Formulars stellen Sie sicher, dass die entsprechenden Anmeldeinformationen dem Systemadministrator Ihres Unternehmens zugewiesen wurden, und ermöglichen es uns, weitere Details anzugeben, damit Ihr Unternehmen auf die bevorstehenden Änderungen vorbereitet ist.
+>[!NOTE]
+>Bitte bestätigen Sie, dass Sie diese Rolle als Systemadministrator für Adobe Campaign-Produkte in Ihrer Organisation akzeptieren (oder eine alternative Kontaktstelle bereitstellen), indem Sie das **[!DNL-Systemverwaltungsbestätigungsformular][bis zum 4. November 2019](https://adobe.allegiancetech.com/cgi-bin/qwebcorporate.dll?idx=N5M8RY)ausfüllen und einreichen**.
+>Durch Ausfüllen dieses Formulars stellen Sie sicher, dass die entsprechenden Anmeldeinformationen dem Systemadministrator Ihres Unternehmens zugewiesen wurden, und ermöglichen es uns, weitere Details anzugeben, damit Ihr Unternehmen auf die bevorstehenden Änderungen vorbereitet ist.
 
 Nach Erhalt des [[!DNL System-Administratorbestätigungsformulars]](https://adobe.allegiancetech.com/cgi-bin/qwebcorporate.dll?idx=N5M8RY)wird eine E-Mail-Bestätigung versendet.
 
