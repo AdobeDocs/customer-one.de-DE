@@ -1,10 +1,10 @@
 ---
-title: Ihre neue Adobe-Kundendiensterfahrung kommt - Kontakt zur Kampagnenbereitstellung
-description: Ihre neue Adobe-Kundendiensterfahrung kommt - Kontakt zur Kampagnenbereitstellung
-seo-title: Ihre neue Adobe-Kundendiensterfahrung kommt - Kontakt zur Kampagnenbereitstellung
-seo-description: Ihre neue Adobe-Kundendiensterfahrung kommt - Kontakt zur Kampagnenbereitstellung
+title: Ihre neue Adobe-Kundendiensterfahrung ist im Gange - Ansprechpartner für die [!DNL Campaign]
+description: Ihre neue Adobe-Kundendiensterfahrung ist im Gange - Ansprechpartner für die [!DNL Campaign]
+seo-title: Ihre neue Adobe-Kundendiensterfahrung ist im Gange - Ansprechpartner für die [!DNL Campaign]
+seo-description: Ihre neue Adobe-Kundendiensterfahrung ist im Gange - Ansprechpartner für die [!DNL Campaign]
 translation-type: tm+mt
-source-git-commit: 71e000e4c5c63f67550109acc5cfc35569af972f
+source-git-commit: 3e4fe23a3795d9aa4e217f614b546fa3fbaa09cc
 
 ---
 
