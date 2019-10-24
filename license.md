@@ -1,14 +1,14 @@
 ---
 source-git-commit: 30844dc968b7d94b2cb29d92917a08f6cf322144
-translation-type: tm+mt
+translation-type: ht
 
 ---
 # MIT-Lizenz
 
-© Copyright 2018 Adobe. Alle Rechte vorbehalten.
+© Copyright 2018 Adobe. All rights reserved.
 
-Jede Person, die eine Kopie dieser Software und dazugehöriger Dokumentationsdateien (die "Software") erhält, wird hiermit unentgeltlich ermächtigt, die Software uneingeschränkt zu verarbeiten, einschließlich der Rechte zur Verwendung, zum Kopieren, Ändern, Zusammenführen, Veröffentlichen, Verteilen, Unterlizenz und/oder zum Verkauf von Kopien der Software, und Personen, denen die Software zur Verfügung gestellt wird, dies unter folgenden Bedingungen zu gestatten:
+Hiermit wird jeder Person, die eine Kopie dieser Software und der zugehörigen Dokumentationsdateien (die „Software“) erhält, kostenlos die Erlaubnis erteilt, die Software uneingeschränkt zu verwenden, einschließlich, aber nicht beschränkt auf die Rechte zur Nutzung, Vervielfältigung, Änderung, Zusammenführung, Veröffentlichung, Verteilung, Unterlizenzierung und/oder zum Verkauf von Kopien der Software, und Personen, denen die Software zur Verfügung gestellt wird, dies unter den folgenden Bedingungen zu gestatten:
 
 Der obige Urheberrechtshinweis und dieser Berechtigungshinweis müssen in allen Kopien oder wesentlichen Teilen der Software enthalten sein.
 
-DIE SOFTWARE WIRD "WIE VORHANDEN"BEREITGESTELLT, OHNE GEWÄHRLEISTUNG JEGLICHER ART, EXPRESS ORIMPLIZIERT, EINSCHLIESSLICH, ABER NICHT AUF DIE GARANTIEN DER MERCHANTABILITÄT, EIGNUNG FÜR EINEN BESTIMMTEN ZWECK UND UNVERLETZUNG BESCHRÄNKT. AUF KEINEN FALL SIND IHRE AUTOREN ODER URHEBERRECHTSINHABER FÜR KLAMMERN, SCHÄDEN ODER ANDERE HAFTUNGEN VERANTWORTLICH, OB IN VERTRAG-, TORT- ODER ANDEREN FÄLLEN, DIE AUS, AUS ODER IN VERBINDUNG MIT DER SOFTWARE ODER DER NUTZUNG ODER ANDEREN FÄLLEN IN DIESER GESCHOFTWARE HERBAR SIND.
+DIE SOFTWARE WIRD „WIE BESEHEN“ BEREITGESTELLT, OHNE JEGLICHE AUSDRÜCKLICHE ODER STILLSCHWEIGENDE GEWÄHRLEISTUNG, EINSCHLIESSLICH, ABER NICHT BESCHRÄNKT AUF DIE GEWÄHRLEISTUNG DER MARKTGÄNGIGKEIT, DER EIGNUNG FÜR EINEN BESTIMMTEN ZWECK UND DER NICHTVERLETZUNG VON RECHTEN. IN KEINEM FALL SIND DIE AUTOREN ODER URHEBERRECHTSINHABER HAFTBAR FÜR ANSPRÜCHE, SCHÄDEN ODER ANDERE VERPFLICHTUNGEN, SEI ES AUFGRUND EINER VERTRAGSHANDLUNG, EINER UNERLAUBTEN HANDLUNG ODER ANDERWEITIG, DIE SICH DURCH DIE SOFTWARE, AUS DER SOFTWARE ODER IN VERBINDUNG MIT DER SOFTWARE ODER DER NUTZUNG ODER DURCH ANDERWEITIGE GESCHÄFTSTRANSAKTIONEN MIT DER SOFTWARE ERGEBEN.
