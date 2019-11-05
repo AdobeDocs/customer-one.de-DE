@@ -1,21 +1,21 @@
 ---
 title: Adobe Experience Cloud Customer One for Enterprise
-description: Neues Kundensupport-Erlebnis
-seo-description: Neues Kundensupport-Erlebnis
+description: Neues Adobe-Supporterlebnis
+seo-description: Neues Adobe-Supporterlebnis
 seo-title: Adobe Experience Cloud Customer One for Enterprise
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 54678a0343783836ae123eecc544b5b26af76705
 
 ---
 
 
-# Neues Kundensupport-Erlebnis
+# Neues Adobe-Supporterlebnis
 
-Wir arbeiten an einigen wichtigen Verbesserungen der Supporterfahrung für unsere Adobe Experience Manager- und Adobe Campaign-Kunden.
+Wir arbeiten derzeit an einer Reihe von grundlegenden Verbesserungen des Supports für Kunden von Adobe Experience Manager und Adobe Campaign.
 
-Diese Änderungen, die wir im April/Mai 2020 einführen wollen, ermöglichen Ihrem Unternehmen den Zugriff auf Ihre Servicegeschichte [!DNL Adobe Customer Support] und eine größere Sichtbarkeit über ein gemeinsames Einstiegsportal.
+Voraussichtlich im April/Mai 2020 verfügbar, ermöglichen es diese Änderungen Ihrem Unternehmen, über ein zentrales Portal auf den [!DNL Adobe Customer Support] zuzugreifen und den Verlauf Ihrer Serviceanfragen besser zu verfolgen.
 
-Wir werden Ihrer Organisation weitere Informationen zur Verfügung stellen, sobald wir der Einführung näher kommen.
+Bis zum Zeitpunkt der Einführung lassen wir Ihnen diesbezüglich regelmäßig weitere Informationen zukommen.
 
 ## Weitere Informationen
 
