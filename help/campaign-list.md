@@ -1,19 +1,19 @@
 ---
-title: '[!DNL Campaign] Hinweise'
-description: '[!DNL-Kampagne] Hinweise nach Datum'
-seo-title: '[!DNL Campaign] Hinweise'
-seo-description: '[!DNL Campaign] Hinweise'
-translation-type: tm+mt
+title: '[!DNL Campaign]-Mitteilungen'
+description: '[!DNL Campaign]-Mitteilungen nach Datum'
+seo-title: '[!DNL Campaign]-Mitteilungen'
+seo-description: '[!DNL Campaign]-Mitteilungen'
+translation-type: ht
 source-git-commit: 84c6cffc5b7e9e060731384a6695fded451be3b9
 
 ---
 
 
-# [!DNL Campaign] Hinweise
+# [!DNL Campaign]-Mitteilungen
 
-## Benachrichtigungen für Adobe Campaign-Kunden nach Datum.
+## Mitteilungen für Adobe Campaign-Kunden nach Datum.
 
-Vollständige Liste der Benachrichtigungen für [!DNL Campaign] Kunden
+Vollständige Liste der Mitteilungen für [!DNL Campaign]-Kunden
 
-* [Kampagnensystemadmin-Benachrichtigung, 21. Oktober 2019](campaign-admin.md)
-* [Benachrichtigung zur Kampagnenbereitstellung, 21. Oktober 2019](campaign-deploy.md)
+* [Mitteilung für Campaign-Systemadministratoren, 21. Oktober 2019](campaign-admin.md)
+* [Mitteilung bezüglich Kontakt für Campaign-Bereitstellung, 21. Oktober 2019](campaign-deploy.md)
