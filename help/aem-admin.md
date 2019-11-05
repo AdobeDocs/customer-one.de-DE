@@ -1,40 +1,40 @@
 ---
-title: AEM - Neue Supporterfahrung im Einsatz
-seo-title: Adobe Experience Manager - Neues Supporterlebnis
-description: Adobe Experience Manager - Neues Supporterlebnis
-seo-description: Adobe Experience Manager - Neues Supporterlebnis
-translation-type: tm+mt
+title: AEM – Neues Supporterlebnis in Vorbereitung
+seo-title: Adobe Experience Manager – Neues Supporterlebnis
+description: Adobe Experience Manager – Neues Supporterlebnis
+seo-description: Adobe Experience Manager – Neues Supporterlebnis
+translation-type: ht
 source-git-commit: aa0606f8a5f1134478cb4b081e03c1bea3e151e7
 
 ---
 
 
-# Adobe Experience Manager - Neues Supporterlebnis
+# Adobe Experience Manager – Neues Supporterlebnis
 
 **21. Oktober 2019**
 
-Wir arbeiten an einigen wichtigen Verbesserungen der Supporterfahrung für unsere Adobe Experience Manager- und Adobe Campaign-Kunden. Diese Änderungen, die wir im April/Mai 2020 einführen wollen, ermöglichen Ihrem Unternehmen den Zugriff auf Ihre Servicegeschichte [!DNL Adobe Customer Support] und eine größere Sichtbarkeit über ein gemeinsames Einstiegsportal.
+Wir arbeiten derzeit an einer Reihe von grundlegenden Verbesserungen des Supports für Kunden von Adobe Experience Manager und Adobe Campaign. Voraussichtlich im April/Mai 2020 verfügbar, ermöglichen es diese Änderungen Ihrem Unternehmen, über ein zentrales Portal auf den [!DNL Adobe Customer Support] zuzugreifen und den Verlauf Ihrer Serviceanfragen besser zu verfolgen.
 
-Wir werden Ihrer Organisation auch weiterhin weitere Informationen zur Verfügung stellen, sobald wir uns der Einführung nähern.
+Bis zum Zeitpunkt der Einführung lassen wir Ihnen diesbezüglich regelmäßig weitere Informationen zukommen.
 
-Um zu beginnen, benötigen wir Ihre Hilfe bei der Bestätigung, wer für Ihr Unternehmen Systemadministrator sein wird.
+Zunächst benötigen wir Ihre Hilfe. Bitte bestätigen Sie, wer in Ihrem Unternehmen als Systemadministrator fungiert.
 
 ## AKTION: Systemadministrator bestätigen (Systemadministrator)
 
 Aus unseren Aufzeichnungen geht hervor, dass Sie in Ihrem Unternehmen als **Systemadministrator** benannt wurden, der für die Verwaltung und Übermittlung von Supportanfragen für diese Adobe-Produkte zuständig ist.
 
-Als Systemadministrator haben Sie Zugriff auf die [!DNL Adobe Admin Console Support Portal] , die Ihnen Folgendes ermöglicht:
+Als Systemadministrator haben Sie Zugriff auf das [!DNL Adobe Admin Console Support Portal]. Dort können Sie:
 
-* Verbesserte Funktionen zur Fallverwaltung
-* Einfach Gespräche mit [!DNL Adobe Customer Support]
-* Gewähren Sie Support-Benutzern Zugriff auf das Portal
+* verbesserte Funktionen für das Management von Supportanfragen nutzen
+* bequem per Chat mit dem [!DNL Adobe Customer Support] in Kontakt treten
+* Support-Benutzern Zugriff auf das Portal gewähren
 
 >[!NOTE]
->Bitte bestätigen Sie, dass Sie diese Rolle als Systemadministrator für Adobe Experience Manager-Produkte in Ihrer Organisation akzeptieren (oder eine alternative Kontaktstelle bereitstellen), indem Sie das **[!DNL-Systemverwaltungsbestätigungsformular][bis zum 4. November 2019](https://adobe.allegiancetech.com/cgi-bin/qwebcorporate.dll?idx=SSSVH6)ausfüllen und einreichen**.
->Durch Ausfüllen dieses Formulars wird sichergestellt, dass die entsprechenden Anmeldeinformationen dem Systemadministrator Ihres Unternehmens zugewiesen werden.
+>Bitte bestätigen Sie, dass Sie in Ihrem Unternehmen als Systemadministrator für Adobe Experience Manager-Produkte fungieren (oder geben Sie einen anderen Ansprechpartner an), **indem Sie das [[!DNL System Admin Confirmation Form]](https://adobe.allegiancetech.com/cgi-bin/qwebcorporate.dll?idx=SSSVH6) bis zum 4. November 2019 ausfüllen und übermitteln**.
+>Durch das Ausfüllen dieses Formulars wird sichergestellt, dass die entsprechenden Anmeldeinformationen dem für Ihr Unternehmen zuständigen Systemadministrator zugewiesen werden.
 
-Nach Erhalt des [[!DNL System-Administratorbestätigungsformulars]](https://adobe.allegiancetech.com/cgi-bin/qwebcorporate.dll?idx=SSSVH6)wird eine E-Mail-Bestätigung versendet.
+Sobald das [[!DNL System Admin Confirmation Form]](https://adobe.allegiancetech.com/cgi-bin/qwebcorporate.dll?idx=SSSVH6) bei uns eingegangen ist, versenden wir eine entsprechende Bestätigung per E-Mail.
 
-Für Fragen zu dieser E-Mail kontaktieren Sie uns bitte unter customercare@adobe.com.
+Wenden Sie sich bei Fragen zu dieser E-Mail bitte unter customercare@adobe.com an uns.
 
-Herzlichen Dank und vielen Dank für Ihre Hilfe.
+Vielen Dank für Ihre Unterstützung.
