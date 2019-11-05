@@ -1,40 +1,40 @@
 ---
-title: '[!DNL Campaign] - Neue Support-Erfahrung kommt'
-seo-title: Adobe Campaign - Neue Erfahrung beim Enterprise Support
-description: Adobe Campaign - Neue Erfahrung beim Enterprise Support
-seo-description: Adobe Campaign - Neue Erfahrung beim Enterprise Support
-translation-type: tm+mt
+title: '[!DNL Campaign] – Neues Supporterlebnis in Vorbereitung'
+seo-title: Adobe Campaign – Neues Supporterlebnis für Unternehmen in Vorbereitung
+description: Adobe Campaign – Neues Supporterlebnis für Unternehmen in Vorbereitung
+seo-description: Adobe Campaign – Neues Supporterlebnis für Unternehmen in Vorbereitung
+translation-type: ht
 source-git-commit: c991cbe424e622d24360fcd78640ea3f8079bc84
 
 ---
 
 
-# [!DNL Campaign] - Es wird eine neue Supporterfahrung angezeigt
+# [!DNL Campaign] – Neues Supporterlebnis in Vorbereitung
 
 **21. Oktober 2019**
 
-Wir arbeiten an einigen wichtigen Verbesserungen der Supporterfahrung unserer Adobe Campaign-Kunden. Diese Änderungen, *die wir im April/Mai 2020* planen, ermöglichen Ihrem Unternehmen den Zugriff auf Ihre Servicestufe [!DNL Adobe Customer Support] und eine größere Sichtbarkeit in Ihrer Servicestufe über ein gemeinsames Einstiegsportal.
+Wir arbeiten derzeit an einer Reihe von grundlegenden Verbesserungen des Supports für Kunden von Adobe Campaign. *Voraussichtlich im April/Mai 2020 verfügbar*, ermöglichen es diese Änderungen Ihrem Unternehmen, über ein zentrales Portal auf den [!DNL Adobe Customer Support] zuzugreifen und den Verlauf Ihrer Serviceanfragen besser zu verfolgen.
 
-Wir werden Ihrer Organisation weitere Informationen zur Verfügung stellen, sobald wir der Einführung näher kommen.
+Bis zum Zeitpunkt der Einführung lassen wir Ihnen diesbezüglich regelmäßig weitere Informationen zukommen.
 
-Um zu beginnen, benötigen wir Ihre Hilfe bei der Bestätigung, wer für Ihr Unternehmen Systemadministrator sein wird.
+Zunächst benötigen wir Ihre Hilfe. Bitte bestätigen Sie, wer in Ihrem Unternehmen als Systemadministrator fungiert.
 
 ## AKTION: Systemadministrator bestätigen (Systemadministrator)
 
-Aus unseren Aufzeichnungen geht hervor, dass Sie ein **Systemadministrator in Ihrer Organisation** sind, der für die Verwaltung und Übermittlung von Supportanfragen für diese Adobe-Produkte zuständig ist.
+Aus unseren Aufzeichnungen geht hervor, dass Sie **in Ihrem Unternehmen als Systemadministrator benannt wurden**, der für die Verwaltung und Übermittlung von Supportanfragen für diese Adobe-Produkte zuständig ist.
 
-Als Systemadministrator haben Sie Zugriff auf die [!DNL Adobe Admin Console Support Portal] , die Ihnen Folgendes ermöglicht:
+Als Systemadministrator haben Sie Zugriff auf das [!DNL Adobe Admin Console Support Portal]. Dort können Sie:
 
-* Verbesserte Funktionen zur Fallverwaltung
-* Einfach Gespräche mit [!DNL Adobe Customer Support]
-* Gewähren Sie Support-Benutzern Zugriff auf das Portal
+* verbesserte Funktionen für das Management von Supportanfragen nutzen
+* bequem per Chat mit dem [!DNL Adobe Customer Support] in Kontakt treten
+* Support-Benutzern Zugriff auf das Portal gewähren
 
 >[!NOTE]
->Bitte bestätigen Sie, dass Sie diese Rolle als Systemadministrator für Adobe Campaign-Produkte in Ihrer Organisation akzeptieren (oder eine alternative Kontaktstelle bereitstellen), indem Sie den Antrag bis zum 4. November 2019 ausfüllen und [!DNL System Admin Confirmation Form] einreichen.\
->Durch Ausfüllen dieses Formulars wird sichergestellt, dass die entsprechenden Anmeldeinformationen dem Systemadministrator Ihres Unternehmens zugewiesen werden.
+>Bitte bestätigen Sie, dass Sie in Ihrem Unternehmen als Systemadministrator für Adobe Campaign-Produkte fungieren (oder geben Sie einen anderen Ansprechpartner an), indem Sie das [!DNL System Admin Confirmation Form] bis zum 4. November 2019 ausfüllen und übermitteln.\
+>Durch das Ausfüllen dieses Formulars wird sichergestellt, dass die entsprechenden Anmeldeinformationen dem für Ihr Unternehmen zuständigen Systemadministrator zugewiesen werden.
 
-Nach der Übermittlung der [!DNL System Admin Confirmation Form]Daten sind derzeit keine weiteren Aktionen erforderlich.  Die nächsten Schritte werden wir Anfang 2020 mit den Systemadministratoren in Verbindung setzen.
+Über das Absenden des [!DNL System Admin Confirmation Form] hinaus sind zum gegenwärtigen Zeitpunkt keine weiteren Aktionen Ihrerseits erforderlich.  Zu den nächsten Schritten werden wir uns Anfang 2020 mit den Systemadministratoren in Verbindung setzen.
 
-Für Fragen zu dieser E-Mail kontaktieren Sie uns bitte unter customercare@adobe.com.
+Wenden Sie sich bei Fragen zu dieser E-Mail bitte unter customercare@adobe.com an uns.
 
-Herzlichen Dank und vielen Dank für Ihre Hilfe.
+Vielen Dank für Ihre Unterstützung.
