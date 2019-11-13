@@ -3,7 +3,7 @@ title: '[!DNL Campaign] – Neues Supporterlebnis in Vorbereitung'
 seo-title: Adobe Campaign – Neues Supporterlebnis für Unternehmen in Vorbereitung
 description: Adobe Campaign – Neues Supporterlebnis für Unternehmen in Vorbereitung
 seo-description: Adobe Campaign – Neues Supporterlebnis für Unternehmen in Vorbereitung
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 85695d0bbd02d3ffd2286cdaa643551340b5d09d
 
 ---
@@ -33,7 +33,7 @@ Als Systemadministrator haben Sie Zugriff auf das [!DNL Adobe Admin Console Supp
 >Bitte bestätigen Sie, dass Sie in Ihrem Unternehmen als Systemadministrator für Adobe Campaign-Produkte fungieren (oder geben Sie einen anderen Ansprechpartner an), **indem Sie das [[!DNL System Admin Confirmation Form]](https://adobe.allegiancetech.com/cgi-bin/qwebcorporate.dll?idx=SSSVH6) bis zum 4. November 2019 ausfüllen und übermitteln**.
 >Durch das Ausfüllen dieses Formulars wird sichergestellt, dass die entsprechenden Anmeldeinformationen dem für Ihr Unternehmen zuständigen Systemadministrator zugewiesen werden.
 
-An email confirmation will be sent upon receipt of the [!DNL System Admin Confirmation Form].
+Sobald das [!DNL System Admin Confirmation Form] bei uns eingegangen ist, versenden wir eine entsprechende Bestätigung per E-Mail.
 
 Wenden Sie sich bei Fragen zu dieser E-Mail bitte unter customercare@adobe.com an uns.
 
