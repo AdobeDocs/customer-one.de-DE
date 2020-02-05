@@ -1,7 +1,7 @@
 ---
 title: Adobe Experience Cloud Customer One for Enterprise
-description: Neue Support-Funktion von Adobe
-seo-description: Neue Support-Funktion von Adobe
+description: Neues Adobe-Supporterlebnis
+seo-description: Neues Adobe-Supporterlebnis
 seo-title: Adobe Experience Cloud Customer One for Enterprise
 translation-type: tm+mt
 source-git-commit: 2ec9dd9ee15fa5c66a555fb876315e0697635e90
@@ -9,11 +9,11 @@ source-git-commit: 2ec9dd9ee15fa5c66a555fb876315e0697635e90
 ---
 
 
-# Neue Support-Funktion von Adobe
+# Neues Adobe-Supporterlebnis
 
 Unsere Kunden sind uns wichtig und wir arbeiten daran, die Unterstützung durch den Adobe-Kundendienst zu vereinfachen, wenn unsere Kunden Hilfe benötigen - angefangen bei Adobe Experience Manager- und Campaign-Produkten. Unsere Vision ist es, den Support zu optimieren, indem wir zu einem modernen Einstiegsportal, dem Support-Portal für die Adobe Admin-Konsole, wechseln. Wir planen, diese Änderungen im Mai 2020 durchzuführen.  Sobald Ihre Organisation aktiv ist, kann sie auf den Adobe-Kundensupport zugreifen. Sie erhalten über ein gemeinsames Einstiegsportal eine größere Sichtbarkeit in Ihren Dienstverlauf. und Hilfe per Telefon, Web und Chat über ein einziges Portal anfordern.
 
-Wenn der Termin der Einführung näher rückt, werden wir Ihrer Organisation weitere Informationen zukommen lassen.
+Bis zum Zeitpunkt der Einführung lassen wir Ihnen diesbezüglich regelmäßig weitere Informationen zukommen.
 
 ## Weitere Informationen
 
