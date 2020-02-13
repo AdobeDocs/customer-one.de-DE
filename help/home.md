@@ -3,7 +3,7 @@ title: Adobe Experience Cloud Customer One for Enterprise
 description: Neues Adobe-Supporterlebnis
 seo-description: Neues Adobe-Supporterlebnis
 seo-title: Adobe Experience Cloud Customer One for Enterprise
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 2ec9dd9ee15fa5c66a555fb876315e0697635e90
 
 ---
@@ -11,39 +11,40 @@ source-git-commit: 2ec9dd9ee15fa5c66a555fb876315e0697635e90
 
 # Neues Adobe-Supporterlebnis
 
-Unsere Kunden sind uns wichtig und wir arbeiten daran, die Unterstützung durch den Adobe-Kundendienst zu vereinfachen, wenn unsere Kunden Hilfe benötigen - angefangen bei Adobe Experience Manager- und Campaign-Produkten. Unsere Vision ist es, den Support zu optimieren, indem wir zu einem modernen Einstiegsportal, dem Support-Portal für die Adobe Admin-Konsole, wechseln. Wir planen, diese Änderungen im Mai 2020 durchzuführen.  Sobald Ihre Organisation aktiv ist, kann sie auf den Adobe-Kundensupport zugreifen. Sie erhalten über ein gemeinsames Einstiegsportal eine größere Sichtbarkeit in Ihren Dienstverlauf. und Hilfe per Telefon, Web und Chat über ein einziges Portal anfordern.
+Unsere Kunden sind uns wichtig. Deshalb arbeiten wir daran, dass sie bei Bedarf die Unterstützung des Adobe-Kundendienstes schneller in Anspruch nehmen können. Den Anfang machen die Produkte Adobe Experience Manager und Campaign. Das Supporterlebnis soll durch den Umstieg auf ein modernes Zugangsportal, das Adobe Admin Console Support-Portal, deutlich vereinfacht werden. Die Einführung dieser Änderungen ist für Mai 2020 geplant. Nachdem das System live geschaltet ist, kann Ihre Organisation auf den Adobe-Support zugreifen. Über das zentrale Zugangsportal erhalten Sie einen besseren Einblick in Ihren bisherigen Serviceverlauf und können Hilfe per Telefon, Web und Chat anfordern.
 
 Bis zum Zeitpunkt der Einführung lassen wir Ihnen diesbezüglich regelmäßig weitere Informationen zukommen.
 
 ## Weitere Informationen
 
-Im Februar und März richtet Adobe die neuen Support-Systemadministratoren und Support-Benutzer in diesem Portal ein.  Wenn aus unseren Aufzeichnungen hervorgeht, dass Sie derzeit in der Admin-Konsole von Adobe als Support-Systemadministrator fungieren - oder Ihr Name im Kaufvertrag als Adobe-Kundenkontakt für die Bereitstellung von Adobe Campaign und/oder Adobe Experience Manager in Ihrem Unternehmen aufgeführt wurde, werden Sie als Support-Systemadministrator für Ihr Unternehmen eingerichtet.
+Im Februar und März wird Adobe sowohl die neuen Support-Systemadministratoren als auch die Supportanwender in diesem Portal einrichten.  Wenn aus unseren Unterlagen hervorgeht, dass Sie in der Adobe Admin Console aktuell als Support-Systemadministrator fungieren, oder Ihr Name im Kaufvertrag als Kundenkontakt von Adobe für die Bereitstellung von Adobe Campaign und/oder Adobe Experience Manager in Ihrer Organisation aufgeführt war, werden Sie als Support-Systemadministrator für Ihre Organisation eingerichtet.
 
-Support-Systemadministratoren fungieren in der Admin-Konsole als Superbenutzer und sehen systemgenerierte E-Mails, sobald ein neuer Support-Benutzer erstellt wird.  Darüber hinaus können sie
+Support-Systemadministratoren haben in der Admin Console den Status von Superusern. Sie sehen die vom System generierten E-Mails, wenn ein neuer Supportanwender erstellt wird.  Darüber hinaus können sie:
 
-* Support-Benutzer im Portal erstellen/entfernen und Zugriffsrollen steuern
-* Nutzen Sie die Fallverwaltungswerkzeuge, die die Arbeit mit Support-Fällen bei Adobe erleichtern.
-* Einfach Gespräche mit dem Adobe-Kundendienst aufnehmen
+* Supportanwender im Portal erstellen/entfernen und Zugriffsrollen steuern
+* Von den Vorteilen der Werkzeuge für das Fallmanagement profitieren, die die Zusammenarbeit mit dem Adobe-Support erleichtern
+* Problemlos mit dem Adobe-Support chatten
 
-## Was in den nächsten Monaten zu erwarten ist
+## Der Fahrplan für die nächsten Monate
 
-### Februar - Benutzereinrichtung
+### Februar – Anwendereinrichtung
 
-* Adobe, um bekannten Systemadministrator einzurichten; Vertragskontakte und bekannte Support-Benutzer in neuem System
-* Systemgenerierte E-Mails gesendet - Benutzer richten das System ein und aktivieren nur für die Benutzererstellung/Validierung
+* Adobe richtet bekannte Systemadministratoren, Vertragskontakte und bekannte Supportanwender im neuen System ein.
+* Vom System generierte E-Mails werden verschickt – Anwender werden eingerichtet; das System ist ausschließlich zur Erstellung/Validierung von Anwendern live.
 
-### März - Benutzerüberprüfung
+### März – Anwendervalidierung
 
-* Adobe, um Systemadministrator/Vertragskontakte mit den nächsten Schritten zu kontaktierenSystemadministrator-/Vertragskontakte, um die vorhandenen Support-Benutzer zu validieren und fehlende Support-Benutzer in einem neuen System zu erstellen
+* Adobe kontaktiert Systemadministratoren/Vertragskontakte zur Abstimmung der nächsten Schritte.
+Systemadministratoren/Vertragskontakte validieren die bestehenden Supportanwender und erstellen alle fehlenden Supportanwender in dem neuen System.
 
-### April - Aktivierung
+### April – Aktivierung
 
-* Adobe stellt Lernmaterialien für alle Support-Systembenutzer bereit
-* Systemadministratoren-/Vertragskontakte, um die Einrichtung und die Rollen der Support-Benutzer abzuschließen
+* Adobe stellt für alle Support-Systemanwender Lernmaterialien bereit.
+* Systemadministratoren/Vertragskontakte schließen die Einrichtung und Verteilung der Rollen der Supportanwender ab.
 
-### Mai - Start!
+### Mai – Start!
 
-* Adobe kündigt die Einführung des neuen Systems an
-* Kunden beginnen mit dem neuen System
+* Adobe gibt den Start des neuen Systems bekannt.
+* Kunden können das neue System nutzen.
 
-For questions regarding this email, please contact us at [customercare@adobe.com](mailto:customercare@adobe.com).
+Wenden Sie sich bei Fragen zu dieser E-Mail bitte unter [customercare@adobe.com](mailto:customercare@adobe.com) an uns.
