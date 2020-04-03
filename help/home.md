@@ -1,7 +1,7 @@
 ---
 title: Adobe Experience Cloud Customer One for Enterprise
-description: Neue Support-Funktion von Adobe
-seo-description: Neue Support-Funktion von Adobe
+description: Neues Adobe-Supporterlebnis
+seo-description: Neues Adobe-Supporterlebnis
 seo-title: Adobe Experience Cloud Customer One for Enterprise
 translation-type: tm+mt
 source-git-commit: 7e03c93bc3f92c87c4f2b1a6f8e04d0bb76e55aa
@@ -9,7 +9,7 @@ source-git-commit: 7e03c93bc3f92c87c4f2b1a6f8e04d0bb76e55aa
 ---
 
 
-# Neue Support-Funktion von Adobe
+# Neues Adobe-Supporterlebnis
 
 ## Wir freuen uns, Ihnen den Start des Support-Portals für die Adobe Admin-Konsole im April/Mai 2020 bekannt geben zu können!
 
@@ -47,4 +47,4 @@ E-Mail an [customercare@adobe.com](mailto:customercare@adobe.com) :
 Vor dem 11. Mai können Sie weiterhin die alten [Kampagne Extranet](https://support.neolane.net/webApp/extranetLogin) - oder [Experience Manager Daycare](https://daycare.day.com/home.html) -Fallverwaltungssysteme verwenden.  Nach dem 11. Mai werden Sie zur [Admin-Konsole](https://adminconsole.adobe.com/) umgeleitet, da diese Systeme zu diesem Zeitpunkt stillgelegt werden.
 
 
-For questions regarding this email, please contact us at [customercare@adobe.com](mailto:customercare@adobe.com).
+Wenden Sie sich bei Fragen zu dieser E-Mail bitte unter [customercare@adobe.com](mailto:customercare@adobe.com) an uns.
