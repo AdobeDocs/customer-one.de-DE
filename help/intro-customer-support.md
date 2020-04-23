@@ -1,7 +1,7 @@
 ---
-title: Ankündigung des neuen Adobe-Kundensupport-Erlebnisses
-description: Erste Kundenkommunikation für neues Supporterlebnis
-translation-type: tm+mt
+title: Adobe geht mit neuem Supporterlebnis an den Start
+description: Erste Mitteilung zum neuen Supporterlebnis
+translation-type: ht
 source-git-commit: e98a5930271ee715cc8d634e7ebb39de5ac214b9
 
 ---
