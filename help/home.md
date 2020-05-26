@@ -1,53 +1,53 @@
 ---
 title: Adobe Experience Cloud Customer One for Enterprise
-description: Neues Adobe-Supporterlebnis
-seo-description: Neues Adobe-Supporterlebnis
+description: Neues Adobe-Support-Erlebnis
+seo-description: Neues Adobe-Support-Erlebnis
 seo-title: Adobe Experience Cloud Customer One for Enterprise
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 15f3575335be07de0cf6c2926b5a05f8253f21ef
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '490'
-ht-degree: 51%
+ht-degree: 100%
 
 ---
 
 
-# Neues Adobe-Supporterlebnis
+# Neues Adobe-Support-Erlebnis
 
-## Support-Tickets für die Admin-Konsole
+## Support-Tickets via Admin Console
 
-Wir freuen uns, Ihnen mitteilen zu können, dass die Adobe Customer Support Experience ab dem 11. Mai 2020 verfügbar ist!
+Das neue Adobe-Support-Erlebnis ist seit 11. Mai 2020 live.
 
-Support-Tickets können jetzt über die [Admin-Konsole gesendet werden](https://adminconsole.adobe.com/)
+Ab sofort können Support-Tickets über [Admin Console](https://adminconsole.adobe.com/) eingereicht werden.
 
 Wie bereits angekündigt, implementieren wir schrittweise ein verbessertes System für unseren Produkt-Support, dies als erstes für Adobe Experience Manager und Adobe Campaign. Die Neuerung beinhaltet die Zentralisierung aller Support-Vorgänge in Adobe Admin Console Portal. Dadurch wird Ihre Interaktion mit dem Adobe-Support deutlich vereinfacht. Denn das System vereint Ihren gesamten Serviceverlauf an einer zentralen Stelle, über die Sie fortan auch alle weiteren Support-Anfragen per Telefon, Web und Chat aufgeben können.
 
 ## Was müssen Sie dabei tun?
 
-1. Lesen Sie die Inhalte zur Aktivierung der Admin-Konsole [Erste Schritte](https://helpx.adobe.com/de/enterprise/get-started.html), [Benutzerhandbuch](https://helpx.adobe.com/de/enterprise/managing/user-guide.html) und lernen Sie, wie Supportfälle [erstellt und verwaltet werden](https://helpx.adobe.com/enterprise/using/support-and-expert-services.html)
+1. Gehen Sie die [ersten Schritte](https://helpx.adobe.com/de/enterprise/get-started.html) und das [Benutzerhandbuch](https://helpx.adobe.com/de/enterprise/managing/user-guide.html) zu Admin Console durch und machen Sie sich damit vertraut, wie Sie [Support-Tickets erstellen und verwalten](https://helpx.adobe.com/de/enterprise/using/support-and-expert-services.html).
 1. Melden Sie sich bei [Admin Console](https://adminconsole.adobe.com/) an und überprüfen Sie, ob Sie Zugriff haben.
 1. Wenn Sie Systemadministrator sind, überprüfen Sie, ob die Support-Benutzer für Ihr Unternehmen korrekt migriert wurden, und validieren Sie diese. Näheres hierzu finden Sie auf den Seiten [Benutzerverwaltung](https://helpx.adobe.com/de/enterprise/using/users.html) und [Verwaltung von Team-Konten](https://helpx.adobe.com/de/enterprise/using/accounts.html).
 
-## Was ist mit den alten Systemen?
+## Was geschieht mit den früheren Systemen?
 
-Neue Tickets/Fälle können ab dem 11. Mai nicht mehr in Legacy-Systemen eingereicht werden.  Die [Admin-Konsole](https://adminconsole.adobe.com/) wird zum Senden neuer Tickets/Fälle verwendet.
+Neue Tickets/Fälle können ab dem 11. Mai nicht mehr über die früheren Systeme eingereicht werden.  Fortan wird zum Einreichen neuer Tickets/Fälle nur noch [Admin Console](https://adminconsole.adobe.com/) verwendet.
 
-### Vorhandene Tickets/Fälle
+### Bestehende Tickets/Fälle
 
-* Zwischen dem 11. Mai und dem 20. Mai bleiben die alten Systeme für die Bearbeitung von Eintrittskarten/Fällen bis zur Fertigstellung verfügbar.
-* Ab dem 20. Mai migriert das Supportteam die verbleibenden offenen Fälle von den alten Systemen auf die neue Supporterfahrung.  Sie erhalten eine E-Mail-Benachrichtigung darüber, wie Sie den Support kontaktieren können, um diese Fälle weiterzubearbeiten.
+* Die früheren Systeme bleiben vom 11. Mai bis 20. Mai verfügbar, um bestehende Tickets/Fälle abzuschließen.
+* Alle ab dem 20. Mai noch in früheren Systemen bestehenden Fälle migriert das Support-Team zur neuen Support-Umgebung.  Sie werden per E-Mail darüber benachrichtigt, wie Sie den Support betreffend die weitere Bearbeitung dieser Fälle kontaktieren können.
 
 ### Fallverlauf
 
-Die Geschichte der geschlossenen Fälle ist für die Support-Mitarbeiter von Adobe sichtbar.  Wenn Sie Hilfe bei einem geschlossenen Fall benötigen, lesen Sie bitte die Hilfe bei Bedarf. unten.
+Die Protokolle zu geschlossenen Fällen sind für die Support-Teams von Adobe einsehbar.  Sofern Sie Unterstützung bei einem geschlossenen Fall benötigen, lesen Sie den Abschnitt „Sie benötigen Hilfe?“ unten.
 
 ## Sie benötigen Hilfe?
 
 Sollten nach dem Go-Live Probleme bei Ihnen auftreten, etwa in Bezug auf die Anmeldung beim neuen Tool, können Sie über folgende Kanäle Unterstützung anfordern:
 
-### Option 1: Ticket übermitteln
+### Option 1: Support-Ticket einreichen
 
-Wenden Sie sich an uns, indem Sie ein Ticket aus der [Experience League](https://experienceleague.adobe.com/?support-solution=General#support) einloggen und unter anderem:
+Nehmen Sie Kontakt zu uns auf, indem Sie über [Experience League](https://experienceleague.adobe.com/?support-solution=General&amp;lang=de#support) ein Support-Ticket einreichen, das folgende Angaben enthält:
 
 * Kontaktdaten: Name, E-Mail-Adresse, Telefonnummer
 * Unternehmensname
@@ -57,6 +57,6 @@ Wenden Sie sich an uns, indem Sie ein Ticket aus der [Experience League](https:/
 
 ### Option 2: Bis zum 11. Mai
 
-Noch bis zum 11. Mai können Sie die bisherigen Support-Systeme [Campaign Extranet](https://support.neolane.net/webApp/extranetLogin) bzw. [Experience Manager Daycare](https://daycare.day.com/home.html) verwenden.  After May 11th you will be redirected to the [Admin Console](https://adminconsole.adobe.com/) as these systems will not be accepting new cases.
+Noch bis zum 11. Mai können Sie die bisherigen Support-Systeme [Campaign Extranet](https://support.neolane.net/webApp/extranetLogin) bzw. [Experience Manager Daycare](https://daycare.day.com/home.html) verwenden.  Mit Ablauf des 11. Mai können über diese Systeme keine neuen Fälle mehr eröffnet werden und Sie werden fortan zu [Admin Console](https://adminconsole.adobe.com/) weitergeleitet.
 
-Für Fragen zu dieser E-Mail kontaktieren Sie uns bitte, indem Sie ein Ticket von [Experience League](https://experienceleague.adobe.com/?support-solution=General#support)einloggen.
+Bei Fragen zu dieser E-Mail kontaktieren Sie uns bitte, indem Sie über [Experience League](https://experienceleague.adobe.com/?support-solution=General&amp;lang=de#support) ein Support-Ticket einreichen.
