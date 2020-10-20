@@ -6,7 +6,7 @@ source-wordcount: '94'
 ht-degree: 12%
 
 ---
-# Inhalt für die Migration zu Customer One for Enterprise (Parkour X Project)
+# Inhalt für die Migration zu Customer One for Enterprise (Parkour X-Projekt)
 
 | EXL-PR | EXL | Vorschau | Aktivieren | Veröffentlicht | Hilfe |
 |--- |--- |--- |--- |--- |--- |
