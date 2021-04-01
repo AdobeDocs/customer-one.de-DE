@@ -7,8 +7,8 @@ user-guide-title: '[!DNL Customer One for Enterprise] Hilfe'
 translation-type: tm+mt
 source-git-commit: 50698f35a69ce3a34b41e54d6e38e05c35490351
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '8'
+ht-degree: 100%
 
 ---
 
@@ -16,6 +16,6 @@ ht-degree: 0%
 # [!DNL Customer One for Enterprise] {#using}
 
 + [Einführung](home.md)
-+ Referenz-Dokumente {#ref-docs}
-   + [Vorherige Mitteilung](intro-customer-support.md)
++ Referenzen {#ref-docs}
+   + [Vorherige Ankündigung](intro-customer-support.md)
 
