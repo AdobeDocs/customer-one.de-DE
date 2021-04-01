@@ -1,11 +1,14 @@
 ---
-cloud: experience-cloud
+cloud: Experience Cloud
 product: experience cloud
 sub-product: customer one
 audience: end-user
-user-guide-title: '[!DNL Customer One for Enterprise] – Hilfe'
-translation-type: ht
-source-git-commit: ff1e660b4e6661d1b51bd91fd9d277eb5fd947a4
+user-guide-title: '[!DNL Customer One for Enterprise] Hilfe'
+translation-type: tm+mt
+source-git-commit: 50698f35a69ce3a34b41e54d6e38e05c35490351
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -13,6 +16,6 @@ source-git-commit: ff1e660b4e6661d1b51bd91fd9d277eb5fd947a4
 # [!DNL Customer One for Enterprise] {#using}
 
 + [Einführung](home.md)
-+ Referenzen {#ref-docs}
-   + [Vorherige Ankündigung](intro-customer-support.md)
++ Referenz-Dokumente {#ref-docs}
+   + [Vorherige Mitteilung](intro-customer-support.md)
 
