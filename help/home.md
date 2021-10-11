@@ -5,10 +5,10 @@ description: Neues Adobe-Support-Erlebnis
 seo-description: New Adobe Customer Support Experience
 seo-title: Adobe Experience Cloud Customer One for Enterprise
 exl-id: 276e0862-6f7e-491e-b63e-10a50b7238c2
-source-git-commit: f7c0d0ba6f3ea2bcf5b4dfd9fd138a3d011162b7
+source-git-commit: acb06781b0e56e6222394b1736fbf8a80ee2aab8
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '611'
+ht-degree: 24%
 
 ---
 
@@ -58,7 +58,7 @@ Auf der nächsten Seite können Sie Kontaktinformationen ausfüllen und die best
 
 ## Was geschieht mit den früheren Systemen?
 
-Neue Tickets/Fälle können ab dem 11. Mai nicht mehr über die früheren Systeme eingereicht werden.  Fortan wird zum Einreichen neuer Tickets/Fälle nur noch [Admin Console](https://adminconsole.adobe.com/) verwendet.
+Neue Tickets/Fälle können ab dem 11. Mai nicht mehr in alten Systemen eingereicht werden.  Fortan wird zum Einreichen neuer Tickets/Fälle nur noch [Admin Console](https://adminconsole.adobe.com/) verwendet.
 
 ### Bestehende Tickets/Fälle
 
