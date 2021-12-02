@@ -1,67 +1,67 @@
 ---
-keywords: Unterstützung der Experience Platform; Plattformunterstützung; Unterstützung intelligenter Dienste; Kundenunterstützung; Unterstützung der Attribution; rtcdp-Unterstützung; Support-Ticket einreichen; Support-Ticket
+keywords: Unterstützung für Experience Platform;Unterstützung für Platform;Unterstützung für intelligente Services;Unterstützung für Kunden-KI;Unterstützung für Attributions-KI;Unterstützung für RTCDP;Support-Ticket senden;Kunden-Support
 title: Adobe Experience Cloud Customer One for Enterprise
-description: Neue Support-Funktion von Adobe
+description: Neues Adobe-Support-Erlebnis
 seo-description: New Adobe Customer Support Experience
 seo-title: Adobe Experience Cloud Customer One for Enterprise
 exl-id: 276e0862-6f7e-491e-b63e-10a50b7238c2
 source-git-commit: acb06781b0e56e6222394b1736fbf8a80ee2aab8
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '611'
-ht-degree: 1%
+ht-degree: 100%
 
 ---
 
-# Adobe-Kundensupport-Erlebnis
+# Adobe-Support-Erlebnis
 
-## Support-Tickets für Admin Consolen
+## Support-Tickets via Admin Console
 
-Support-Tickets können jetzt über die [Admin Console](https://adminconsole.adobe.com/) gesendet werden. Anweisungen zum Senden eines Support-Tickets finden Sie im Abschnitt [Senden eines Support-Tickets](#submit-ticket).
+Ab sofort können Support-Tickets über die [Admin Console](https://adminconsole.adobe.com/) gesendet werden. Anweisungen zum Senden eines Support-Tickets finden Sie im Abschnitt [Senden eines Support-Tickets](#submit-ticket).
 
-Wie zuvor freigegeben, arbeiten wir daran, die Interaktion mit dem Adobe-Support zu verbessern, angefangen bei Adobe Experience Manager- und Campaign-Produkten. Unsere Vision ist es, das Supporterlebnis mithilfe der Adobe Admin Console zu einem einzigen Einstiegspunkt zu optimieren. Sobald Ihre Organisation live ist, kann sie einfach auf den Adobe-Support zugreifen. über ein gemeinsames System für alle Produkte einen besseren Einblick in Ihren Serviceverlauf erhalten; und Hilfe per Telefon, Web und Chat über ein einzelnes Portal anfordern.
+Wie bereits angekündigt, implementieren wir schrittweise ein verbessertes System für unseren Produkt-Support, dies als erstes für Adobe Experience Manager und Adobe Campaign. Die Neuerung beinhaltet die Zentralisierung aller Support-Vorgänge in Adobe Admin Console Portal. Dadurch wird Ihre Interaktion mit dem Adobe-Support deutlich vereinfacht. Denn das System bündelt Ihren gesamten Service-Verlauf an einer zentralen Stelle, über die Sie fortan auch alle weiteren Support-Anfragen per Telefon, Web und Chat aufgeben können.
 
-## Senden eines Support-Tickets für Admin Consolen {#submit-ticket}
+## Senden eines Support-Tickets über die Admin Console {#submit-ticket}
 
-Um ein Support-Ticket in [Admin Console](https://adminconsole.adobe.com/) einzureichen, muss ein Systemadministrator die Rolle &quot;Support-Administrator&quot;zugewiesen haben. Nur ein Systemadministrator in Ihrem Unternehmen kann diese Rolle zuweisen. Produkt-, Produktprofil- und andere Administratorrollen können die Administratorrolle &quot;Support&quot;nicht zuweisen und können die Option **[!UICONTROL Fall erstellen]** nicht anzeigen, die zum Senden eines Support-Tickets verwendet wird. Weitere Informationen finden Sie in der [Dokumentation zur Kundenunterstützung für Unternehmen und Teams](https://helpx.adobe.com/enterprise/using/support-and-expert-services.html).
+Damit Sie ein Support-Ticket über die [Admin Console](https://adminconsole.adobe.com/) senden können, muss Ihnen von einem Systemadministrator die Support-Administratorrolle zugewiesen werden. Nur ein Systemadministrator in Ihrem Unternehmen kann diese Rolle zuweisen. Produkt-, Produktprofil- und andere Administratorrollen können die Support-Administratorrolle nicht zuweisen und können die Option **[!UICONTROL Anfrage erstellen]** nicht anzeigen, die zum Senden eines Support-Tickets verwendet wird. Weitere Informationen finden Sie in der Dokumentation [Kundenunterstützung für Unternehmen und Teams](https://helpx.adobe.com/de/enterprise/using/support-and-expert-services.html).
 
-### Zuweisen der Administratorrolle &quot;Support&quot;
+### Zuweisen der Support-Administratorrolle
 
-Die Administratorrolle &quot;Support&quot;ist eine nicht administrative Rolle, die Zugriff auf unterstützungsbezogene Informationen hat. Support-Administratoren können Problemberichte anzeigen, erstellen und verwalten.
+Die Support-Administratorrolle ist eine nicht administrative Rolle, die Zugriff auf Support-bezogene Informationen hat. Support-Administratoren können Problemberichte anzeigen, erstellen und verwalten.
 
-Um die Rolle &quot;Support-Administrator&quot;zuzuweisen, befolgen Sie die Anweisungen [Unternehmensadministratorrolle bearbeiten](https://helpx.adobe.com/enterprise/using/admin-roles.html#add-admin-teams) in der Dokumentation zu Administratorrollen . Beachten Sie, dass nur ein Systemadministrator für Ihre Organisation diese Rolle zuweisen kann. Weitere Informationen zur Verwaltungshierarchie finden Sie in der Dokumentation [Admin-Rollen](https://helpx.adobe.com/enterprise/admin-guide.html/enterprise/using/admin-roles.ug.html) .
+Um die Support-Administratorrolle zuzuweisen folgen Sie den Anweisungen unter [Zuweisen der Unternehmensadministratorrolle bearbeiten](https://helpx.adobe.com/de/enterprise/using/admin-roles.html#add-admin-teams) in der Dokumentation zu Administratorrollen. Beachten Sie, dass nur ein Systemadministrator für Ihr Unternehmen diese Rolle zuweisen kann. Weitere Informationen zur Administrationshierarchie finden Sie in der Dokumentation zu [Administratorrollen](https://helpx.adobe.com/de/enterprise/admin-guide.html/enterprise/using/admin-roles.ug.html).
 
-### Support-Ticket mit Admin Console erstellen
+### Erstellen eines Support-Tickets über die Admin Console
 
-Um ein Ticket mit [Admin Console](https://adminconsole.adobe.com/) zu erstellen, wählen Sie die Registerkarte **[!UICONTROL Support]** im oberen Navigationsbereich aus. Die Seite [!UICONTROL Support Summary] wird angezeigt. Wählen Sie als Nächstes die Option **[!UICONTROL Create Case]** aus.
+Um ein Ticket mit der [Admin Console](https://adminconsole.adobe.com/) zu erstellen, wählen Sie die Registerkarte **[!UICONTROL Support]** in der oberen Navigation. Die [!UICONTROL Support-Zusammenfassung] wird angezeigt. Wählen Sie anschließend die Option **[!UICONTROL Anfrage erstellen]**.
 
 >[!TIP]
 >
-> Wenn die Option **[!UICONTROL Fall erstellen]** oder die Registerkarte **[!UICONTROL Support]** nicht angezeigt werden kann, müssen Sie sich an einen Systemadministrator wenden, um die Administratorrolle &quot;Support&quot;zuzuweisen.
+> Wenn Sie die Option **[!UICONTROL Anfrage erstellen]** oder die Registerkarte **[!UICONTROL Support]** nicht sehen, müssen Sie einen Systemadministrator kontaktieren, damit er Ihnen die Support-Administratorrolle zuweist.
 
-![Registerkarte &quot;Admin Console-Support&quot;](./assets/Support.png)
+![Registerkarte „Admin Console-Support“](./assets/Support.png)
 
-Ein Dialogfeld wird angezeigt, in dem Sie einen Problemtyp auswählen können. Wählen Sie den Problemtyp aus, der Ihr Problem oder Ihre Frage am besten beschreibt, und wählen Sie dann unten rechts **[!UICONTROL Fall erstellen]** aus.
+Ein Dialogfeld wird angezeigt, in dem Sie einen Problemtyp auswählen können. Wählen Sie den Problemtyp aus, der Ihr Problem oder Ihre Frage am besten beschreibt, und wählen Sie dann **[!UICONTROL Anfrage erstellen]** unten rechts.
 
 ![Problem auswählen](./assets/select-case-type.png)
 
-Das Dialogfeld **[!UICONTROL Create Case]** wird angezeigt. Sie werden gebeten, einige Informationen wie das Produkt, die Priorität, die Beschreibung und Screenshots anzufügen, die Ihnen helfen, das Problem zu beschreiben. Wählen Sie **[!UICONTROL Next]** aus, um fortzufahren.
+Das Dialogfeld **[!UICONTROL Anfrage erstellen]** wird angezeigt. Sie werden gebeten, einige Informationen wie das Produkt, die Priorität, die Beschreibung und Screenshots anzufügen, um das Problem genauer zu beschreiben. Wählen Sie **[!UICONTROL Weiter]**, um fortzufahren.
 
-![Fall erstellen](./assets/create_case.png)
+![Anfrage erstellen](./assets/create_case.png)
 
 >[!NOTE]
 >
 > Führt das Problem zu Ausfällen oder extrem schwerwiegenden Unterbrechungen eines Produktionssystems, wird eine Telefonnummer zur sofortigen Unterstützung bereitgestellt.
 
-Auf der nächsten Seite können Sie Kontaktinformationen ausfüllen und die beste Zeit für die Kontaktaufnahme mit Ihnen durch den Adobe-Support bereitstellen. Wählen Sie nach Abschluss **[!UICONTROL Submit]** unten rechts aus und Ihr Ticket wird an den Adobe-Support gesendet.
+Auf der nächsten Seite können Sie Kontaktinformationen ausfüllen und die beste Zeit für die Kontaktaufnahme durch den Adobe-Support angeben. Wählen Sie nach Abschluss **[!UICONTROL Senden]** unten rechts und Ihr Ticket wird an den Adobe-Support gesendet.
 
-![Einreichen eines Tickets](./assets/submit_case.png)
+![Ticket senden](./assets/submit_case.png)
 
-## Was ist mit den alten Systemen?
+## Was geschieht mit den früheren Systemen?
 
-Neue Tickets/Fälle können ab dem 11. Mai nicht mehr in alten Systemen eingereicht werden.  Die [Admin Console](https://adminconsole.adobe.com/) wird zum Senden neuer Tickets/Fälle verwendet.
+Neue Tickets/Fälle können ab dem 11. Mai nicht mehr über die früheren Systeme gesendet werden. Fortan wird zum Senden neuer Tickets/Fälle nur noch die [Admin Console](https://adminconsole.adobe.com/) verwendet.
 
 ### Bestehende Tickets/Fälle
 
-* Zwischen dem 11. Mai und dem 20. Mai bleiben die alten Systeme verfügbar, um vorhandene Tickets/Fälle bis zur Fertigstellung zu bearbeiten.
-* Ab dem 20. Mai migriert das Supportteam die verbleibenden offenen Fälle von den alten Systemen zur neuen Supporterfahrung.  Sie erhalten eine E-Mail-Benachrichtigung darüber, wie Sie den Support kontaktieren können, um diese Fälle weiterzuführen.
+* Die früheren Systeme bleiben vom 11. Mai bis 20. Mai verfügbar, um bestehende Tickets/Fälle abzuschließen.
+* Alle ab dem 20. Mai noch in früheren Systemen bestehenden Fälle migriert das Support-Team zur neuen Support-Umgebung.  Sie werden per E-Mail darüber benachrichtigt, wie Sie den Support betreffend die weitere Bearbeitung dieser Fälle kontaktieren können.
 
