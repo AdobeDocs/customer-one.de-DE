@@ -3,10 +3,10 @@ title: Ankündigung des neuen Adobe-Supporterlebnisses
 description: Kundenkommunikation für neues Supporterlebnis
 hide: true
 hidefromtoc: true
-source-git-commit: 4bd3f83f5142f53d24cfe1bdaaed4d4507fc0687
+source-git-commit: d81a6d3edb3ff82e49162db4cd00923e20dba28f
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '455'
+ht-degree: 5%
 
 ---
 
@@ -38,7 +38,7 @@ Darüber hinaus können Support-Systemadministratoren:
 
 ## Was Sie als Nächstes erwarten können
 
-**Februar/März - Benutzereinrichtung**
+**Februar/März 2022 - Benutzereinrichtung**
 
 * Einrichtung bekannter Support-Benutzer im Portal-System als Support-Administratoren
 * Systemgenerierte E-Mails werden an von Adobe eingerichtete Benutzer gesendet
@@ -47,7 +47,7 @@ Darüber hinaus können Support-Systemadministratoren:
 >
 >Zum jetzigen Zeitpunkt ist das Portal noch nicht aktiv, um Support-Anfragen einzureichen.
 
-**April - Aktivierung**
+**April 2022 - Aktivierung**
 
 * Lernmaterialien werden allen Portalsystembenutzern zur Verfügung gestellt
 * Systemadministrator/benannte Kontakte, um die Einrichtung und die Rollen der Supportanwender abzuschließen
