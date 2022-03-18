@@ -1,21 +1,21 @@
 ---
-title: Ankündigung des neuen Adobe-Supporterlebnisses
+title: Adobe geht mit neuem Supporterlebnis an den Start
 description: Kundenkommunikation für neues Supporterlebnis
 hide: true
 hidefromtoc: true
-source-git-commit: d81a6d3edb3ff82e49162db4cd00923e20dba28f
+exl-id: 6d0653a9-3a2a-4747-b8ec-bea48597cf01
+source-git-commit: 55c49665c29ad3a5ac6613ddee19368dbf31e3f1
 workflow-type: tm+mt
 source-wordcount: '455'
-ht-degree: 5%
+ht-degree: 17%
 
 ---
 
-
-# Neue Support-Funktion von Adobe
+# Neues Adobe-Support-Erlebnis
 
 Wir kümmern uns um unsere Kunden und arbeiten daran, die Adobe-Kundenunterstützung zu unterstützen, wenn unsere Kunden Hilfe benötigen. Adobe verbessert die Art und Weise, wie Sie Kundenunterstützung für Adobe Analytics, Target und Audience Manager erhalten, indem es das Erlebnis über ein zentrales Portal, die Adobe Admin Console, optimiert. Diese Transition ermöglicht einen besseren Überblick über Ihren Serviceverlauf und ermöglicht es Ihnen, über eine gemeinsame Plattform Support per Telefon, Web und Chat anzufordern. Diese Änderungen sollen im April 2022 stattfinden.
 
-Wenn der Termin der Einführung näher rückt, werden wir Ihrer Organisation weitere Informationen zukommen lassen.
+Bis zum Zeitpunkt der Einführung lassen wir Ihnen diesbezüglich regelmäßig weitere Informationen zukommen.
 
 ## Weitere Informationen
 
@@ -26,15 +26,15 @@ Im Februar und März 2022 richtet Adobe sowohl die neuen Support-Systemadministr
 
 Support-Systemadministratoren und Administratoren des Kundendienstes sehen systemgenerierte E-Mails, da Supportanwender in Admin Console erstellt werden. Beide Benutzerrollen können:
 
-* Nutzen Sie die Fallverwaltungswerkzeuge, die die Arbeit mit Support-Fällen bei der Adobe-Kundenunterstützung erleichtern.
-* bequem per Chat mit dem Adobe-Kundensupport für Adobe Analytics kommunizieren
+* Von den Vorteilen der Werkzeuge für das Fallmanagement profitieren, die die Zusammenarbeit mit dem Adobe-Support erleichtern
+* Problemlos mit dem Adobe-Support chatten für Adobe Analytics
 * Mehr Einsicht in Ihren Serviceverlauf
 * Durchsuchen Sie beliebte Hilfethemen und -foren.
 
 Darüber hinaus können Support-Systemadministratoren:
 
 * Supportanwender im Portal erstellen/entfernen und Zugriffsrollen steuern
-* Überprüfen und validieren Sie die Supportanwender in Ihrem Unternehmen auf Genauigkeit. (Weitere Informationen finden Sie unter: [Verwalten von Benutzern](https://helpx.adobe.com/enterprise/using/users.html) und [Verwalten von Teams-Konten](https://helpx.adobe.com/enterprise/using/accounts.html).
+* Überprüfen und validieren Sie die Supportanwender in Ihrem Unternehmen auf Genauigkeit. (Weitere Informationen finden Sie unter: [Verwalten von Benutzern](https://helpx.adobe.com/de/enterprise/using/users.html) und [Verwalten von Teams-Konten](https://helpx.adobe.com/de/enterprise/using/accounts.html).
 
 ## Was Sie als Nächstes erwarten können
 
