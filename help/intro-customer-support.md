@@ -1,10 +1,10 @@
 ---
-title: Ankündigung des neuen Adobe-Supporterlebnisses
+title: Ankündigung des neuen Adobe-Supporterlebnisses (vorherige Ankündigung)
 description: Erste Kundenkommunikation für neues Supporterlebnis
 hide: true
 hidefromtoc: true
 exl-id: bf78dd9e-a47e-4251-8b47-795032a7a673
-source-git-commit: e1bfb9d03312ddd5417672384fe0ca12376c1783
+source-git-commit: 03a17fde256c9249664da170489d4ff8707fc5aa
 workflow-type: tm+mt
 source-wordcount: '0'
 ht-degree: 0%
