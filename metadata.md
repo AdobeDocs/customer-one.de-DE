@@ -2,16 +2,16 @@
 cloud: Experience Cloud
 solution: Experience Cloud
 git-repo: https://github.com/AdobeDocs/customer-one.de-DE
-index: false
-source-git-commit: 03a17fde256c9249664da170489d4ff8707fc5aa
+index: true
+source-git-commit: cab19c7570a9e87a63750bab62036758654ecdae
 workflow-type: tm+mt
 source-wordcount: '111'
-ht-degree: 100%
+ht-degree: 96%
 
 ---
 
 
-# Metadaten für den internen Gebrauch
+# Metadaten für den internen Gebrauch.
 
 Die Datei „metadata.md“ enthält Metadaten auf Repository-Ebene, die an die für Benutzerhandbücher verwendeten Dateien namens „TOC.md“ im Repository übergeben werden. Änderungen des Inhalts von „metadata.md“ für ein Benutzerhandbuch können Sie bei Bedarf in der entsprechenden TOC.md-Datei vornehmen.
 
