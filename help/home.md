@@ -6,9 +6,9 @@ seo-description: New Adobe Customer Support Experience
 seo-title: Adobe Experience Cloud Customer One for Enterprise
 exl-id: 276e0862-6f7e-491e-b63e-10a50b7238c2
 source-git-commit: c08b51519488f37adc85b9686810726b8803dec8
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '664'
-ht-degree: 76%
+ht-degree: 100%
 
 ---
 
@@ -22,16 +22,16 @@ Wir arbeiten daran, die Interaktion mit dem Adobe-Kunden-Support zu verbessern. 
 
 ## Benötigen Sie Hilfe mit der neuen Support-Plattform?
 
-Wir bieten eine Reihe von Online-Meetings an, in denen Kunden ihre Fragen zum neuen Support-Prozess stellen können. Wählen Sie eine oder mehrere zum Beitritt aus:
+Wir bieten eine Reihe von Online-Meetings an, in denen Kunden ihre Fragen zum neuen Support-Prozess stellen können. Nehmen Sie an einem oder mehreren teil:
 
-| Datum und Uhrzeit | Registrierungslink |
+| Datum und Uhrzeit | Registrierungs-Link |
 |--- |--- |
-| Donnerstag, 7. April um 8 Uhr PT | [Ereignislink](https://event.on24.com/wcc/r/3723732/5288A3B031AD858BF241EB0C0057CD85) |
-| Donnerstag, 7. April um 17 Uhr PT | [Ereignislink](https://event.on24.com/wcc/r/3723733/286EFEA9E8D9B6BB49464862F5414B8C) |
-| Mittwoch, 20. April um 8 Uhr PT | [Ereignislink](https://event.on24.com/wcc/r/3712143/05DAF046E4BB864E7C313B056ADE4EB2) |
-| Mittwoch, 20. April um 17 Uhr PT | [Ereignislink](https://event.on24.com/wcc/r/3723740/A9EDA45FA61D3FFC4BF713419B677F16) |
-| Donnerstag, 21. April um 8 Uhr PT | [Ereignislink](https://event.on24.com/wcc/r/3723741/C7EBCD38583D4D7AFCBD56029EB17C98) |
-| Donnerstag, 21. April um 17 Uhr PT | [Ereignislink](https://event.on24.com/wcc/r/3723743/6F41ED2648A621F1419A56F0A52F4446) |
+| Donnerstag, 7. April, 8:00 Uhr PT | [Link zum Event](https://event.on24.com/wcc/r/3723732/5288A3B031AD858BF241EB0C0057CD85) |
+| Donnerstag, 7. April, 17:00 Uhr PT | [Link zum Event](https://event.on24.com/wcc/r/3723733/286EFEA9E8D9B6BB49464862F5414B8C) |
+| Mittwoch, 20. April, 8:00 Uhr PT | [Link zum Event](https://event.on24.com/wcc/r/3712143/05DAF046E4BB864E7C313B056ADE4EB2) |
+| Mittwoch, 20. April, 17:00 Uhr PT | [Link zum Event](https://event.on24.com/wcc/r/3723740/A9EDA45FA61D3FFC4BF713419B677F16) |
+| Donnerstag, 21. April, 8:00 Uhr PT | [Link zum Event](https://event.on24.com/wcc/r/3723741/C7EBCD38583D4D7AFCBD56029EB17C98) |
+| Donnerstag, 21. April, 17:00 Uhr PT | [Link zum Event](https://event.on24.com/wcc/r/3723743/6F41ED2648A621F1419A56F0A52F4446) |
 
 {style=&quot;table-layout:auto&quot;}
 
