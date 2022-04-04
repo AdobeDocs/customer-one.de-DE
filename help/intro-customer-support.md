@@ -1,13 +1,13 @@
 ---
-title: Ankündigung des neuen Adobe-Supporterlebnisses (vorherige Ankündigung)
+title: Adobe geht mit neuem Support-Erlebnis an den Start (frühere Ankündigung)
 description: Erste Mitteilung zum neuen Support-Erlebnis
 hide: true
 hidefromtoc: true
 exl-id: bf78dd9e-a47e-4251-8b47-795032a7a673
 source-git-commit: 03a17fde256c9249664da170489d4ff8707fc5aa
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '389'
+ht-degree: 100%
 
 ---
 
