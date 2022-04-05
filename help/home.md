@@ -5,9 +5,9 @@ description: Neues Adobe-Support-Erlebnis
 seo-description: New Adobe Customer Support Experience
 seo-title: Adobe Experience Cloud Customer One for Enterprise
 exl-id: 276e0862-6f7e-491e-b63e-10a50b7238c2
-source-git-commit: c08b51519488f37adc85b9686810726b8803dec8
-workflow-type: ht
-source-wordcount: '664'
+source-git-commit: c0035e17cc1ca97ac511aff3515b7a8f7866f32d
+workflow-type: tm+mt
+source-wordcount: '646'
 ht-degree: 100%
 
 ---
@@ -37,13 +37,13 @@ Wir bieten eine Reihe von Online-Meetings an, in denen Kunden ihre Fragen zum ne
 
 ## Senden eines Support-Tickets über die Admin Console {#submit-ticket}
 
-Damit Sie ein Support-Ticket über die [Admin Console](https://adminconsole.adobe.com/) senden können, muss Ihnen von einem Systemadministrator die Support-Administratorrolle zugewiesen werden. Nur ein Systemadministrator in Ihrem Unternehmen kann diese Rolle zuweisen. Produkt-, Produktprofil- und andere Administratorrollen können die Support-Administratorrolle nicht zuweisen und können die Option **[!UICONTROL Anfrage erstellen]** nicht anzeigen, die zum Senden eines Support-Tickets verwendet wird. Weitere Informationen finden Sie in der Dokumentation [Kundenunterstützung für Unternehmen und Teams](https://helpx.adobe.com/de/enterprise/using/support-and-expert-services.html).
+Damit Sie ein Support-Ticket über die [Admin Console](https://adminconsole.adobe.com/) senden können, muss Ihnen von einem Systemadministrator die Support-Administratorrolle zugewiesen werden. Nur ein Systemadministrator in Ihrem Unternehmen kann diese Rolle zuweisen. Produkt-, Produktprofil- und andere Administratorrollen können die Support-Administratorrolle nicht zuweisen und können die Option **[!UICONTROL Anfrage erstellen]** nicht anzeigen, die zum Senden eines Support-Tickets verwendet wird. Weitere Informationen finden Sie in der Dokumentation [Kundenunterstützung für Unternehmen und Teams](customer-care.md).
 
 ### Zuweisen der Support-Administratorrolle
 
 Die Support-Administratorrolle ist eine nicht administrative Rolle, die Zugriff auf Support-bezogene Informationen hat. Support-Administratoren können Problemberichte anzeigen, erstellen und verwalten.
 
-Um die Support-Administratorrolle zuzuweisen folgen Sie den Anweisungen unter [Zuweisen der Unternehmensadministratorrolle bearbeiten](https://helpx.adobe.com/de/enterprise/using/admin-roles.html#add-admin-teams) in der Dokumentation zu Administratorrollen. Beachten Sie, dass nur ein Systemadministrator für Ihr Unternehmen diese Rolle zuweisen kann. Weitere Informationen zur Administrationshierarchie finden Sie in der Dokumentation zu [Administratorrollen](https://helpx.adobe.com/de/enterprise/admin-guide.html/enterprise/using/admin-roles.ug.html).
+Um die Support-Administratorrolle zuzuweisen folgen Sie den Anweisungen unter [Zuweisen der Unternehmensadministratorrolle bearbeiten](admin-roles.md#add-admin-teams) in der Dokumentation zu Administratorrollen. Beachten Sie, dass nur ein Systemadministrator für Ihr Unternehmen diese Rolle zuweisen kann. Weitere Informationen zur Administrationshierarchie finden Sie in der Dokumentation zu [Administratorrollen](admin-roles.md).
 
 ### Erstellen eines Support-Tickets über die Admin Console
 
