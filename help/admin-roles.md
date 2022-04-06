@@ -1,13 +1,13 @@
 ---
 title: Administratorrollen
 description: Mithilfe der Adobe Admin Console können Unternehmen eine flexible Verwaltungshierarchie definieren, die eine differenzierte Verwaltung des Produktzugriffs und der Verwendung von Adobe ermöglicht.
-source-git-commit: c0035e17cc1ca97ac511aff3515b7a8f7866f32d
+exl-id: bfee66b5-d7bb-4ecb-8d22-efb68611ecc8
+source-git-commit: 6fcd91d09ffc23047b2fb332af256ab7706355cd
 workflow-type: tm+mt
-source-wordcount: '1639'
+source-wordcount: '1640'
 ht-degree: 0%
 
 ---
-
 
 # Administratorrollen
 
@@ -45,7 +45,7 @@ _Hierarchie der Admin-Rollen_
 
 Eine detaillierte Liste der Berechtigungen und Berechtigungen für jede Administratorrolle finden Sie unter [Berechtigungen](#enterprise-admins-permissions-matrix).
 
-## Unternehmensadministrator hinzufügen
+## Hinzufügen einer Unternehmensadministratorrolle {#add-enterprise-role}
 
 Gilt für: Unternehmenskunden in der Adobe.
 
