@@ -1,25 +1,25 @@
 ---
-title: Kundenunterstützung von Adobe kontaktieren
-description: Informationen zur Kontaktaufnahme mit der Adobe-Kundenunterstützung für Teams, Unternehmen und Experience Cloud-Kunden.
-source-git-commit: 83d10df855395476b0bdbb640096dbe7eebf227c
+title: Kontaktieren der Kundenunterstützung von Adobe
+description: Informationen zur Kontaktaufnahme mit der Adobe-Kundenunterstützung für Team-, Unternehmens- und Experience Cloud-Kunden.
+exl-id: 4df547f1-d476-4b52-a0f1-c9d7c32679f7
+source-git-commit: 9812c6947b67797bb682581bea9c99b9d67884b6
 workflow-type: tm+mt
 source-wordcount: '133'
-ht-degree: 4%
+ht-degree: 100%
 
 ---
 
-
 # Unternehmen und Teams | Kundenunterstützung von Adobe kontaktieren
 
-Um die Kundenunterstützung von Adobe zu kontaktieren, navigieren Sie zu **Support** im [Admin Console](https://adminconsole.adobe.com/).
+Um die Kundenunterstützung von Adobe zu kontaktieren, navigieren Sie zum Tab **Support** in der [Admin Console](https://adminconsole.adobe.com/).
 
-Die **Support-Tab** im [Admin Console](https://adminconsole.adobe.com/) bietet Zugriff auf verschiedene Support-Optionen über eine einfache und benutzerfreundliche Oberfläche. Die im Tab Support verfügbaren Optionen hängen von Ihrem Abonnementplan ab. Klicken Sie für weitere Informationen auf **Weitere Infos** entspricht Ihrem Abonnementplan.
+Über den Tab **Support** in der [Admin Console](https://adminconsole.adobe.com/) können Sie über eine einfache und benutzerfreundliche Benutzeroberfläche auf verschiedene Support-Optionen zugreifen. Die im Support-Tab verfügbaren Optionen hängen von Ihrem Abonnementplan ab. Klicken Sie für weitere Informationen entsprechend Ihrem Abonnementplan auf **Weitere Informationen**.
 
-Wenn Sie sich bezüglich Ihres Abonnementplans nicht sicher sind, navigieren Sie zum **Support-Tab** auf [Admin Console](https://adminconsole.adobe.com/)und vergleichen Sie Ihre Ansicht mit den unten stehenden Bildern. Klicken Sie dann auf die entsprechende **Weitere Infos** Link.
+Wenn Sie nicht wissen, welchen Abonnementplan Sie haben, navigieren Sie zum **Support-Tab** in der [Admin Console](https://adminconsole.adobe.com/) und vergleichen Sie Ihre Ansicht mit den unten stehenden Bildern. Klicken Sie dann auf den entsprechenden **Weitere Informationen**-Link.
 
-## Für Teams-Konto
+## Für Team-Konten
 
-![Teambild](assets/team.png)
+![Team-Bild](assets/team.png)
 
 <!--
 [Learn more](https://helpx.adobe.com/enterprise/using/support-for-teams.html)
@@ -27,15 +27,15 @@ Wenn Sie sich bezüglich Ihres Abonnementplans nicht sicher sind, navigieren Sie
 
 ## Für Unternehmenskonten
 
-![Teambild](assets/enterprise.png)
+![Team-Bild](assets/enterprise.png)
 
 <!--
 [Learn more](https://helpx.adobe.com/enterprise/using/support-for-enterprise.html)
 -->
 
-## Experience Cloud
+## Für Experience Cloud
 
-![Teambild](assets/ec.png)
+![Team-Bild](assets/ec.png)
 
 <!--
 [Learn more](https://www.adobe.com/go/ac_ec_not_supported_en)

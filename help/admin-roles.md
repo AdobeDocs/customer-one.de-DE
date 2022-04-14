@@ -1,96 +1,96 @@
 ---
 title: Administratorrollen
-description: Mithilfe der Adobe Admin Console können Unternehmen eine flexible Verwaltungshierarchie definieren, die eine differenzierte Verwaltung des Produktzugriffs und der Verwendung von Adobe ermöglicht.
+description: Mithilfe der Adobe Admin Console können Unternehmen eine flexible Verwaltungshierarchie einrichten, mit der genau festgelegt werden kann, wer auf Adobe-Produkte zugreifen und sie verwenden kann.
 exl-id: bfee66b5-d7bb-4ecb-8d22-efb68611ecc8
 source-git-commit: 6fcd91d09ffc23047b2fb332af256ab7706355cd
 workflow-type: tm+mt
-source-wordcount: '1640'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
 # Administratorrollen
 
-Mithilfe der Adobe Admin Console können Unternehmen eine flexible Verwaltungshierarchie definieren, die eine differenzierte Verwaltung des Produktzugriffs und der Verwendung von Adobe ermöglicht. Ein oder mehrere Systemadministratoren, die während des Unternehmens-Onboarding-Prozesses bereitgestellt werden, befinden sich oben in der Hierarchie. Diese Systemadministratoren können Verantwortlichkeiten an andere Administratoren delegieren und gleichzeitig die Gesamtkontrolle beibehalten.
+Mithilfe der Adobe Admin Console können Unternehmen eine flexible Verwaltungshierarchie einrichten, mit der genau festgelegt werden kann, wer auf Adobe-Produkte zugreifen und sie verwenden kann. Ein oder mehrere Systemadministratoren, die während des Unternehmens-Onboarding-Prozesses festgelegt werden, befinden sich in der Hierarchie ganz oben. Diese Systemadministratoren verfügen über die Gesamtkontrolle über das System und können einzelne Zuständigkeiten an andere Administratoren übertragen.
 
-Verwaltungsrollen bieten den Unternehmen die folgenden Hauptvorteile:
+Administratorrollen bieten Unternehmen die folgenden Hauptvorteile:
 
-* Kontrollierte Dezentralisierung der Verwaltungsaufgaben
-* Schnellansicht der Produktzuweisungen - nach Benutzer und Produkt
-* Funktion zum Zuweisen von Quoten zu Produktadministratoren
+* Kontrollierte Dezentralisierung von Verwaltungsaufgaben
+* Schnelle Übersicht über Produktzuweisungen – aufgeschlüsselt nach Benutzer und Produkt
+* Möglichkeit zur Zuweisung von Kontingenten an Produktadministratoren
 
 ## Verwaltungshierarchie
 
-Gilt für: Unternehmenskunden in der Adobe.
+Gilt für: Unternehmenskunden von Adobe.
 
-Die Verwaltungshierarchie kann für die individuellen Anforderungen Ihres Unternehmens verwendet werden. Ein Unternehmen kann beispielsweise verschiedene Administratoren für die Verwaltung von Berechtigungen für Adobe Creative Cloud- und Adobe Marketing Cloud-Angebote ernennen. Alternativ kann ein Unternehmen über verschiedene Administratoren verfügen, um Berechtigungen von Benutzern zu verwalten, die zu verschiedenen Geschäftsbereichen gehören.
+Die Verwaltungshierarchie kann auf die individuellen Anforderungen Ihres Unternehmens angepasst werden. So kann ein Unternehmen beispielsweise unterschiedliche Administratoren für die Berechtigungsverwaltung für Adobe Creative Cloud- und Adobe Marketing Cloud-Angebote einsetzen. Alternativ kann ein Unternehmen unterschiedliche Administratoren zur Berechtigungsveraltung von Benutzern ernennen, die zu verschiedenen Geschäftsbereichen gehören.
 
 >[!NOTE]
 >
->Die Verwaltungshierarchie gilt nicht für Team-Kunden. Team-Kunden haben eine **Systemadministrator** Rolle. Der Vertragseigentümer (_zuvor als **Primärer Administrator**_) ist der Systemadministrator mit Zugriff auf die Vertragsdetails und den Abrechnungsverlauf. Wenn Sie der aktuelle Vertragseigentümer sind, können Sie einen bestehenden Systemadministrator (_ zuvor als **sekundärer Administrator**_) als Vertragseigentümer.
+>Die Verwaltungshierarchie gilt nicht für Team-Kunden. Team-Kunden haben nur eine einzige **Systemadministrator**-Rolle. Der Vertragseigentümer (_zuvor **primärer Administrator**_genannt) ist der Systemadministrator und hat Zugriff auf die Vertragsdetails und den Abrechnungsverlauf. Wenn Sie der aktuelle Vertragseigentümer sind, können Sie einen bestehenden Systemadministrator (_ zuvor als **sekundärer Administrator**_ bezeichnet) zum Vertragseigentümer ernennen.
 
-![Admin-Bild](assets/storage_admin.png)
+![Administrator-Bild](assets/storage_admin.png)
 
-_Hierarchie der Admin-Rollen_
+_Hierarchie der Administratorrollen_
 
 | Rolle | Beschreibung |
 |--- |--- |
-| **Systemadministrator** | Superuser für die Organisation; erlaubt, alle Verwaltungsaufgaben in der Admin Console auszuführen.<br>Außerdem kann die folgende Verwaltungsfunktion anderen Benutzern zugewiesen werden: Produktadministrator, Produktprofiladministrator, Benutzergruppenadministrator, Bereitstellungsadministrator und Support-Administrator. |
-| **Produkt-Admin** | Verwalten Sie die diesem Administrator zugewiesenen Produkte und alle damit verbundenen Verwaltungsfunktionen, darunter:<ul><li>Erstellen von Produktprofilen</li><li>Benutzer und Benutzergruppen zur Organisation hinzufügen, diese jedoch nicht entfernen</li><li>Hinzufügen oder Entfernen von Benutzern und Benutzergruppen aus Produktprofilen</li><li>Hinzufügen oder Entfernen von Produktprofiladministratoren aus Produktprofilen</li><li>Hinzufügen oder Entfernen anderer Produktadministratoren aus dem Produkt</li><li>Hinzufügen oder Entfernen von Gruppenadministratoren aus Gruppen</li></ul> |
-| **Produktprofiladministrator** | Verwalten Sie die diesem Administrator zugewiesenen Produktprofilbeschreibungen sowie alle damit verbundenen Verwaltungsfunktionen, darunter:<ul><li>Benutzer und Benutzergruppen zur Organisation hinzufügen, diese jedoch nicht entfernen</li><li>Hinzufügen oder Entfernen von Benutzern und Benutzergruppen aus Produktprofilen</li><li>Produktberechtigungen Benutzern und Benutzergruppen aus Produktprofilen zuweisen oder widerrufen</li><li>Verwalten der Produktrollen von Benutzern und Benutzergruppen für Produktprofile |
-| **Benutzergruppenadministrator** | Verwalten Sie die diesem Administrator zugewiesenen Benutzergruppenbeschreibungen und alle damit verbundenen Verwaltungsfunktionen, darunter:<ul><li>Hinzufügen oder Entfernen von Benutzern aus Gruppen</li><li>Hinzufügen oder Entfernen von Benutzergruppenadministratoren aus Gruppen |
-| **Bereitstellungsadministrator** | Erstellt, verwaltet und stellt Softwarepakete und Updates für Endbenutzer bereit. |
-| **Support-Admin** | Nicht administrative Rolle, die Zugriff auf unterstützungsbezogene Informationen hat, z. B. von Kunden gemeldete Problemberichte. |
-| **Speicheradministrator** | Verwaltet die Speicherverwaltung des Unternehmens. Der Administrator kann den Speicherverbrauch sowohl aktiver als auch inaktiver Benutzer anzeigen und Inhalte an andere Empfänger übertragen. |
+| **Systemadministrator** | Superuser im Unternehmen; darf alle Verwaltungsaufgaben in der Admin Console ausführen.<br>Außerdem ist er berechtigt, anderen Benutzern die folgenden Verwaltungsfunktionen zuzuweisen: Produktadministrator, Produktprofiladministrator, Benutzergruppenadministrator, Bereitstellungsadministrator und Support-Administrator. |
+| **Produktadministrator** | Verwaltet die diesem Administrator zugewiesenen Produkte und alle damit verbundenen Verwaltungsfunktionen, darunter:<ul><li>Erstellen von Produktprofilen</li><li>Hinzufügen von Benutzern und Benutzergruppen zum Unternehmen, nicht jedoch Entfernen daraus</li><li>Hinzufügen von Benutzern und Benutzergruppen zu Produktprofilen oder Entfernen daraus</li><li>Hinzufügen von Produktprofiladministratoren zu Produktprofilen oder Entfernen daraus</li><li>Hinzufügen anderer Produktadministratoren zu dem Produkt oder Entfernen daraus</li><li>Hinzufügen von Gruppenadministratoren zu Gruppen oder Entfernen daraus</li></ul> |
+| **Produktprofiladministrator** | Verwaltet die diesem Administrator zugewiesenen Produktprofilbeschreibungen sowie alle damit verbundenen Verwaltungsfunktionen, darunter:<ul><li>Hinzufügen von Benutzern und Benutzergruppen zum Unternehmen, nicht jedoch Entfernen daraus</li><li>Hinzufügen von Benutzern und Benutzergruppen zu Produktprofilen oder Entfernen daraus</li><li>Zuweisen oder Widerrufen von Produktberechtigungen für Benutzer und Benutzergruppen in Produktprofilen</li><li>Verwalten der Produktrollen von Benutzern und Benutzergruppen für Produktprofile |
+| **Benutzergruppenadministrator** | Verwaltet die diesem Administrator zugewiesenen Benutzergruppenbeschreibungen und alle damit verbundenen Verwaltungsfunktionen, darunter:<ul><li>Hinzufügen von Benutzern zu Gruppen oder Entfernen daraus</li><li>Hinzufügen von Benutzergruppenadministratoren zu Gruppen oder Entfernen daraus |
+| **Bereitstellungsadministrator** | Erstellt, verwaltet und implementiert Software-Pakete und Updates für Endbenutzer. |
+| **Support-Administrator** | Nicht-administrative Rolle, die Zugriff auf Support-relevante Informationen hat, z. B. von Kunden gemeldete Problemberichte. |
+| **Speicheradministrator** | Verwaltet die Speichersysteme des Unternehmens. Der Administrator kann den Speicherverbrauch sowohl aktiver als auch inaktiver Benutzer anzeigen und Inhalte an Empfänger senden. |
 
-Eine detaillierte Liste der Berechtigungen und Berechtigungen für jede Administratorrolle finden Sie unter [Berechtigungen](#enterprise-admins-permissions-matrix).
+Eine detaillierte Liste der Berechtigungen für jede Administratorrolle finden Sie unter [Berechtigungen](#enterprise-admins-permissions-matrix).
 
-## Hinzufügen einer Unternehmensadministratorrolle {#add-enterprise-role}
+## Hinzufügen eines Unternehmensadministrators Rolle {#add-enterprise-role}
 
-Gilt für: Unternehmenskunden in der Adobe.
+Gilt für: Unternehmenskunden von Adobe.
 
-Als Administrator können Sie anderen Benutzern eine Administratorrolle zuweisen und ihnen die gleichen Berechtigungen wie Ihnen gewähren oder Berechtigungen für eine Rolle in Ihrer Administratorrolle in der Hierarchie gewähren, wie beschrieben [above](#administrative-hierarchy). Als Produktadministrator können Sie beispielsweise einem Benutzer Produktadministratorberechtigungen oder Produktprofil-Administratorberechtigungen erteilen, jedoch nicht Administratorberechtigungen für die Bereitstellung. Informationen zu den Berechtigungen für die Admin Console finden Sie unter [Berechtigungsmatrix](#enterprise-admins-permissions-matrix).
+Als Administrator können Sie anderen Benutzern eine Administratorrolle zuweisen und die gleichen Berechtigungen gewähren, wie Sie selbst besitzen. Zusätzlich können Sie ihnen auch, wie [oben](#administrative-hierarchy) beschrieben, Rechte für eine Rolle zuweisen, die in der Hierarchie unter der Ihren liegt. Als Produktadministrator können Sie beispielsweise einem Benutzer Produktadministratorberechtigungen oder Produktprofil-Administratorberechtigungen zuweisen, nicht aber die Berechtigungen eines Bereitstellungsadministrators. Informationen zu den in der Admin Console verfügbaren Berechtigungen finden Sie in der [Berechtigungsmatrix](#enterprise-admins-permissions-matrix).
 
 So fügen Sie einen Administrator hinzu oder laden ihn ein:
 
-1. Im [Admin Console](https://adminconsole.adobe.com/)auswählen **Benutzer** > **Administratoren**.
+1. Wählen Sie in der [Admin Console](https://adminconsole.adobe.com/) die Option **Benutzer** > **Administratoren**.
 
-   Alternativ können Sie zum entsprechenden Produkt, Produktprofil oder Benutzergruppe navigieren und zur **Administratoren** Registerkarte.
+   Alternativ können Sie zum entsprechenden Produkt, zum Produktprofil oder zur Benutzergruppe navigieren und den Tab **Administratoren** öffnen.
 
-1. Klicken **Admin hinzufügen**.
-1. Geben Sie einen Namen oder eine E-Mail-Adresse ein. Sie können nach vorhandenen Benutzern suchen oder einen neuen Benutzer hinzufügen, indem Sie eine gültige E-Mail-Adresse angeben und die Informationen auf dem Bildschirm ausfüllen.
-1. Klicken **Nächste**. Eine Liste der Admin-Rollen wird angezeigt.
+1. Klicken Sie auf **Administrator hinzufügen**.
+1. Geben Sie einen Namen oder eine E-Mail-Adresse ein. Sie können nach vorhandenen Benutzern suchen oder einen neuen Benutzer hinzufügen, indem Sie eine gültige E-Mail-Adresse angeben und die entsprechenden Felder am Bildschirm ausfüllen.
+1. Klicken Sie auf **Weiter**. Eine Liste der Administratorrollen öffnet sich.
 
 >[!NOTE]
 >
->* Die Optionen auf diesem Bildschirm hängen von Ihrem Konto und Ihrer Administratorrolle ab. Sie können entweder dieselben Berechtigungen wie Sie haben, oder Berechtigungen für eine Rolle unter Ihrer in der Hierarchie gewähren.
->* Als Systemadministrator eines Teams können Sie nur eine Administratorrolle zuweisen: Systemadministrator.
+>* Die auf diesem Bildschirm angezeigten Optionen hängen von Ihrem Konto und Ihrer Administratorrolle ab. Sie können entweder dieselben Berechtigungen vergeben, die Sie selbst besitzen, oder Berechtigungen für eine Rolle zuweisen, die in der Hierarchie unter Ihrer liegen.
+>* Als Systemadministrator eines Teams können Sie nur eine einzige Administratorrolle zuweisen: die des Systemadministrators.
 
 
-1. Wählen Sie eine oder mehrere Admin-Rollen aus.
-1. Wählen Sie für Admin-Typen wie Produktadministrator, Produktprofiladministrator und Benutzergruppenadministrator die spezifischen Produkte, Profile und Gruppen aus.
+1. Wählen Sie eine oder mehrere Administratorrollen aus.
+1. Wählen Sie für Administratortypen wie Produktadministrator, Produktprofiladministrator und Benutzergruppenadministrator die spezifischen Produkte, Profile und Gruppen aus.
 
 >[!NOTE]
 >
 >Für einen Produktprofiladministrator können Sie Profile für mehr als ein Produkt einbeziehen.
 
-![Admin hinzufügen](assets/add-admin.png)
+![Administrator hinzufügen](assets/add-admin.png)
 
-1. Überprüfen Sie die Administratorrollen, die dem Benutzer zugewiesen sind, und klicken Sie auf **Speichern**.
+1. Überprüfen Sie die zugewiesenen Administratorrollen und klicken Sie auf **Speichern**.
 
-Der Benutzer erhält eine E-Mail-Einladung zu den neuen Administratorrechten von `message@adobe.com`.
+Der Benutzer erhält per E-Mail eine Einladung zu den neuen Administratorrechten von `message@adobe.com`.
 
-Benutzer müssen auf **Erste Schritte** in der E-Mail, um Mitglied der Organisation zu werden. Wenn neue Administratoren die **Erste Schritte** in der E-Mail-Einladung enthalten, können sie sich nicht bei der Admin Console anmelden.
+Benutzer müssen in der E-Mail auf **Erste Schritte** klicken, um Mitglied des Unternehmens zu werden. Wenn neue Administratoren den Link **Erste Schritte** in der E-Mail-Einladung nicht anklicken, können sie sich nicht bei der Admin Console anmelden.
 
-Im Rahmen des Anmeldeprozesses können Benutzer aufgefordert werden, ein Benutzerprofil einzurichten, wenn sie noch kein Adobe haben. Wenn mehrere Profile mit ihrer E-Mail-Adresse verknüpft sind, müssen Benutzer &quot;Team beitreten&quot;wählen (wenn Sie dazu aufgefordert werden) und dann das mit der neuen Organisation verknüpfte Profil auswählen.
+Im Rahmen des Anmeldeprozesses können Benutzer aufgefordert werden, ein Benutzerprofil einzurichten, wenn sie noch keines haben. Wenn Benutzer mehrere Profile haben, die mit ihrer E-Mail-Adresse verknüpft sind, müssen sie „Team beitreten“ anklicken (wenn Sie dazu aufgefordert werden) und danach das mit dem neuen Unternehmen verknüpfte Profil auswählen.
 
-![Bild mit Administratorrechten](assets/admin-get-started-email.png)
+![Bild der Administratorrechte](assets/admin-get-started-email.png)
 
-## Team-Administrator hinzufügen {#add-admin-teams}
+## Hinzufügen eines Team-Administrators {#add-admin-teams}
 
-Gilt für: Adobe stellt Kunden bereit.
+Gilt für: Team-Kunden von Adobe.
 
-Als Administrator können Sie anderen Benutzern die Systemadministratorrolle zuweisen und ihnen die gleichen Berechtigungen wie Ihnen gewähren.
+Als Administrator können Sie anderen Benutzern die Systemadministratorrolle zuweisen und die gleichen Berechtigungen gewähren, die Sie selbst haben.
 
 So fügen Sie einen Systemadministrator hinzu oder laden einen Systemadministrator ein:
 
@@ -98,57 +98,57 @@ So fügen Sie einen Systemadministrator hinzu oder laden einen Systemadministrat
 
    Eine Liste der vorhandenen Administratoren wird angezeigt.
 
-1. Klicken **Admin hinzufügen**.
+1. Klicken Sie auf **Administrator hinzufügen**.
 
-   Die **Hinzufügen eines Administrators** angezeigt.
+   Der Bildschirm **Administrator hinzufügen** wird geöffnet.
 
-1. Geben Sie einen Namen oder eine E-Mail-Adresse ein. Sie können nach vorhandenen Benutzern suchen oder einen neuen Benutzer hinzufügen, indem Sie eine gültige E-Mail-Adresse angeben und die Informationen auf dem Bildschirm ausfüllen.
+1. Geben Sie einen Namen oder eine E-Mail-Adresse ein. Sie können nach vorhandenen Benutzern suchen oder einen neuen Benutzer hinzufügen, indem Sie eine gültige E-Mail-Adresse angeben und die entsprechenden Felder am Bildschirm ausfüllen.
 
-   Standardmäßig ist &quot;Systemadministrator&quot;ausgewählt.
+   Standardmäßig ist „Systemadministrator“ ausgewählt.
 
-1. Klicken **Speichern**.
+1. Klicken Sie auf **Speichern**.
 
-![Team-Admin-Bild](assets/teams-admin.png)
+![Bild des Team-Administrators](assets/teams-admin.png)
 
-Da alle Benutzer in einer Team-Organisation Business-ID-Benutzer sind, erhalten sie eine E-Mail-Einladung zu den neuen Administratorrechten von `message@adobe.com`.
-Benutzer müssen in der E-Mail auf Erste Schritte klicken, um der Organisation beizutreten.
+Da alle Benutzer in einem Team-Unternehmen Business-ID-Benutzer sind, erhalten sie eine E-Mail-Einladung zu den neuen Administratorrechten von `message@adobe.com`.
+Benutzer müssen in der E-Mail auf „Erste Schritte“ klicken, um dem Unternehmen beizutreten.
 
-Im Rahmen des Anmeldeprozesses können Benutzer aufgefordert werden, ein Benutzerprofil einzurichten, wenn sie noch kein Adobe haben. Wenn mehrere Profile mit ihrer E-Mail-Adresse verknüpft sind, müssen Benutzer &quot;Team beitreten&quot;wählen (wenn Sie dazu aufgefordert werden) und dann das mit der neuen Organisation verknüpfte Profil auswählen.
+Im Rahmen des Anmeldeprozesses können Benutzer aufgefordert werden, ein Benutzerprofil einzurichten, wenn sie noch keines haben. Wenn Benutzer mehrere Profile haben, die mit ihrer E-Mail-Adresse verknüpft sind, müssen sie „Team beitreten“ anklicken (wenn Sie dazu aufgefordert werden) und danach das mit dem neuen Unternehmen verknüpfte Profil auswählen.
 
-![Bild mit Administratorrechten](assets/admin-get-started-email.png)
+![Bild der Administratorrechte](assets/admin-get-started-email.png)
 
-## Administratorrolle &quot;Unternehmen bearbeiten&quot;
+## Bearbeiten der Unternehmensadministratorrolle
 
-Gilt für: Unternehmenskunden in der Adobe.
+Gilt für: Unternehmenskunden von Adobe.
 
-Als Administrator können Sie die Administratorrolle für andere Administratoren bearbeiten, die sich in der Verwaltungshierarchie unter Ihnen befinden. Sie können beispielsweise Admin-Berechtigungen anderer Administratoren entfernen.
+Als Administrator können Sie die Administratorrolle anderer Administratoren bearbeiten, die sich in der Verwaltungshierarchie unter Ihnen befinden. Sie können Sie beispielsweise Admininistratorrechte anderer Administratoren entfernen.
 
-So bearbeiten Sie Admin-Rollen:
+So bearbeiten Sie Administratorrollen:
 
 1. Wählen Sie in der Admin Console **Benutzer** > **Administratoren**. Die Liste der vorhandenen Administratoren wird angezeigt.
 
-   Alternativ können Sie zum entsprechenden Produkt, Produktprofil oder Benutzergruppe navigieren und zur **Administratoren** Registerkarte.
+   Alternativ können Sie zum entsprechenden Produkt, zum Produktprofil oder zur Benutzergruppe navigieren und den Tab **Administratoren** öffnen.
 
 1. Klicken Sie auf den Namen des zu bearbeitenden Administrators.
-1. Im **Benutzerdetails** klicken ![icon](assets/one-console-ellipses.png) für **Administratorrechte** und wählen Sie **Administratorrechte bearbeiten**.
+1. Klicken Sie in den **Benutzerdetails** auf das ![Symbol](assets/one-console-ellipses.png) für den Abschnitt **Administratorrechte** und wählen Sie **Administratorrechte bearbeiten** aus.
 
    ![Administratorrechte bearbeiten](assets/admin-rights-section.png)
 
 1. Bearbeiten Sie die Administratorrechte und speichern Sie Ihre Änderungen.
 
-## Administratorrolle für Teams bearbeiten
+## Bearbeiten der Team-Administratorrolle
 
-Gilt für: Adobe stellt Kunden bereit.
+Gilt für: Team-Kunden von Adobe.
 
-Als Systemadministrator der Teams können Sie die Systemadministratorberechtigungen anderer Administratoren entfernen.
+Als Team-Systemadministrator können Sie die Systemadministratorberechtigungen anderer Administratoren entfernen.
 
-Sperren der Systemadministratorberechtigungen:
+So widerrufen Sie Systemadministratorberechtigungen:
 
 1. Wählen Sie in der Admin Console **Benutzer** > **Administratoren**.
 
    Die Liste der vorhandenen Administratoren wird angezeigt.
 
-1. Klicken Sie in den Benutzerdetails auf ![icon](assets/one-console-ellipses.png) rechts von der **Administratorrechte** und wählen Sie **Administratorrechte bearbeiten**.
+1. Klicken Sie in den Benutzerdetails auf das ![Symbol](assets/one-console-ellipses.png) rechts neben den **Administratorrechten** und wählen Sie **Administratorrechte bearbeiten** aus.
 
    ![Administratorrechte bearbeiten](assets/admin-rights-section.png)
 
@@ -156,96 +156,96 @@ Sperren der Systemadministratorberechtigungen:
 
 ## Entfernen eines Administrators
 
-Gilt für: Adobe stellt Unternehmenskunden bereit.
+Gilt für: Team-Unternehmenskunden von Adobe.
 
-1. Um Administratorberechtigungen zu widerrufen, wählen Sie einen Benutzer aus und klicken Sie auf **Administrator entfernen**.
+1. Um Administratorberechtigungen zu widerrufen, wählen Sie einen Benutzer aus und klicken Sie dann auf **Administrator entfernen**.
 
-![Admin-Bild entfernen](assets/remove-admin.png)
+![Bild für Administrator entfernen](assets/remove-admin.png)
 
 >[!NOTE]
 >
 >Wenn Sie einen Administrator entfernen, wird der Benutzer nicht aus der Admin Console gelöscht, sondern nur die mit der Administratorrolle verknüpften Berechtigungen.
 
-## Matrix der Berechtigungen von Unternehmensadministratoren
+## Berechtigungsmatrix für Unternehmensadministratoren
 
-Gilt für: Unternehmenskunden in der Adobe.
+Gilt für: Unternehmenskunden von Adobe.
 
-In der folgenden Tabelle sind alle Berechtigungen für die verschiedenen Administratortypen aufgeführt, die nach den folgenden Funktionsbereichen kategorisiert sind:
+In der folgenden Tabelle sind alle Berechtigungen für die verschiedenen Administratortypen aufgeführt, die nach den folgenden Funktionsbereichen unterteilt sind:
 
 ### Identitätsverwaltung
 
 | Berechtigung | Systemadministrator | Support-Administrator |
 |--- |--- |--- |
-| Domäne hinzufügen (Domäne anfordern/anfordern) | ms |  |
-| Anzeigen der Domänen- und Domänenliste | ms |  |
-| Verwalten von Domain-Verschlüsselungsschlüsseln | ms |  |
-| Standardrichtlinien für das Organisationskennwort verwalten | ms |  |
-| Standardmäßige Richtlinien für das Organisationskennwort anzeigen | ms |  |
+| Domain hinzufügen (Domain anfordern) | ✔ |  |
+| Domain und Domain-Liste anzeigen | ms |  |
+| Domain-Verschlüsselungsschlüssel verwalten | ms |  |
+| Standardrichtlinien für das Unternehmenspasswort verwalten | ms |  |
+| Standardrichtlinien für das Unternehmenspasswort anzeigen | ms |  |
 
 ### Benutzerverwaltung
 
 | Berechtigung | Systemadministrator | Support-Administrator |
 |--- |--- |--- |
-| Benutzer zur Organisation hinzufügen | ms |  |
-| Benutzer aus Organisation entfernen | ms |  |
-| Anzeigen von Benutzerdetails und Auflistung | ms |  |
+| Benutzer zum Unternehmen hinzufügen | ms |  |
+| Benutzer aus dem Unternehmen entfernen | ms |  |
+| Benutzerdetails und -listen anzeigen | ms |  |
 | Benutzerprofil bearbeiten | ms |  |
 | Produktprofil zu Benutzer oder Gruppe hinzufügen | ms |  |
-| Produktprofil für Benutzer oder Gruppe entfernen | ms |  |
-| Hinzufügen von Produktprofilen zu mehreren Benutzern | ms |  |
-| Anzeigen von Produktprofilen für einen Benutzer | ms |  |
+| Produktprofil von Benutzer oder Gruppe entfernen | ms |  |
+| Produktprofile zu mehreren Benutzern hinzufügen | ms |  |
+| Produktprofile für einen Benutzer anzeigen | ms |  |
 | Produktbenutzerliste anzeigen | ms |  |
-| Massenfügen Sie Benutzer zur Organisation hinzu | ms |  |
+| Benutzer im Stapel zum Unternehmen hinzufügen | ms |  |
 
 ### Administratorverwaltung
 
 | Berechtigung | Systemadministrator | Support-Administrator |
 |--- |--- |--- |
-| Einen Org-Admin einem Benutzer gewähren | ms |  |
-| Org-Admin von einem Benutzer abrufen | ms |  |
-| Produkt-Lizenzadministrator für einen Benutzer gewähren | ms |  |
-| Produktlizenzadministrator von einem Benutzer abrufen | ms |  |
-| Bereitstellung eines Admins für einen Benutzer gewähren | ms |  |
-| Deployment Admin von einem Benutzer abrufen | ms |  |
-| Gewähren eines Benutzergruppenadministrators für einen Benutzer | ms |  |
-| Benutzergruppenadministrator von einem Benutzer abrufen | ms |  |
-| Gewähren der Produkteigentümeradministration für einen Benutzer | ms |  |
-| Den Produkteigentümer-Administrator von einem Benutzer abrufen | ms |  |
+| Einem Benutzer Unternehmensadministratorrechte gewähren | ms |  |
+| Einem Benutzer Unternehmensadministratorrechte entziehen | ms |  |
+| Einem Benutzer Produktlizenz-Administratorrechte gewähren | ms |  |
+| Einem Benutzer Produktlizenz-Administratorrechte entziehen | ms |  |
+| Einem Benutzer Bereitstellungsadministratorrechte gewähren | ms |  |
+| Einem Benutzer Bereitstellungsadministratorrechte entziehen | ms |  |
+| Einem Benutzer Benutzergruppen-Administratorrechte gewähren | ms |  |
+| Einem Benutzer Benutzergruppen-Administratorrechte entziehen | ms |  |
+| Einem Benutzer Produkteigentümer-Administratorrechte gewähren | ms |  |
+| Einem Benutzer Produkteigentümer-Administratorrechte entziehen | ms |  |
 
-### Konfiguration der Produktlizenzen
+### Verwaltung der Konfiguration der Produktlizenzen
 
 | Berechtigung | Systemadministrator | Support-Administrator |
 |--- |--- |--- |
-| Produktberechtigungen für Organisation gewähren |  |  |
-| Produktberechtigungen aus der Organisation entfernen |  |  |
-| Gesamtanzahl der Lizenzen anzeigen, die der Organisation gehören | ms |  |
+| Einem Unternehmen Produktberechtigungen gewähren |  |  |
+| Einem Unternehmen Produktberechtigungen entziehen |  |  |
+| Gesamtanzahl der Lizenzen anzeigen, die dem Unternehmen gehören | ms |  |
 | Verfügbare Produkte und Produktfamilien anzeigen | ms |  |
-| Produktlizenzbeschreibungen/Daten bearbeiten | ms |  |
-| Bereitstellen einer Produktlizenz für einen Benutzer | ms |  |
-| Deaktivieren der Produktlizenz von einem Benutzer | ms |  |
+| Produktlizenzbeschreibungen/-daten bearbeiten | ms |  |
+| Einem Benutzer eine Produktlizenz bereitstellen | ms |  |
+| Einem Benutzer eine Produktlizenz entziehen | ms |  |
 | Neue Produktlizenzkonfiguration hinzufügen | ms |  |
-| Konfiguration des Produktlizenzdienstes bearbeiten | ms |  |
-| Konfiguration des Produktlizenzdienstes löschen | ms |  |
-| Entfernen des Produktzugriffs von einem Benutzer (Entfernen aus allen Konfigurationen) | ms |  |
+| Konfiguration des Produktlizenz-Service bearbeiten | ms |  |
+| Konfiguration des Produktlizenz-Service löschen | ms |  |
+| Produktzugriff von einem Benutzer entfernen (aus allen Konfigurationen entfernen) | ms |  |
 
 ### Speicherverwaltung
 
 | Berechtigung | Systemadministrator | Support-Administrator |
 |--- |--- |--- |
-| Anzeigen aktiver und inaktiver Benutzerordner | ms |  |
-| Löschen von Ordnern inaktiver Benutzer und Übertragen von Inhalten | ms |  |
+| Ordner aktiver und inaktiver Benutzer anzeigen | ms |  |
+| Ordner aktiver und inaktiver Benutzer löschen und Inhalte transferieren | ms |  |
 
 ### Implementierung
 
 | Berechtigung | Systemadministrator | Support-Administrator |
 |--- |--- |--- |
-| Registerkarte &quot;Pakete anzeigen/verwenden&quot; | ms |  |
+| Packages-Tab anzeigen/verwenden | ms |  |
 
 ### Support
 
 | Berechtigung | Systemadministrator | Support-Administrator |
 |--- |--- |--- |
-| Registerkarte &quot;Support&quot; | ms |  |
+| Support-Tab anzeigen | ms |  |
 | Support-Fälle verwalten | ms | ms |
 
 ### Benutzergruppenverwaltung
@@ -256,7 +256,7 @@ In der folgenden Tabelle sind alle Berechtigungen für die verschiedenen Adminis
 | Benutzergruppe löschen | ms |  |
 | Benutzer zur Benutzergruppe hinzufügen | ms |  |
 | Benutzer aus Benutzergruppe entfernen | ms |  |
-| Zuweisen einer Benutzergruppe zur Produktlizenz | ms |  |
+| Benutzergruppe zur Produktlizenz hinzufügen | ms |  |
 | Benutzergruppe aus Produktlizenz entfernen | ms |  |
 | Mitglied der Benutzergruppe anzeigen | ms | ms |
 | Liste der Benutzergruppen anzeigen | ms | ms |

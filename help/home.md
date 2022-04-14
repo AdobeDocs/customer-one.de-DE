@@ -1,75 +1,75 @@
 ---
-keywords: Unterstützung der Experience Platform; Plattformunterstützung; Unterstützung intelligenter Dienste; Kundenunterstützung; Unterstützung der Attribution; rtcdp-Unterstützung; Support-Ticket einreichen; Support-Ticket
+keywords: Unterstützung für Experience Platform;Unterstützung für Platform;Unterstützung für intelligente Services;Unterstützung für Kunden-KI;Unterstützung für Attributions-KI;Unterstützung für RTCDP;Support-Ticket senden;Kunden-Support
 title: Adobe Experience Cloud Customer One for Enterprise
-description: Neue Support-Funktion von Adobe
+description: Neues Adobe-Support-Erlebnis
 seo-description: New Adobe Customer Support Experience
 seo-title: Adobe Experience Cloud Customer One for Enterprise
 exl-id: 276e0862-6f7e-491e-b63e-10a50b7238c2
 source-git-commit: 6fcd91d09ffc23047b2fb332af256ab7706355cd
 workflow-type: tm+mt
 source-wordcount: '646'
-ht-degree: 1%
+ht-degree: 100%
 
 ---
 
-# Adobe-Kundensupport-Erlebnis
+# Adobe-Support-Erlebnis
 
-## Support-Tickets für Admin Consolen
+## Support-Tickets via Admin Console
 
-Support-Tickets können jetzt über die [Admin Console](https://adminconsole.adobe.com/). Anweisungen zum Senden eines Support-Tickets finden Sie im Abschnitt . [Senden eines Support-Tickets](#submit-ticket).
+Ab sofort können Support-Tickets über die [Admin Console](https://adminconsole.adobe.com/) gesendet werden. Anweisungen zum Senden eines Support-Tickets finden Sie im Abschnitt [Senden eines Support-Tickets](#submit-ticket).
 
-Wir arbeiten daran, die Interaktion mit dem Adobe-Support zu verbessern. Unsere Vision ist es, das Supporterlebnis mithilfe der Adobe Admin Console zu einem einzigen Einstiegspunkt zu optimieren. Sobald Ihre Organisation live ist, kann sie einfach auf den Adobe-Support zugreifen. über ein gemeinsames System für alle Produkte einen besseren Einblick in Ihren Serviceverlauf erhalten; und Hilfe per Telefon, Web und Chat über ein einzelnes Portal anfordern.
+Wir arbeiten daran, die Interaktion mit dem Adobe-Kunden-Support zu verbessern. Die Neuerung beinhaltet die Zentralisierung aller Support-Vorgänge in Adobe Admin Console Portal. Dadurch wird Ihre Interaktion mit dem Adobe-Support deutlich vereinfacht. Denn das System bündelt Ihren gesamten Service-Verlauf an einer zentralen Stelle, über die Sie fortan auch alle weiteren Support-Anfragen per Telefon, Web und Chat aufgeben können.
 
 ## Benötigen Sie Hilfe mit der neuen Support-Plattform?
 
-Wir bieten eine Reihe von Online-Meetings an, in denen Kunden ihre Fragen zum neuen Support-Prozess stellen können. Wählen Sie eine oder mehrere zum Beitritt aus:
+Wir bieten eine Reihe von Online-Meetings an, in denen Kunden ihre Fragen zum neuen Support-Prozess stellen können. Nehmen Sie an einem oder mehreren teil:
 
-| Datum und Uhrzeit | Registrierungslink |
+| Datum und Uhrzeit | Registrierungs-Link |
 |--- |--- |
-| Donnerstag, 7. April um 8 Uhr PT | [Ereignislink](https://event.on24.com/wcc/r/3723732/5288A3B031AD858BF241EB0C0057CD85) |
-| Donnerstag, 7. April um 17 Uhr PT | [Ereignislink](https://event.on24.com/wcc/r/3723733/286EFEA9E8D9B6BB49464862F5414B8C) |
-| Mittwoch, 20. April um 8 Uhr PT | [Ereignislink](https://event.on24.com/wcc/r/3712143/05DAF046E4BB864E7C313B056ADE4EB2) |
-| Mittwoch, 20. April um 17 Uhr PT | [Ereignislink](https://event.on24.com/wcc/r/3723740/A9EDA45FA61D3FFC4BF713419B677F16) |
-| Donnerstag, 21. April um 8 Uhr PT | [Ereignislink](https://event.on24.com/wcc/r/3723741/C7EBCD38583D4D7AFCBD56029EB17C98) |
-| Donnerstag, 21. April um 17 Uhr PT | [Ereignislink](https://event.on24.com/wcc/r/3723743/6F41ED2648A621F1419A56F0A52F4446) |
+| Donnerstag, 7. April, 8:00 Uhr PT | [Link zum Event](https://event.on24.com/wcc/r/3723732/5288A3B031AD858BF241EB0C0057CD85) |
+| Donnerstag, 7. April, 17:00 Uhr PT | [Link zum Event](https://event.on24.com/wcc/r/3723733/286EFEA9E8D9B6BB49464862F5414B8C) |
+| Mittwoch, 20. April, 8:00 Uhr PT | [Link zum Event](https://event.on24.com/wcc/r/3712143/05DAF046E4BB864E7C313B056ADE4EB2) |
+| Mittwoch, 20. April, 17:00 Uhr PT | [Link zum Event](https://event.on24.com/wcc/r/3723740/A9EDA45FA61D3FFC4BF713419B677F16) |
+| Donnerstag, 21. April, 8:00 Uhr PT | [Link zum Event](https://event.on24.com/wcc/r/3723741/C7EBCD38583D4D7AFCBD56029EB17C98) |
+| Donnerstag, 21. April, 17:00 Uhr PT | [Link zum Event](https://event.on24.com/wcc/r/3723743/6F41ED2648A621F1419A56F0A52F4446) |
 
 {style=&quot;table-layout:auto&quot;}
 
-## Senden eines Support-Tickets für Admin Consolen {#submit-ticket}
+## Senden eines Support-Tickets über die Admin Console {#submit-ticket}
 
-So senden Sie ein Support-Ticket unter [Admin Console](https://adminconsole.adobe.com/)müssen Sie die Administratorrolle Support von einem Systemadministrator zugewiesen haben. Nur ein Systemadministrator in Ihrem Unternehmen kann diese Rolle zuweisen. Produkt-, Produktprofil- und andere Administratorrollen können die Support-Administratorrolle nicht zuweisen und können die **[!UICONTROL Anwendungsfall]** -Option, die zum Senden eines Support-Tickets verwendet wird. Weitere Informationen finden Sie unter [Kundenunterstützung für Unternehmen und Teams](customer-care.md) Dokumentation.
+Damit Sie ein Support-Ticket über die [Admin Console](https://adminconsole.adobe.com/) senden können, muss Ihnen von einem Systemadministrator die Support-Administratorrolle zugewiesen werden. Nur ein Systemadministrator in Ihrem Unternehmen kann diese Rolle zuweisen. Produkt-, Produktprofil- und andere Administratorrollen können die Support-Administratorrolle nicht zuweisen und können die Option **[!UICONTROL Anfrage erstellen]** nicht anzeigen, die zum Senden eines Support-Tickets verwendet wird. Weitere Informationen finden Sie in der Dokumentation [Kundenunterstützung für Unternehmen und Teams](customer-care.md).
 
-### Zuweisen der Administratorrolle &quot;Support&quot;
+### Zuweisen der Support-Administratorrolle
 
-Die Administratorrolle &quot;Support&quot;ist eine nicht administrative Rolle, die Zugriff auf unterstützungsbezogene Informationen hat. Support-Administratoren können Problemberichte anzeigen, erstellen und verwalten.
+Die Support-Administratorrolle ist eine nicht administrative Rolle, die Zugriff auf Support-bezogene Informationen hat. Support-Administratoren können Problemberichte anzeigen, erstellen und verwalten.
 
-Gehen Sie wie folgt vor, um die Administratorrolle &quot;Support&quot;zuzuweisen: [Unternehmensadministratorrolle bearbeiten](admin-roles.md#add-enterprise-role) Anweisungen in der Dokumentation zu Administratorrollen. Beachten Sie, dass nur ein Systemadministrator für Ihre Organisation diese Rolle zuweisen kann. Weitere Informationen zur Verwaltungshierarchie finden Sie unter [Administratorrollen](admin-roles.md) Dokumentation.
+Um die Support-Administratorrolle zuzuweisen folgen Sie den Anweisungen unter [Zuweisen der Unternehmensadministratorrolle bearbeiten](admin-roles.md#add-enterprise-role) in der Dokumentation zu Administratorrollen. Beachten Sie, dass nur ein Systemadministrator für Ihr Unternehmen diese Rolle zuweisen kann. Weitere Informationen zur Administrationshierarchie finden Sie in der Dokumentation zu [Administratorrollen](admin-roles.md).
 
-### Support-Ticket mit Admin Console erstellen
+### Erstellen eines Support-Tickets über die Admin Console
 
-So erstellen Sie ein Ticket mit [Admin Console](https://adminconsole.adobe.com/), wählen Sie die **[!UICONTROL Support]** Registerkarte in der oberen Navigation. Die [!UICONTROL Support-Zusammenfassung] angezeigt. Wählen Sie als Nächstes die **[!UICONTROL Anwendungsfall]** -Option.
+Um ein Ticket mit der [Admin Console](https://adminconsole.adobe.com/) zu erstellen, wählen Sie die Registerkarte **[!UICONTROL Support]** in der oberen Navigation. Die [!UICONTROL Support-Zusammenfassung] wird angezeigt. Wählen Sie anschließend die Option **[!UICONTROL Anfrage erstellen]**.
 
 >[!TIP]
 >
-> Wenn Sie die **[!UICONTROL Anwendungsfall]** oder **[!UICONTROL Support]** müssen Sie sich an einen Systemadministrator wenden, um die Administratorrolle &quot;Support&quot;zuzuweisen.
+> Wenn Sie die Option **[!UICONTROL Anfrage erstellen]** oder die Registerkarte **[!UICONTROL Support]** nicht sehen, müssen Sie einen Systemadministrator kontaktieren, damit er Ihnen die Support-Administratorrolle zuweist.
 
-![Registerkarte &quot;Admin Console-Support&quot;](./assets/Support.png)
+![Registerkarte „Admin Console-Support“](./assets/Support.png)
 
-Ein Dialogfeld wird angezeigt, in dem Sie einen Problemtyp auswählen können. Wählen Sie den Problemtyp aus, der Ihr Problem oder Ihre Frage am besten beschreibt, und wählen Sie dann **[!UICONTROL Anwendungsfall]** unten rechts.
+Ein Dialogfeld wird angezeigt, in dem Sie einen Problemtyp auswählen können. Wählen Sie den Problemtyp aus, der Ihr Problem oder Ihre Frage am besten beschreibt, und wählen Sie dann **[!UICONTROL Anfrage erstellen]** unten rechts.
 
 ![Problem auswählen](./assets/select-case-type.png)
 
-Die **[!UICONTROL Anwendungsfall]** angezeigt. Sie werden gebeten, einige Informationen wie das Produkt, die Priorität, die Beschreibung und Screenshots anzufügen, die Ihnen helfen, das Problem zu beschreiben. Auswählen **[!UICONTROL Nächste]** , um fortzufahren.
+Das Dialogfeld **[!UICONTROL Anfrage erstellen]** wird angezeigt. Sie werden gebeten, einige Informationen wie das Produkt, die Priorität, die Beschreibung und Screenshots anzufügen, um das Problem genauer zu beschreiben. Wählen Sie **[!UICONTROL Weiter]**, um fortzufahren.
 
-![Fall erstellen](./assets/create_case.png)
+![Anfrage erstellen](./assets/create_case.png)
 
 >[!NOTE]
 >
 > Führt das Problem zu Ausfällen oder extrem schwerwiegenden Unterbrechungen eines Produktionssystems, wird eine Telefonnummer zur sofortigen Unterstützung bereitgestellt.
 
-Auf der nächsten Seite können Sie Kontaktinformationen ausfüllen und die beste Zeit für die Kontaktaufnahme mit Ihnen durch den Adobe-Support bereitstellen. Wählen Sie nach Abschluss **[!UICONTROL Einsenden]** unten rechts und Ihr Ticket wird an den Kundensupport von Adobe gesendet.
+Auf der nächsten Seite können Sie Kontaktinformationen ausfüllen und die beste Zeit für die Kontaktaufnahme durch den Adobe-Support angeben. Wählen Sie nach Abschluss **[!UICONTROL Senden]** unten rechts und Ihr Ticket wird an den Adobe-Support gesendet.
 
-![Einreichen eines Tickets](./assets/submit_case.png)
+![Ticket senden](./assets/submit_case.png)
 
 <!--
 
