@@ -3,9 +3,9 @@ title: Administratorrollen
 description: Mithilfe der Adobe Admin Console können Unternehmen eine flexible Verwaltungshierarchie einrichten, mit der genau festgelegt werden kann, wer auf Adobe-Produkte zugreifen und sie verwenden kann.
 exl-id: bfee66b5-d7bb-4ecb-8d22-efb68611ecc8
 source-git-commit: 6fcd91d09ffc23047b2fb332af256ab7706355cd
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '1640'
+ht-degree: 100%
 
 ---
 
@@ -177,40 +177,40 @@ In der folgenden Tabelle sind alle Berechtigungen für die verschiedenen Adminis
 | Berechtigung | Systemadministrator | Support-Administrator |
 |--- |--- |--- |
 | Domain hinzufügen (Domain anfordern) | ✔ |  |
-| Domain und Domain-Liste anzeigen | ms |  |
-| Domain-Verschlüsselungsschlüssel verwalten | ms |  |
-| Standardrichtlinien für das Unternehmenspasswort verwalten | ms |  |
-| Standardrichtlinien für das Unternehmenspasswort anzeigen | ms |  |
+| Domain und Domain-Liste anzeigen | ✔ |  |
+| Domain-Verschlüsselungsschlüssel verwalten | ✔ |  |
+| Standardrichtlinien für das Unternehmenspasswort verwalten | ✔ |  |
+| Standardrichtlinien für das Unternehmenspasswort anzeigen | ✔ |  |
 
 ### Benutzerverwaltung
 
 | Berechtigung | Systemadministrator | Support-Administrator |
 |--- |--- |--- |
-| Benutzer zum Unternehmen hinzufügen | ms |  |
-| Benutzer aus dem Unternehmen entfernen | ms |  |
-| Benutzerdetails und -listen anzeigen | ms |  |
-| Benutzerprofil bearbeiten | ms |  |
-| Produktprofil zu Benutzer oder Gruppe hinzufügen | ms |  |
-| Produktprofil von Benutzer oder Gruppe entfernen | ms |  |
-| Produktprofile zu mehreren Benutzern hinzufügen | ms |  |
-| Produktprofile für einen Benutzer anzeigen | ms |  |
-| Produktbenutzerliste anzeigen | ms |  |
-| Benutzer im Stapel zum Unternehmen hinzufügen | ms |  |
+| Benutzer zum Unternehmen hinzufügen | ✔ |  |
+| Benutzer aus dem Unternehmen entfernen | ✔ |  |
+| Benutzerdetails und -listen anzeigen | ✔ |  |
+| Benutzerprofil bearbeiten | ✔ |  |
+| Produktprofil zu Benutzer oder Gruppe hinzufügen | ✔ |  |
+| Produktprofil von Benutzer oder Gruppe entfernen | ✔ |  |
+| Produktprofile zu mehreren Benutzern hinzufügen | ✔ |  |
+| Produktprofile für einen Benutzer anzeigen | ✔ |  |
+| Produktbenutzerliste anzeigen | ✔ |  |
+| Benutzer im Stapel zum Unternehmen hinzufügen | ✔ |  |
 
 ### Administratorverwaltung
 
 | Berechtigung | Systemadministrator | Support-Administrator |
 |--- |--- |--- |
-| Einem Benutzer Unternehmensadministratorrechte gewähren | ms |  |
-| Einem Benutzer Unternehmensadministratorrechte entziehen | ms |  |
-| Einem Benutzer Produktlizenz-Administratorrechte gewähren | ms |  |
-| Einem Benutzer Produktlizenz-Administratorrechte entziehen | ms |  |
-| Einem Benutzer Bereitstellungsadministratorrechte gewähren | ms |  |
-| Einem Benutzer Bereitstellungsadministratorrechte entziehen | ms |  |
-| Einem Benutzer Benutzergruppen-Administratorrechte gewähren | ms |  |
-| Einem Benutzer Benutzergruppen-Administratorrechte entziehen | ms |  |
-| Einem Benutzer Produkteigentümer-Administratorrechte gewähren | ms |  |
-| Einem Benutzer Produkteigentümer-Administratorrechte entziehen | ms |  |
+| Einem Benutzer Unternehmensadministratorrechte gewähren | ✔ |  |
+| Einem Benutzer Unternehmensadministratorrechte entziehen | ✔ |  |
+| Einem Benutzer Produktlizenz-Administratorrechte gewähren | ✔ |  |
+| Einem Benutzer Produktlizenz-Administratorrechte entziehen | ✔ |  |
+| Einem Benutzer Bereitstellungsadministratorrechte gewähren | ✔ |  |
+| Einem Benutzer Bereitstellungsadministratorrechte entziehen | ✔ |  |
+| Einem Benutzer Benutzergruppen-Administratorrechte gewähren | ✔ |  |
+| Einem Benutzer Benutzergruppen-Administratorrechte entziehen | ✔ |  |
+| Einem Benutzer Produkteigentümer-Administratorrechte gewähren | ✔ |  |
+| Einem Benutzer Produkteigentümer-Administratorrechte entziehen | ✔ |  |
 
 ### Verwaltung der Konfiguration der Produktlizenzen
 
@@ -218,45 +218,45 @@ In der folgenden Tabelle sind alle Berechtigungen für die verschiedenen Adminis
 |--- |--- |--- |
 | Einem Unternehmen Produktberechtigungen gewähren |  |  |
 | Einem Unternehmen Produktberechtigungen entziehen |  |  |
-| Gesamtanzahl der Lizenzen anzeigen, die dem Unternehmen gehören | ms |  |
-| Verfügbare Produkte und Produktfamilien anzeigen | ms |  |
-| Produktlizenzbeschreibungen/-daten bearbeiten | ms |  |
-| Einem Benutzer eine Produktlizenz bereitstellen | ms |  |
-| Einem Benutzer eine Produktlizenz entziehen | ms |  |
-| Neue Produktlizenzkonfiguration hinzufügen | ms |  |
-| Konfiguration des Produktlizenz-Service bearbeiten | ms |  |
-| Konfiguration des Produktlizenz-Service löschen | ms |  |
-| Produktzugriff von einem Benutzer entfernen (aus allen Konfigurationen entfernen) | ms |  |
+| Gesamtanzahl der Lizenzen anzeigen, die dem Unternehmen gehören | ✔ |  |
+| Verfügbare Produkte und Produktfamilien anzeigen | ✔ |  |
+| Produktlizenzbeschreibungen/-daten bearbeiten | ✔ |  |
+| Einem Benutzer eine Produktlizenz bereitstellen | ✔ |  |
+| Einem Benutzer eine Produktlizenz entziehen | ✔ |  |
+| Neue Produktlizenzkonfiguration hinzufügen | ✔ |  |
+| Konfiguration des Produktlizenz-Service bearbeiten | ✔ |  |
+| Konfiguration des Produktlizenz-Service löschen | ✔ |  |
+| Produktzugriff von einem Benutzer entfernen (aus allen Konfigurationen entfernen) | ✔ |  |
 
 ### Speicherverwaltung
 
 | Berechtigung | Systemadministrator | Support-Administrator |
 |--- |--- |--- |
-| Ordner aktiver und inaktiver Benutzer anzeigen | ms |  |
-| Ordner aktiver und inaktiver Benutzer löschen und Inhalte transferieren | ms |  |
+| Ordner aktiver und inaktiver Benutzer anzeigen | ✔ |  |
+| Ordner aktiver und inaktiver Benutzer löschen und Inhalte transferieren | ✔ |  |
 
 ### Implementierung
 
 | Berechtigung | Systemadministrator | Support-Administrator |
 |--- |--- |--- |
-| Packages-Tab anzeigen/verwenden | ms |  |
+| Packages-Tab anzeigen/verwenden | ✔ |  |
 
 ### Support
 
 | Berechtigung | Systemadministrator | Support-Administrator |
 |--- |--- |--- |
-| Support-Tab anzeigen | ms |  |
-| Support-Fälle verwalten | ms | ms |
+| Support-Tab anzeigen | ✔ |  |
+| Support-Fälle verwalten | ✔ | ✔ |
 
 ### Benutzergruppenverwaltung
 
 | Berechtigung | Systemadministrator | Support-Administrator |
 |--- |--- |--- |
-| Benutzergruppe erstellen | ms |  |
-| Benutzergruppe löschen | ms |  |
-| Benutzer zur Benutzergruppe hinzufügen | ms |  |
-| Benutzer aus Benutzergruppe entfernen | ms |  |
-| Benutzergruppe zur Produktlizenz hinzufügen | ms |  |
-| Benutzergruppe aus Produktlizenz entfernen | ms |  |
-| Mitglied der Benutzergruppe anzeigen | ms | ms |
-| Liste der Benutzergruppen anzeigen | ms | ms |
+| Benutzergruppe erstellen | ✔ |  |
+| Benutzergruppe löschen | ✔ |  |
+| Benutzer zur Benutzergruppe hinzufügen | ✔ |  |
+| Benutzer aus Benutzergruppe entfernen | ✔ |  |
+| Benutzergruppe zur Produktlizenz hinzufügen | ✔ |  |
+| Benutzergruppe aus Produktlizenz entfernen | ✔ |  |
+| Mitglied der Benutzergruppe anzeigen | ✔ | ✔ |
+| Liste der Benutzergruppen anzeigen | ✔ | ✔ |
