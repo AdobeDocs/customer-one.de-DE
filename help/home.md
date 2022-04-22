@@ -5,9 +5,9 @@ description: Neues Adobe-Support-Erlebnis
 seo-description: New Adobe Customer Support Experience
 seo-title: Adobe Experience Cloud Customer One for Enterprise
 exl-id: 276e0862-6f7e-491e-b63e-10a50b7238c2
-source-git-commit: 6fcd91d09ffc23047b2fb332af256ab7706355cd
-workflow-type: ht
-source-wordcount: '646'
+source-git-commit: 0544bb44afd2b60f6203084e3a0c5943248e562f
+workflow-type: tm+mt
+source-wordcount: '487'
 ht-degree: 100%
 
 ---
@@ -19,21 +19,6 @@ ht-degree: 100%
 Ab sofort können Support-Tickets über die [Admin Console](https://adminconsole.adobe.com/) gesendet werden. Anweisungen zum Senden eines Support-Tickets finden Sie im Abschnitt [Senden eines Support-Tickets](#submit-ticket).
 
 Wir arbeiten daran, die Interaktion mit dem Adobe-Kunden-Support zu verbessern. Die Neuerung beinhaltet die Zentralisierung aller Support-Vorgänge in Adobe Admin Console Portal. Dadurch wird Ihre Interaktion mit dem Adobe-Support deutlich vereinfacht. Denn das System bündelt Ihren gesamten Service-Verlauf an einer zentralen Stelle, über die Sie fortan auch alle weiteren Support-Anfragen per Telefon, Web und Chat aufgeben können.
-
-## Benötigen Sie Hilfe mit der neuen Support-Plattform?
-
-Wir bieten eine Reihe von Online-Meetings an, in denen Kunden ihre Fragen zum neuen Support-Prozess stellen können. Nehmen Sie an einem oder mehreren teil:
-
-| Datum und Uhrzeit | Registrierungs-Link |
-|--- |--- |
-| Donnerstag, 7. April, 8:00 Uhr PT | [Link zum Event](https://event.on24.com/wcc/r/3723732/5288A3B031AD858BF241EB0C0057CD85) |
-| Donnerstag, 7. April, 17:00 Uhr PT | [Link zum Event](https://event.on24.com/wcc/r/3723733/286EFEA9E8D9B6BB49464862F5414B8C) |
-| Mittwoch, 20. April, 8:00 Uhr PT | [Link zum Event](https://event.on24.com/wcc/r/3712143/05DAF046E4BB864E7C313B056ADE4EB2) |
-| Mittwoch, 20. April, 17:00 Uhr PT | [Link zum Event](https://event.on24.com/wcc/r/3723740/A9EDA45FA61D3FFC4BF713419B677F16) |
-| Donnerstag, 21. April, 8:00 Uhr PT | [Link zum Event](https://event.on24.com/wcc/r/3723741/C7EBCD38583D4D7AFCBD56029EB17C98) |
-| Donnerstag, 21. April, 17:00 Uhr PT | [Link zum Event](https://event.on24.com/wcc/r/3723743/6F41ED2648A621F1419A56F0A52F4446) |
-
-{style=&quot;table-layout:auto&quot;}
 
 ## Senden eines Support-Tickets über die Admin Console {#submit-ticket}
 
