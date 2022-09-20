@@ -7,7 +7,7 @@ user-guide-title: '[!DNL Customer One for Enterprise] Hilfe'
 source-git-commit: 89be38209b05b9b836d4487b31cb2e761b8aaf8d
 workflow-type: tm+mt
 source-wordcount: '20'
-ht-degree: 5%
+ht-degree: 80%
 
 ---
 
@@ -16,8 +16,8 @@ ht-degree: 5%
 
 + [Einführung](home.md)
 + [Administratorrollen](admin-roles.md)
-+ [Kundenunterstützung von Adobe kontaktieren](customer-care.md)
-+ Referenzdokumente {#ref-docs}
++ [Kontaktieren der Kundenunterstützung von Adobe](customer-care.md)
++ Referenzen {#ref-docs}
    + [Vorherige Ankündigung](intro-customer-support.md)
    + [Parkour Now-Ankündigung](parkour-now.md)
 + Workfront-Dokumente {#workfront}

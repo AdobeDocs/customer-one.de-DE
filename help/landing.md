@@ -4,7 +4,7 @@ description: Landingpage der Workfront-Admin Console
 source-git-commit: 80b615a98325b1dda41b2cff3cee14f8282b9cf9
 workflow-type: tm+mt
 source-wordcount: '235'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
@@ -16,7 +16,7 @@ Vorbereitung zur Integration Ihres Unternehmens in die Adobe Admin Console [Migr
 
 * Identifizieren Sie die gewünschte Adobe Admin Console, der Sie Workfront hinzufügen möchten.
 
-   Wenn Sie bereits über andere Adobe-Produkte verfügen, bestätigen Sie bitte Ihre Bereitschaft, Adobe Workfront zu Ihrer aktuellen Adobe Admin Console hinzuzufügen. Wenn Sie weitere Informationen benötigen, verwenden Sie bitte [dieser Link](https://helpx.adobe.com/enterprise/using/admin-console.html) , um die Best Practices für die Verwaltung Ihrer Adobe-Produkte zu verstehen.
+   Wenn Sie bereits über andere Adobe-Produkte verfügen, bestätigen Sie bitte Ihre Bereitschaft, Adobe Workfront zu Ihrer aktuellen Adobe Admin Console hinzuzufügen. Wenn Sie weitere Informationen benötigen, verwenden Sie bitte [dieser Link](https://helpx.adobe.com/de/enterprise/using/admin-console.html) , um die Best Practices für die Verwaltung Ihrer Adobe-Produkte zu verstehen.
 
 * Weitere Informationen finden Sie unter [nachfolgender Link](https://helpx.adobe.com/enterprise/using/deployment-planning.html) für Hilfe bei Ihrer Implementierung.
 * Bei Verwendung von Single Sign-On müssen Sie die neue Adobe Admin Console mit Ihrem bestehenden SSO-Provider verbinden.

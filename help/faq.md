@@ -4,8 +4,8 @@ title: Häufig gestellte Fragen zu Adobe Business Platform und Admin Console
 description: Häufig gestellte Fragen zu Adobe Workfront
 source-git-commit: 80b615a98325b1dda41b2cff3cee14f8282b9cf9
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '497'
+ht-degree: 1%
 
 ---
 
@@ -57,7 +57,7 @@ Siehe [dieses Dokuments](overview.md) Hervorhebung einiger der verfügbaren neue
 
 +++**Welche Schulungsressourcen stehen für AAC zur Verfügung?**
 
-&lt;https://helpx.adobe.com/enterprise/using/admin-console.html >
+&lt;https://helpx.adobe.com/de/enterprise/using/admin-console.html >
 
 +++
 
