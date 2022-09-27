@@ -1,33 +1,33 @@
 ---
-title: Landingpage der Workfront-Admin Console
-description: Landingpage der Workfront-Admin Console
+title: Landingpage der Admin Console für Workfront
+description: Landingpage der Admin Console für Workfront
 source-git-commit: 80b615a98325b1dda41b2cff3cee14f8282b9cf9
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '235'
-ht-degree: 2%
+ht-degree: 100%
 
 ---
 
-# Landingpage der Workfront-Admin Console
+# Landingpage der Admin Console für Workfront
 
-Vorbereitung zur Integration Ihres Unternehmens in die Adobe Admin Console [Migrationsprüfliste](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/admin-in-admin-console/prep-for-admin-console.html):
+[Migrations-Checkliste](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/admin-in-admin-console/prep-for-admin-console.html?lang=de) zur Vorbereitung Ihres Unternehmens auf den Wechsel zur Adobe Admin Console:
 
-**Migrationscheckliste**
+**Migrations-Checkliste**
 
 * Identifizieren Sie die gewünschte Adobe Admin Console, der Sie Workfront hinzufügen möchten.
 
-   Wenn Sie bereits über andere Adobe-Produkte verfügen, bestätigen Sie bitte Ihre Bereitschaft, Adobe Workfront zu Ihrer aktuellen Adobe Admin Console hinzuzufügen. Wenn Sie weitere Informationen benötigen, verwenden Sie bitte [dieser Link](https://helpx.adobe.com/de/enterprise/using/admin-console.html) , um die Best Practices für die Verwaltung Ihrer Adobe-Produkte zu verstehen.
+   Wenn Sie bereits über andere Adobe-Produkte verfügen, bestätigen Sie bitte Ihre Bereitschaft, Adobe Workfront zu Ihrer aktuellen Adobe Admin Console hinzuzufügen. Wenn Sie weitere Informationen benötigen, verwenden Sie [diesen Link](https://helpx.adobe.com/de/enterprise/using/admin-console.html), um mehr über die Best Practices für die Verwaltung Ihrer Adobe-Produkte zu erfahren.
 
-* Weitere Informationen finden Sie unter [nachfolgender Link](https://helpx.adobe.com/enterprise/using/deployment-planning.html) für Hilfe bei Ihrer Implementierung.
-* Bei Verwendung von Single Sign-On müssen Sie die neue Adobe Admin Console mit Ihrem bestehenden SSO-Provider verbinden.
+* Unter [diesem Link](https://helpx.adobe.com/de/enterprise/using/deployment-planning.html) erhalten Sie weitere Hilfe bei der Implementierung.
+* Bei Verwendung von Single Sign-on müssen Sie die neue Adobe Admin Console mit Ihrem bestehenden SSO-Provider verbinden.
 * Stellen Sie sicher, dass doppelte E-Mails entfernt werden und nur gültige E-Mail-Adressen verwendet werden.
 * Wenn Sie benutzerdefinierte API-Integrationen verwenden, überprüfen Sie, ob diese Benutzer über eine gültige E-Mail-Adresse verfügen, auf die sie zugreifen können.
 
-   Workfront empfiehlt, alle benutzerdefinierten Integrationen auf [Verwenden von OAuth2](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/configure-integrations/create-oauth-application.html).
+   Workfront empfiehlt, alle benutzerdefinierten Integrationen auf die [Verwendung von OAuth2](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/configure-integrations/create-oauth-application.html?lang=de) zu aktualisieren.
 
-Nachdem Sie Ihre Konsole konfiguriert haben, lesen Sie diesen Link, um zu sehen: [Verwalten von Benutzern](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/add-users/create-manage-users/admin-console.html) in Ihrer Adobe Admin Console.
+Nachdem Sie Ihre Konsole konfiguriert haben, erfahren Sie unter diesem Link, wie Sie in der Adobe Admin Console [Benutzer verwalten](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/add-users/create-manage-users/admin-console.html?lang=de).
 
 >[!TIP]
 >
->Willst du an die vorderste Ecke springen und frühzeitig migrieren? Teilen Sie uns das mit [here](https://workfront.az1.qualtrics.com/jfe/form/SV_9T5LuHf05JUOPAi).
+>Möchten Sie zu den Ersten gehören, die die Migration durchführen? Teilen Sie uns das [hier](https://workfront.az1.qualtrics.com/jfe/form/SV_9T5LuHf05JUOPAi) mit.
 
