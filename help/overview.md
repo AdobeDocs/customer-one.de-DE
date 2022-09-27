@@ -1,36 +1,36 @@
 ---
-keywords: Workfront-Support; Support-Ticket einreichen; Support
+keywords: Workfront-Support;Support-Ticket einreichen;Support
 title: Überblick über den Adobe Workfront-Support
-description: Adobe Workfront nimmt an der Adobe Admin Console Platform teil.
+description: Adobe Workfront wird in die Adobe Admin Console integriert.
 source-git-commit: be82f76b3b7ce7ba38dea1b8e9816fedccd30e8f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '238'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 # Überblick über den Adobe Workfront-Support
 
-Adobe Workfront nimmt an der Adobe Admin Console Platform teil.
+Adobe Workfront wird in die Adobe Admin Console integriert.
 
-In den kommenden Monaten werden Kunden kontaktiert, um eine Migration zur Adobe Identity and Admin Console zu koordinieren, einer noch sichereren und funktionelleren Systemverwaltungskonsole. Hier einige Vorteile für die bevorstehende Änderung:
+In den kommenden Monaten werden Kunden bezüglich der Migration zu Adobe Identity und der Admin Console kontaktiert. Dabei handelt es sich um eine noch sicherere Verwaltungskonsole mit größerem Funktionsumfang. Der Wechsel bietet unter anderem folgende Vorteile:
 
-* Authentifizieren Sie sich bei Workfront und anderen Produkten mit einer einzigen Adobe.
+* Authentifizieren Sie sich bei Workfront und anderen Produkten mit einer einzigen Adobe-Identität.
 * Verwalten Sie Benutzerberechtigungen separat zwischen Produktions- und Sandbox- oder Vorschauumgebungen.
-* Mehrere SSO-Konfigurationen für Workfront-Benutzer verwenden.
-* Verwalten Sie Berechtigungen für Workfront auf dieselbe Weise wie andere Adobe-Produkte.
+* Verwenden Sie mehrere SSO-Konfigurationen für Workfront-Benutzer.
+* Verwalten Sie Berechtigungen für Workfront auf dieselbe Weise wie bei anderen Adobe-Produkten.
 
-Für eine ausführliche Übersicht über die Adobe Identity- und Admin Console können Sie auf Folgendes verweisen: [Support-Seite](https://helpx.adobe.com/enterprise/admin-guide.html). Es gibt auch einen Vergleich zwischen der aktuellen Workfront-Konsole und der neuen Adobe Console [here](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FAdministration_and_Setup%2FGet_started-WF_administration%2Factions-in-admin-console.htm&amp;_LANG=enus).
+Eine ausführliche Übersicht über Adobe Identity und die Admin Console finden Sie auf der folgenden [Support-Seite](https://helpx.adobe.com/de/enterprise/admin-guide.html). [Hier](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FAdministration_and_Setup%2FGet_started-WF_administration%2Factions-in-admin-console.htm&amp;_LANG=enus) finden Sie auch einen Vergleich zwischen der aktuellen Workfront-Konsole und der neuen Adobe-Konsole.
 
 <!--
 New URL for July 27:
 https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/get-started-administration/actions-in-admin-console.html
 -->
 
-Darüber hinaus gibt es eine FAQ, die als Referenz zur Verfügung stehen. [here](faq.md).
+Darüber hinaus finden Sie [hier](faq.md) Fragen und Antworten.
 
 ## Details zur Kundenmigration
 
-Bestehende Kunden werden kontaktiert, um Migrationen ab Juli 2022 zu planen.  Unsere Mitarbeiter des Migrationsteams werden Kunden durch den Prozess führen, die Einrichtung der Konsole beraten und Links zur Dokumentation bereitstellen, die erforderlich sind, um den Umstieg so einfach und unkompliziert wie möglich zu gestalten.
+Bestehende Kunden werden ab Juli 2022 zur Planung der Migration kontaktiert.  Die Mitarbeitenden unseres Migrations-Teams führen Kunden auch durch den Vorgang, beraten bei der Einrichtung der Konsole und stellen Links zu Dokumentation verfügbar, um den Wechsel so einfach und reibungslos wie möglich zu machen.
 
-Neue Kunden ab Juli 2022 werden automatisch in Adobe Admin Console aufgenommen und erfordern keine weiteren Maßnahmen.
+Neue Kunden starten ab Juli 2022 automatisch mit der Adobe Admin Console aufgenommen und müssen keine weiteren Schritte durchführen.
