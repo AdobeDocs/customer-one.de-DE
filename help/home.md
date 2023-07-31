@@ -5,9 +5,9 @@ description: Neues Adobe-Support-Erlebnis
 seo-description: New Adobe Customer Support Experience
 seo-title: Adobe Experience Cloud Customer One for Enterprise
 exl-id: 276e0862-6f7e-491e-b63e-10a50b7238c2
-source-git-commit: 54cf27e25fdbd18c9ef3fbc2d606e9005fc5025e
+source-git-commit: 21d5995ce2529a47e1691ce152cf3da7cd978890
 workflow-type: tm+mt
-source-wordcount: '729'
+source-wordcount: '732'
 ht-degree: 78%
 
 ---
@@ -48,8 +48,8 @@ So weisen Sie einem Benutzer eine Support-Admin-Rolle zu (ermöglichen Sie es ei
 
 1. Wählen Sie eine der beiden folgenden Optionen aus:
 
-   * Option 1: **[!UICONTROL Grundlegender Support-Administrator]**. Wählen Sie diese Option aus, wenn Sie dem Benutzer-Support Zugriff auf alle Lösungen (außer Marketo) gewähren möchten.
-   * Option 2: **[!UICONTROL Support-Administrator]**: Wählen Sie diese Option für den Marketo-Support aus. Wählen Sie die Marketo-Instanzen aus, auf die der Benutzersupport Zugriff erhalten soll.
+   * Option 1: **[!UICONTROL Grundlegender Support-Administrator]**. Wählen Sie diese Option aus, wenn Sie dem Benutzer-Support Zugriff auf alle Lösungen (außer Marketo Engage) gewähren möchten.
+   * Option 2: **[!UICONTROL Support-Administrator]**: Wählen Sie diese Option zur Unterstützung von Marketo Engage aus. Wählen Sie die Marketo Engage-Instanzen aus, auf die der Benutzer-Support Zugriff erhalten soll.
 
    ![Administratorrechte bearbeiten Marketo](assets/edit-admin-rights-advanced.png)
 
