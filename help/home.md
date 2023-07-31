@@ -5,10 +5,10 @@ description: Neues Adobe-Support-Erlebnis
 seo-description: New Adobe Customer Support Experience
 seo-title: Adobe Experience Cloud Customer One for Enterprise
 exl-id: 276e0862-6f7e-491e-b63e-10a50b7238c2
-source-git-commit: 0544bb44afd2b60f6203084e3a0c5943248e562f
-workflow-type: ht
-source-wordcount: '487'
-ht-degree: 100%
+source-git-commit: 79bb048c2aa379a7ec455dbdbcd9b6406f047f3c
+workflow-type: tm+mt
+source-wordcount: '687'
+ht-degree: 79%
 
 ---
 
@@ -28,7 +28,38 @@ Damit Sie ein Support-Ticket über die [Admin Console](https://adminconsole.adob
 
 Die Support-Administratorrolle ist eine nicht administrative Rolle, die Zugriff auf Support-bezogene Informationen hat. Support-Administratoren können Problemberichte anzeigen, erstellen und verwalten.
 
-Um die Support-Administratorrolle zuzuweisen folgen Sie den Anweisungen unter [Zuweisen der Unternehmensadministratorrolle bearbeiten](admin-roles.md#add-enterprise-role) in der Dokumentation zu Administratorrollen. Beachten Sie, dass nur ein Systemadministrator für Ihr Unternehmen diese Rolle zuweisen kann. Weitere Informationen zur Administrationshierarchie finden Sie in der Dokumentation zu [Administratorrollen](admin-roles.md).
+So fügen Sie einen Administrator hinzu oder laden ihn ein:
+
+1. Wählen Sie in der Admin Console **[!UICONTROL Benutzer]** > **[!UICONTROL Administratoren]**.
+1. Klicken Sie auf **[!UICONTROL Administrator hinzufügen]**.
+1. Geben Sie einen Namen oder eine E-Mail-Adresse ein.
+
+   Sie können nach vorhandenen Benutzern suchen oder einen neuen Benutzer hinzufügen, indem Sie eine gültige E-Mail-Adresse angeben und die Informationen auf dem Bildschirm ausfüllen.
+
+   ![Admin hinzufügen](assets/admin-console-add-admin.png)
+
+1. Klicken Sie auf **[!UICONTROL Weiter]**. Eine Liste der Administratorrollen öffnet sich.
+
+So weisen Sie einem Benutzer eine Support-Admin-Rolle zu (ermöglichen Sie es einem Benutzer, sich an den Support zu wenden):
+
+1. Wählen Sie die **[!UICONTROL Support-Administrator]** -Option.
+
+   ![Administratorrechte bearbeiten](assets/edit-admin-rights.png)
+
+1. Wählen Sie eine der beiden folgenden Optionen aus:
+
+   * Option 1: **[!UICONTROL Grundlegender Support-Administrator]**. Wählen Sie diese Option aus, wenn Sie dem Benutzer-Support Zugriff auf alle Lösungen (außer Marketo) gewähren möchten.
+   * Option 2: **[!UICONTROL Support-Administrator]**: Wählen Sie diese Option für den Marketo-Support aus. Wählen Sie die Marketo-Instanzen aus, auf die der Benutzersupport Zugriff erhalten soll.
+
+   ![Administratorrechte bearbeiten Marketo](assets/edit-admin-rights-advanced.png)
+
+1. Nachdem Sie die Auswahl vorgenommen haben, klicken Sie auf **[!UICONTROL Speichern]**.
+
+Der Benutzer erhält per E-Mail eine Einladung zu den neuen Administratorrechten von `message@adobe.com`.
+
+Benutzer müssen in der E-Mail auf **Erste Schritte** klicken, um Mitglied des Unternehmens zu werden. Wenn neue Administratoren den Link **Erste Schritte** in der E-Mail-Einladung nicht anklicken, können sie sich nicht bei der Admin Console anmelden.
+
+Im Rahmen des Anmeldeprozesses können Benutzer aufgefordert werden, ein Benutzerprofil einzurichten, wenn sie noch keines haben. Wenn mehrere Profile mit der E-Mail-Adresse verknüpft sind, müssen die Benutzer auswählen **Team beitreten** (wenn Sie dazu aufgefordert werden) und wählen Sie dann das mit der neuen Organisation verknüpfte Profil aus.
 
 ### Erstellen eines Support-Tickets über die Admin Console
 
