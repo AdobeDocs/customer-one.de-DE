@@ -5,10 +5,10 @@ description: Neues Adobe-Support-Erlebnis
 seo-description: New Adobe Customer Support Experience
 seo-title: Adobe Experience Cloud Customer One for Enterprise
 exl-id: 276e0862-6f7e-491e-b63e-10a50b7238c2
-source-git-commit: 79bb048c2aa379a7ec455dbdbcd9b6406f047f3c
+source-git-commit: 54cf27e25fdbd18c9ef3fbc2d606e9005fc5025e
 workflow-type: tm+mt
-source-wordcount: '687'
-ht-degree: 79%
+source-wordcount: '729'
+ht-degree: 78%
 
 ---
 
@@ -60,6 +60,10 @@ Der Benutzer erhält per E-Mail eine Einladung zu den neuen Administratorrechten
 Benutzer müssen in der E-Mail auf **Erste Schritte** klicken, um Mitglied des Unternehmens zu werden. Wenn neue Administratoren den Link **Erste Schritte** in der E-Mail-Einladung nicht anklicken, können sie sich nicht bei der Admin Console anmelden.
 
 Im Rahmen des Anmeldeprozesses können Benutzer aufgefordert werden, ein Benutzerprofil einzurichten, wenn sie noch keines haben. Wenn mehrere Profile mit der E-Mail-Adresse verknüpft sind, müssen die Benutzer auswählen **Team beitreten** (wenn Sie dazu aufgefordert werden) und wählen Sie dann das mit der neuen Organisation verknüpfte Profil aus.
+
+![Bestätigung der Administratorrechte](assets/admin-rights-confirmation.png)
+
+Weitere Informationen finden Sie unter [Unternehmensadministratorrolle bearbeiten](admin-roles.md#add-enterprise-role) Anweisungen in der Dokumentation zu Administratorrollen. Beachten Sie, dass nur ein Systemadministrator für Ihr Unternehmen diese Rolle zuweisen kann. Weitere Informationen zur Administrationshierarchie finden Sie in der Dokumentation zu [Administratorrollen](admin-roles.md).
 
 ### Erstellen eines Support-Tickets über die Admin Console
 
