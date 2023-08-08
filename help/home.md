@@ -8,7 +8,7 @@ exl-id: 276e0862-6f7e-491e-b63e-10a50b7238c2
 source-git-commit: 21d5995ce2529a47e1691ce152cf3da7cd978890
 workflow-type: tm+mt
 source-wordcount: '732'
-ht-degree: 78%
+ht-degree: 91%
 
 ---
 
@@ -34,32 +34,32 @@ So fügen Sie einen Administrator hinzu oder laden ihn ein:
 1. Klicken Sie auf **[!UICONTROL Administrator hinzufügen]**.
 1. Geben Sie einen Namen oder eine E-Mail-Adresse ein.
 
-   Sie können nach vorhandenen Benutzern suchen oder einen neuen Benutzer hinzufügen, indem Sie eine gültige E-Mail-Adresse angeben und die Informationen auf dem Bildschirm ausfüllen.
+   Sie können nach vorhandenen Benutzenden suchen oder neue Benutzende hinzufügen, indem Sie eine gültige E-Mail-Adresse angeben und die entsprechenden Felder am Bildschirm ausfüllen.
 
    ![Admin hinzufügen](assets/admin-console-add-admin.png)
 
 1. Klicken Sie auf **[!UICONTROL Weiter]**. Eine Liste der Administratorrollen öffnet sich.
 
-So weisen Sie einem Benutzer eine Support-Admin-Rolle zu (ermöglichen Sie es einem Benutzer, sich an den Support zu wenden):
+So weisen Sie Benutzenden die Support-Admin-Rolle zu (wodurch Benutzende den Support kontaktieren können):
 
-1. Wählen Sie die **[!UICONTROL Support-Administrator]** -Option.
+1. Wählen Sie die Option **[!UICONTROL Support-Administrator]** aus.
 
    ![Administratorrechte bearbeiten](assets/edit-admin-rights.png)
 
 1. Wählen Sie eine der beiden folgenden Optionen aus:
 
-   * Option 1: **[!UICONTROL Grundlegender Support-Administrator]**. Wählen Sie diese Option aus, wenn Sie dem Benutzer-Support Zugriff auf alle Lösungen (außer Marketo Engage) gewähren möchten.
+   * Option 1: **[!UICONTROL Standard-Support-Administrator]**. Wählen Sie diese Option aus, wenn Sie dem Benutzer-Support Zugriff auf alle Lösungen (außer Marketo Engage) gewähren möchten.
    * Option 2: **[!UICONTROL Support-Administrator]**: Wählen Sie diese Option zur Unterstützung von Marketo Engage aus. Wählen Sie die Marketo Engage-Instanzen aus, auf die der Benutzer-Support Zugriff erhalten soll.
 
    ![Administratorrechte bearbeiten Marketo](assets/edit-admin-rights-advanced.png)
 
-1. Nachdem Sie die Auswahl vorgenommen haben, klicken Sie auf **[!UICONTROL Speichern]**.
+1. Wenn Sie die Auswahl vorgenommen haben, klicken Sie auf **[!UICONTROL Speichern]**.
 
 Der Benutzer erhält per E-Mail eine Einladung zu den neuen Administratorrechten von `message@adobe.com`.
 
 Benutzer müssen in der E-Mail auf **Erste Schritte** klicken, um Mitglied des Unternehmens zu werden. Wenn neue Administratoren den Link **Erste Schritte** in der E-Mail-Einladung nicht anklicken, können sie sich nicht bei der Admin Console anmelden.
 
-Im Rahmen des Anmeldeprozesses können Benutzer aufgefordert werden, ein Benutzerprofil einzurichten, wenn sie noch keines haben. Wenn mehrere Profile mit der E-Mail-Adresse verknüpft sind, müssen die Benutzer auswählen **Team beitreten** (wenn Sie dazu aufgefordert werden) und wählen Sie dann das mit der neuen Organisation verknüpfte Profil aus.
+Im Rahmen des Anmeldeprozesses können Benutzer aufgefordert werden, ein Benutzerprofil einzurichten, wenn sie noch keines haben. Wenn Benutzende mehrere Profile haben, die mit ihrer E-Mail-Adresse verknüpft sind, müssen sie (bei entsprechender Aufforderung) auf „Dem Team beitreten“ klicken und danach das mit dem neuen Unternehmen verknüpfte Profil auswählen.****
 
 ![Bestätigung der Administratorrechte](assets/admin-rights-confirmation.png)
 
