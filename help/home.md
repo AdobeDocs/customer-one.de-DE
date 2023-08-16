@@ -6,9 +6,9 @@ seo-description: New Adobe Customer Support Experience
 seo-title: Adobe Experience Cloud Customer One for Enterprise
 exl-id: 276e0862-6f7e-491e-b63e-10a50b7238c2
 source-git-commit: 21d5995ce2529a47e1691ce152cf3da7cd978890
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '732'
-ht-degree: 91%
+ht-degree: 100%
 
 ---
 
@@ -48,8 +48,8 @@ So weisen Sie Benutzenden die Support-Admin-Rolle zu (wodurch Benutzende den Sup
 
 1. Wählen Sie eine der beiden folgenden Optionen aus:
 
-   * Option 1: **[!UICONTROL Standard-Support-Administrator]**. Wählen Sie diese Option aus, wenn Sie dem Benutzer-Support Zugriff auf alle Lösungen (außer Marketo Engage) gewähren möchten.
-   * Option 2: **[!UICONTROL Support-Administrator]**: Wählen Sie diese Option zur Unterstützung von Marketo Engage aus. Wählen Sie die Marketo Engage-Instanzen aus, auf die der Benutzer-Support Zugriff erhalten soll.
+   * Option 1: **[!UICONTROL Standard-Support-Administrator]**. Wählen Sie diese Option aus, wenn Sie Benutzenden Support-Zugriff auf alle Lösungen (außer Marketo Engage) gewähren möchten.
+   * Option 2: **[!UICONTROL Produkt-Support-Administrator]**: Wählen Sie diese Option für den Marketo Engage-Support aus. Wählen Sie die Marketo Engage-Instanzen aus, auf die Benutzende Support-Zugriff erhalten sollen.
 
    ![Administratorrechte bearbeiten Marketo](assets/edit-admin-rights-advanced.png)
 
@@ -63,7 +63,7 @@ Im Rahmen des Anmeldeprozesses können Benutzer aufgefordert werden, ein Benutze
 
 ![Bestätigung der Administratorrechte](assets/admin-rights-confirmation.png)
 
-Weitere Informationen finden Sie unter [Unternehmensadministratorrolle bearbeiten](admin-roles.md#add-enterprise-role) Anweisungen in der Dokumentation zu Administratorrollen. Beachten Sie, dass nur ein Systemadministrator für Ihr Unternehmen diese Rolle zuweisen kann. Weitere Informationen zur Administrationshierarchie finden Sie in der Dokumentation zu [Administratorrollen](admin-roles.md).
+Weitere Informationen finden Sie in den Anweisungen zur [Bearbeitung von Unternehmens-Administratorrolle](admin-roles.md#add-enterprise-role) in der Dokumentation zu Administratorrollen. Beachten Sie, dass nur ein Systemadministrator für Ihr Unternehmen diese Rolle zuweisen kann. Weitere Informationen zur Administrationshierarchie finden Sie in der Dokumentation zu [Administratorrollen](admin-roles.md).
 
 ### Erstellen eines Support-Tickets über die Admin Console
 
