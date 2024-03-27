@@ -1,12 +1,11 @@
 ---
 title: Ihr neues Adobe-Supporterlebnis ist in Vorbereitung – Kontakt für  [!DNL Campaign] -Bereitstellung
 description: Ihr neues Adobe-Supporterlebnis ist in Vorbereitung – Kontakt für  [!DNL Campaign] -Bereitstellung
-seo-title: Ihr neues Adobe-Supporterlebnis ist in Vorbereitung – Kontakt für  [!DNL Campaign] -Bereitstellung
-seo-description: Ihr neues Adobe-Supporterlebnis ist in Vorbereitung – Kontakt für  [!DNL Campaign] -Bereitstellung
-translation-type: ht
+seo-title: Your New Adobe Customer Support Experience is Coming - [!DNL Campaign] deploy contact
+seo-description: Your New Adobe Customer Support Experience is Coming - [!DNL Campaign] deploy contact
 source-git-commit: a78e81c0f45ca3f2fb9e8dfda6babada819aa3c1
 workflow-type: ht
-source-wordcount: '340'
+source-wordcount: '297'
 ht-degree: 100%
 
 ---
@@ -26,13 +25,13 @@ Unseren Unterlagen zufolge waren Sie während des Kaufprozesses für die Adobe E
 
 Als Systemadministrator haben Sie Zugriff auf das [!DNL Adobe Admin Console Support Portal]. Dort können Sie:
 
-* verbesserte Funktionen für das Management von Supportanfragen nutzen
+* verbesserte Funktionen für das Management von Support-Anfragen nutzen
 * bequem per Chat mit dem [!DNL Adobe Customer Support] in Kontakt treten
 * Support-Benutzern Zugriff auf das Portal gewähren
 
 >[!NOTE]
 >
->Bitte bestätigen Sie, dass Sie in Ihrem Unternehmen als Systemadministrator für Adobe Campaign-Produkte fungieren (oder geben Sie einen anderen Ansprechpartner an), **indem Sie das [[!DNL System Admin Confirmation Form]](https://adobe.allegiancetech.com/cgi-bin/qwebcorporate.dll?idx=N5M8RY) bis zum 4. November 2019 ausfüllen und übermitteln**.
+>Bitte bestätigen Sie, dass Sie diese Rolle als Systemadministrator für Adobe Campaign-Produkte in Ihrer Organisation akzeptieren (oder stellen Sie einen alternativen Kontakt bereit), **indem Sie das [[!DNL System Admin Confirmation Form]](https://adobe.allegiancetech.com/cgi-bin/qwebcorporate.dll?idx=N5M8RY) bis zum 4. November 2019 ausfüllen und übermitteln**.
 >
 >Durch das Ausfüllen dieses Formulars stellen Sie sicher, dass die entsprechenden Anmeldeinformationen dem für Ihr Unternehmen vorgesehenen Systemadministrator zugewiesen werden und dass wir Ihrem Unternehmen weitere, für die Vorbereitung auf die kommenden Änderungen benötigte Informationen zukommen lassen können.
 

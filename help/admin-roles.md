@@ -4,7 +4,7 @@ description: Mithilfe der Adobe Admin Console können Unternehmen eine flexible 
 exl-id: bfee66b5-d7bb-4ecb-8d22-efb68611ecc8
 source-git-commit: 6fcd91d09ffc23047b2fb332af256ab7706355cd
 workflow-type: ht
-source-wordcount: '1640'
+source-wordcount: '1689'
 ht-degree: 100%
 
 ---
@@ -45,7 +45,7 @@ _Hierarchie der Administratorrollen_
 
 Eine detaillierte Liste der Berechtigungen für jede Administratorrolle finden Sie unter [Berechtigungen](#enterprise-admins-permissions-matrix).
 
-## Hinzufügen eines Unternehmensadministrators Rolle {#add-enterprise-role}
+## Hinzufügen der Rolle „Unternehmensadmin“ {#add-enterprise-role}
 
 Gilt für: Unternehmenskunden von Adobe.
 
@@ -65,7 +65,6 @@ So fügen Sie einen Administrator hinzu oder laden ihn ein:
 >
 >* Die auf diesem Bildschirm angezeigten Optionen hängen von Ihrem Konto und Ihrer Administratorrolle ab. Sie können entweder dieselben Berechtigungen vergeben, die Sie selbst besitzen, oder Berechtigungen für eine Rolle zuweisen, die in der Hierarchie unter Ihrer liegen.
 >* Als Systemadministrator eines Teams können Sie nur eine einzige Administratorrolle zuweisen: die des Systemadministrators.
-
 
 1. Wählen Sie eine oder mehrere Administratorrollen aus.
 1. Wählen Sie für Administratortypen wie Produktadministrator, Produktprofiladministrator und Benutzergruppenadministrator die spezifischen Produkte, Profile und Gruppen aus.
@@ -176,87 +175,87 @@ In der folgenden Tabelle sind alle Berechtigungen für die verschiedenen Adminis
 
 | Berechtigung | Systemadministrator | Support-Administrator |
 |--- |--- |--- |
-| Domain hinzufügen (Domain anfordern) | ✔ |  |
-| Domain und Domain-Liste anzeigen | ✔ |  |
-| Domain-Verschlüsselungsschlüssel verwalten | ✔ |  |
-| Standardrichtlinien für das Unternehmenspasswort verwalten | ✔ |  |
-| Standardrichtlinien für das Unternehmenspasswort anzeigen | ✔ |  |
+| Domain hinzufügen (Domain anfordern) | ✔ | |
+| Domain und Domain-Liste anzeigen | ✔ | |
+| Domain-Verschlüsselungsschlüssel verwalten | ✔ | |
+| Standardrichtlinien für das Unternehmenspasswort verwalten | ✔ | |
+| Standardrichtlinien für das Unternehmenspasswort anzeigen | ✔ | |
 
 ### Benutzerverwaltung
 
 | Berechtigung | Systemadministrator | Support-Administrator |
 |--- |--- |--- |
-| Benutzer zum Unternehmen hinzufügen | ✔ |  |
-| Benutzer aus dem Unternehmen entfernen | ✔ |  |
-| Benutzerdetails und -listen anzeigen | ✔ |  |
-| Benutzerprofil bearbeiten | ✔ |  |
-| Produktprofil zu Benutzer oder Gruppe hinzufügen | ✔ |  |
-| Produktprofil von Benutzer oder Gruppe entfernen | ✔ |  |
-| Produktprofile zu mehreren Benutzern hinzufügen | ✔ |  |
-| Produktprofile für einen Benutzer anzeigen | ✔ |  |
-| Produktbenutzerliste anzeigen | ✔ |  |
-| Benutzer im Stapel zum Unternehmen hinzufügen | ✔ |  |
+| Benutzer zum Unternehmen hinzufügen | ✔ | |
+| Benutzer aus dem Unternehmen entfernen | ✔ | |
+| Benutzerdetails und -listen anzeigen | ✔ | |
+| Benutzerprofil bearbeiten | ✔ | |
+| Produktprofil zu Benutzer oder Gruppe hinzufügen | ✔ | |
+| Produktprofil von Benutzer oder Gruppe entfernen | ✔ | |
+| Produktprofile zu mehreren Benutzern hinzufügen | ✔ | |
+| Produktprofile für einen Benutzer anzeigen | ✔ | |
+| Produktbenutzerliste anzeigen | ✔ | |
+| Benutzer im Stapel zum Unternehmen hinzufügen | ✔ | |
 
 ### Administratorverwaltung
 
 | Berechtigung | Systemadministrator | Support-Administrator |
 |--- |--- |--- |
-| Einem Benutzer Unternehmensadministratorrechte gewähren | ✔ |  |
-| Einem Benutzer Unternehmensadministratorrechte entziehen | ✔ |  |
-| Einem Benutzer Produktlizenz-Administratorrechte gewähren | ✔ |  |
-| Einem Benutzer Produktlizenz-Administratorrechte entziehen | ✔ |  |
-| Einem Benutzer Bereitstellungsadministratorrechte gewähren | ✔ |  |
-| Einem Benutzer Bereitstellungsadministratorrechte entziehen | ✔ |  |
-| Einem Benutzer Benutzergruppen-Administratorrechte gewähren | ✔ |  |
-| Einem Benutzer Benutzergruppen-Administratorrechte entziehen | ✔ |  |
-| Einem Benutzer Produkteigentümer-Administratorrechte gewähren | ✔ |  |
-| Einem Benutzer Produkteigentümer-Administratorrechte entziehen | ✔ |  |
+| Einem Benutzer Unternehmensadministratorrechte gewähren | ✔ | |
+| Einem Benutzer Unternehmensadministratorrechte entziehen | ✔ | |
+| Einem Benutzer Produktlizenz-Administratorrechte gewähren | ✔ | |
+| Einem Benutzer Produktlizenz-Administratorrechte entziehen | ✔ | |
+| Einem Benutzer Bereitstellungsadministratorrechte gewähren | ✔ | |
+| Einem Benutzer Bereitstellungsadministratorrechte entziehen | ✔ | |
+| Einem Benutzer Benutzergruppen-Administratorrechte gewähren | ✔ | |
+| Einem Benutzer Benutzergruppen-Administratorrechte entziehen | ✔ | |
+| Einem Benutzer Produkteigentümer-Administratorrechte gewähren | ✔ | |
+| Einem Benutzer Produkteigentümer-Administratorrechte entziehen | ✔ | |
 
 ### Verwaltung der Konfiguration der Produktlizenzen
 
 | Berechtigung | Systemadministrator | Support-Administrator |
 |--- |--- |--- |
-| Einem Unternehmen Produktberechtigungen gewähren |  |  |
-| Einem Unternehmen Produktberechtigungen entziehen |  |  |
-| Gesamtanzahl der Lizenzen anzeigen, die dem Unternehmen gehören | ✔ |  |
-| Verfügbare Produkte und Produktfamilien anzeigen | ✔ |  |
-| Produktlizenzbeschreibungen/-daten bearbeiten | ✔ |  |
-| Einem Benutzer eine Produktlizenz bereitstellen | ✔ |  |
-| Einem Benutzer eine Produktlizenz entziehen | ✔ |  |
-| Neue Produktlizenzkonfiguration hinzufügen | ✔ |  |
-| Konfiguration des Produktlizenz-Service bearbeiten | ✔ |  |
-| Konfiguration des Produktlizenz-Service löschen | ✔ |  |
-| Produktzugriff von einem Benutzer entfernen (aus allen Konfigurationen entfernen) | ✔ |  |
+| Einem Unternehmen Produktberechtigungen gewähren | | |
+| Einem Unternehmen Produktberechtigungen entziehen | | |
+| Gesamtanzahl der Lizenzen anzeigen, die dem Unternehmen gehören | ✔ | |
+| Verfügbare Produkte und Produktfamilien anzeigen | ✔ | |
+| Produktlizenzbeschreibungen/-daten bearbeiten | ✔ | |
+| Einem Benutzer eine Produktlizenz bereitstellen | ✔ | |
+| Einem Benutzer eine Produktlizenz entziehen | ✔ | |
+| Neue Produktlizenzkonfiguration hinzufügen | ✔ | |
+| Konfiguration des Produktlizenz-Service bearbeiten | ✔ | |
+| Konfiguration des Produktlizenz-Service löschen | ✔ | |
+| Produktzugriff von einem Benutzer entfernen (aus allen Konfigurationen entfernen) | ✔ | |
 
 ### Speicherverwaltung
 
 | Berechtigung | Systemadministrator | Support-Administrator |
 |--- |--- |--- |
-| Ordner aktiver und inaktiver Benutzer anzeigen | ✔ |  |
-| Ordner aktiver und inaktiver Benutzer löschen und Inhalte transferieren | ✔ |  |
+| Ordner aktiver und inaktiver Benutzer anzeigen | ✔ | |
+| Ordner aktiver und inaktiver Benutzer löschen und Inhalte transferieren | ✔ | |
 
 ### Implementierung
 
 | Berechtigung | Systemadministrator | Support-Administrator |
 |--- |--- |--- |
-| Packages-Tab anzeigen/verwenden | ✔ |  |
+| Packages-Tab anzeigen/verwenden | ✔ | |
 
 ### Support
 
 | Berechtigung | Systemadministrator | Support-Administrator |
 |--- |--- |--- |
-| Support-Tab anzeigen | ✔ |  |
+| Support-Tab anzeigen | ✔ | |
 | Support-Fälle verwalten | ✔ | ✔ |
 
 ### Benutzergruppenverwaltung
 
 | Berechtigung | Systemadministrator | Support-Administrator |
 |--- |--- |--- |
-| Benutzergruppe erstellen | ✔ |  |
-| Benutzergruppe löschen | ✔ |  |
-| Benutzer zur Benutzergruppe hinzufügen | ✔ |  |
-| Benutzer aus Benutzergruppe entfernen | ✔ |  |
-| Benutzergruppe zur Produktlizenz hinzufügen | ✔ |  |
-| Benutzergruppe aus Produktlizenz entfernen | ✔ |  |
+| Benutzergruppe erstellen | ✔ | |
+| Benutzergruppe löschen | ✔ | |
+| Benutzer zur Benutzergruppe hinzufügen | ✔ | |
+| Benutzer aus Benutzergruppe entfernen | ✔ | |
+| Benutzergruppe zur Produktlizenz hinzufügen | ✔ | |
+| Benutzergruppe aus Produktlizenz entfernen | ✔ | |
 | Mitglied der Benutzergruppe anzeigen | ✔ | ✔ |
 | Liste der Benutzergruppen anzeigen | ✔ | ✔ |

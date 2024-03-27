@@ -6,7 +6,7 @@ hidefromtoc: true
 exl-id: 6d0653a9-3a2a-4747-b8ec-bea48597cf01
 source-git-commit: 03a17fde256c9249664da170489d4ff8707fc5aa
 workflow-type: ht
-source-wordcount: '453'
+source-wordcount: '450'
 ht-degree: 100%
 
 ---
@@ -27,7 +27,7 @@ Im Februar und März 2022 wird Adobe sowohl die neuen Support-Systemadministrat
 Support-Systemadministratoren und Kunden-Support-Administratoren sehen systemgenerierte E-Mails, wenn Support-Anwender in der Admin Console erstellt werden. Beide Benutzerrollen können:
 
 * Von den Vorteilen der Werkzeuge für das Fall-Management profitieren, die die Zusammenarbeit mit dem Adobe-Support erleichtern
-* Problemlos mit dem Adobe-Support für Adobe Analytics chatten
+* Problemlos mit dem Adobe-Kunden-Support für Adobe Analytics chatten
 * Detailliertere Erkenntnisse zum Service-Verlauf erhalten
 * Beliebte Hilfethemen und -foren durchsuchen
 

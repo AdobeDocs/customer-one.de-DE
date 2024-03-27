@@ -1,12 +1,11 @@
 ---
 title: AEM – Neues Supporterlebnis in Vorbereitung
-seo-title: Adobe Experience Manager – Neues Supporterlebnis
+seo-title: Adobe Experience Manager - New Support Experience Coming
 description: Adobe Experience Manager – Neues Supporterlebnis
-seo-description: Adobe Experience Manager – Neues Supporterlebnis
-translation-type: ht
+seo-description: Adobe Experience Manager - New Support Experience Coming
 source-git-commit: a78e81c0f45ca3f2fb9e8dfda6babada819aa3c1
 workflow-type: ht
-source-wordcount: '283'
+source-wordcount: '250'
 ht-degree: 100%
 
 ---
@@ -28,13 +27,13 @@ Aus unseren Aufzeichnungen geht hervor, dass Sie in Ihrem Unternehmen als **Syst
 
 Als Systemadministrator haben Sie Zugriff auf das [!DNL Adobe Admin Console Support Portal]. Dort können Sie:
 
-* verbesserte Funktionen für das Management von Supportanfragen nutzen
+* verbesserte Funktionen für das Management von Support-Anfragen nutzen
 * bequem per Chat mit dem [!DNL Adobe Customer Support] in Kontakt treten
 * Support-Benutzern Zugriff auf das Portal gewähren
 
 >[!NOTE]
 >
->Bitte bestätigen Sie, dass Sie in Ihrem Unternehmen als Systemadministrator für Adobe Experience Manager-Produkte fungieren (oder geben Sie einen anderen Ansprechpartner an), **indem Sie das [[!DNL System Admin Confirmation Form]](https://adobe.allegiancetech.com/cgi-bin/qwebcorporate.dll?idx=SSSVH6) bis zum 4. November 2019 ausfüllen und übermitteln**.
+>Bitte bestätigen Sie, dass Sie diese Rolle als Systemadmin für Adobe Experience Manager-Produkte in Ihrer Organisation akzeptieren (oder stellen Sie einen alternativen Kontakt bereit), **indem Sie das [[!DNL System Admin Confirmation Form]](https://adobe.allegiancetech.com/cgi-bin/qwebcorporate.dll?idx=SSSVH6) bis zum 4. November 2019 ausfüllen und übermitteln**.
 >
 >Durch das Ausfüllen dieses Formulars wird sichergestellt, dass die entsprechenden Anmeldeinformationen dem für Ihr Unternehmen zuständigen Systemadministrator zugewiesen werden.
 
