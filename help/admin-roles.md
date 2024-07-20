@@ -3,7 +3,7 @@ title: Administratorrollen
 description: Mithilfe der Adobe Admin Console können Unternehmen eine flexible Verwaltungshierarchie einrichten, mit der genau festgelegt werden kann, wer auf Adobe-Produkte zugreifen und sie verwenden kann.
 exl-id: bfee66b5-d7bb-4ecb-8d22-efb68611ecc8
 source-git-commit: 6fcd91d09ffc23047b2fb332af256ab7706355cd
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '1689'
 ht-degree: 100%
 
