@@ -5,26 +5,30 @@ description: Neues Adobe-Support-Erlebnis
 seo-description: New Adobe Customer Support Experience
 seo-title: Adobe Experience Cloud Customer One for Enterprise
 exl-id: 276e0862-6f7e-491e-b63e-10a50b7238c2
-source-git-commit: 21d5995ce2529a47e1691ce152cf3da7cd978890
+source-git-commit: 79858d43281431431b980c71ee3b09f99b445c62
 workflow-type: tm+mt
-source-wordcount: '731'
-ht-degree: 100%
+source-wordcount: '860'
+ht-degree: 56%
 
 ---
 
 # Adobe-Support-Erlebnis
 
-## Support-Tickets via Admin Console
+## Experience League Support-Tickets
 
-Ab sofort können Support-Tickets über die [Admin Console](https://adminconsole.adobe.com/) gesendet werden. Anweisungen zum Senden eines Support-Tickets finden Sie im Abschnitt [Senden eines Support-Tickets](#submit-ticket).
+Support-Tickets werden jetzt über [Experience League](https://experienceleague.adobe.com/home#support) eingereicht. Anweisungen zum Senden eines Support-Tickets finden Sie im Abschnitt [Senden eines Support-Tickets](#submit-ticket).
 
-Wir arbeiten daran, die Interaktion mit dem Adobe-Kunden-Support zu verbessern. Die Neuerung beinhaltet die Zentralisierung aller Support-Vorgänge in Adobe Admin Console Portal. Dadurch wird Ihre Interaktion mit dem Adobe-Support deutlich vereinfacht. Denn das System bündelt Ihren gesamten Service-Verlauf an einer zentralen Stelle, über die Sie fortan auch alle weiteren Support-Anfragen per Telefon, Web und Chat aufgeben können.
+Wir arbeiten daran, die Interaktion mit dem Adobe-Kunden-Support zu verbessern. Unsere Vision ist es, das Supporterlebnis durch den Wechsel zu einem einzigen Einstiegspunkt mithilfe von Experience League zu optimieren. Dadurch wird Ihre Interaktion mit dem Adobe-Support deutlich vereinfacht. Denn das System bündelt Ihren gesamten Service-Verlauf an einer zentralen Stelle, über die Sie fortan auch alle weiteren Support-Anfragen per Telefon, Web und Chat aufgeben können.
 
-## Senden eines Support-Tickets über die Admin Console {#submit-ticket}
+Wenn Sie Adobe Commerce-Benutzer sind, finden Sie weitere Informationen unter [Support-Fall senden](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#support-case) im Benutzerhandbuch für Experience League-Support für Adobe Commerce.
 
-Damit Sie ein Support-Ticket über die [Admin Console](https://adminconsole.adobe.com/) senden können, muss Ihnen von einem Systemadministrator die Support-Administratorrolle zugewiesen werden. Nur ein Systemadministrator in Ihrem Unternehmen kann diese Rolle zuweisen. Produkt-, Produktprofil- und andere Administratorrollen können die Support-Administratorrolle nicht zuweisen und können die Option **[!UICONTROL Anfrage erstellen]** nicht anzeigen, die zum Senden eines Support-Tickets verwendet wird. Weitere Informationen finden Sie in der Dokumentation [Kundenunterstützung für Unternehmen und Teams](customer-care.md).
+## Unterstützende Rollen für die Übermittlung von Fällen {#submit-ticket}
 
-### Zuweisen der Support-Administratorrolle
+Um ein Support-Ticket in [Experience League](https://experienceleague.adobe.com/home#support) einzureichen, muss ein Systemadministrator die Rolle &quot;Support-Administrator&quot;zugewiesen haben. Nur ein Systemadministrator in Ihrem Unternehmen kann diese Rolle zuweisen. Produkt-, Produktprofil- und andere Administratorrollen können die Support-Administratorrolle nicht zuweisen und können die Option **[!UICONTROL Anfrage erstellen]** nicht anzeigen, die zum Senden eines Support-Tickets verwendet wird. Weitere Informationen zu den verschiedenen Arten von Admin-Rollen und deren Berechtigungen finden Sie unter [Admin-Rollen](admin-roles.md).
+
+Wenn Sie Commerce verwenden, ist der Prozess für die Freigabe des Zugriffs für Support-Fälle anders. Weitere Informationen finden Sie unter [Freigegebener Zugriff: Gewähren Sie anderen Benutzern Berechtigungen für den Zugriff auf Ihr Konto](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#shared-access) im Experience League Support-Benutzerhandbuch für Adobe Commerce.
+
+### Hinzufügen von Support-Berechtigungen zu einer Organisation
 
 Die Support-Administratorrolle ist eine nicht administrative Rolle, die Zugriff auf Support-bezogene Informationen hat. Support-Administratoren können Problemberichte anzeigen, erstellen und verwalten.
 
@@ -65,31 +69,41 @@ Im Rahmen des Anmeldeprozesses können Benutzer aufgefordert werden, ein Benutze
 
 Weitere Informationen finden Sie in den Anweisungen zur [Bearbeitung von Unternehmens-Administratorrolle](admin-roles.md#add-enterprise-role) in der Dokumentation zu Administratorrollen. Beachten Sie, dass nur ein Systemadministrator für Ihr Unternehmen diese Rolle zuweisen kann. Weitere Informationen zur Administrationshierarchie finden Sie in der Dokumentation zu [Administratorrollen](admin-roles.md).
 
-### Erstellen eines Support-Tickets über die Admin Console
+### Support-Ticket mit Experience League erstellen
 
-Um ein Ticket mit der [Admin Console](https://adminconsole.adobe.com/) zu erstellen, wählen Sie die Registerkarte **[!UICONTROL Support]** in der oberen Navigation. Die [!UICONTROL Support-Zusammenfassung] wird angezeigt. Wählen Sie anschließend die Option **[!UICONTROL Anfrage erstellen]**.
+Der Prozess zur Übermittlung von Support-Anfragen ist jetzt direkt in die Experience League-Support-Plattform integriert. Dies ist ein Self-Service-Portal, das kürzlich neu gestaltet wurde, um Kunden mit entsprechenden Berechtigungen eine stärkere Personalisierung und Benutzerfreundlichkeit zu bieten.
+
+1. Um ein Ticket mit [Experience League](https://experienceleague.adobe.com/home#support) zu erstellen, wählen Sie in der oberen Navigationsleiste die Registerkarte **[!UICONTROL Support]** aus.
+   ![Registerkarte &quot;Unterstützung der ErlebnisLiga&quot;](./assets/experience-league-support-tab.png)
+1. Auf der Support-Startseite können Sie einfach zu Ihren offenen Support-Fällen navigieren, einen neuen Fall protokollieren, die wichtigsten Support-Artikel anzeigen oder auf zusätzliche Lernquellen zugreifen.
+   ![Support-Ressourcen für die Experience League](./assets/experience-league-support-resources.png)
+1. Um einen Fall einzureichen, wählen Sie **[!UICONTROL Öffnen Sie ein Support-Ticket]**. Wählen Sie außerdem die Option **[!UICONTROL Ticket öffnen]** im Seitenleistenmenü aus. Sie werden zur Seite zur Fallerstellung weitergeleitet, auf der Sie Ihren Produktnamen (Audience Manager, Kampagne, Ziel usw.), den Titel der Groß-/Kleinschreibung und die Fallbeschreibung eingeben können. Um die Fehlerbehebung zu beschleunigen, sollten Sie bei der Beschreibung des Problems, mit dem Sie konfrontiert sind, möglichst beschreibend sein.
+   ![Erlebnisleague open ticket](./assets/experience-league-open-ticket.png)
+1. Füllen Sie die folgenden Felder am Ende des Formulars aus. Bei der Auswahl einer beliebigen Lösung werden Sie gefragt, ob die Lösung folgende Kriterien erfüllt: Einige Lösungen verfügen über zusätzliche Felder:
+
+   * Groß-/Kleinschreibung (niedrig, Medium, hoch, kritisch)
+   * Auswirkung auf den Betrieb
+   * Customer Timezone (Nord- und Südamerika, EMEA, APAC)
+
+![Erlebnisleague-Ticketpriorität](./assets/experience-league-ticket-priority.png)
 
 >[!TIP]
 >
 > Wenn Sie die Option **[!UICONTROL Anfrage erstellen]** oder die Registerkarte **[!UICONTROL Support]** nicht sehen, müssen Sie einen Systemadministrator kontaktieren, damit er Ihnen die Support-Administratorrolle zuweist.
 
-![Registerkarte „Admin Console-Support“](./assets/Support.png)
 
-Ein Dialogfeld wird angezeigt, in dem Sie einen Problemtyp auswählen können. Wählen Sie den Problemtyp aus, der Ihr Problem oder Ihre Frage am besten beschreibt, und wählen Sie dann **[!UICONTROL Anfrage erstellen]** unten rechts.
 
-![Problem auswählen](./assets/select-case-type.png)
 
-Das Dialogfeld **[!UICONTROL Anfrage erstellen]** wird angezeigt. Sie werden gebeten, einige Informationen wie das Produkt, die Priorität, die Beschreibung und Screenshots anzufügen, um das Problem genauer zu beschreiben. Wählen Sie **[!UICONTROL Weiter]**, um fortzufahren.
 
-![Anfrage erstellen](./assets/create_case.png)
+
+
 
 >[!NOTE]
 >
-> Führt das Problem zu Ausfällen oder extrem schwerwiegenden Unterbrechungen eines Produktionssystems, wird eine Telefonnummer zur sofortigen Unterstützung bereitgestellt.
+> Wenn das Problem zu Ausfällen oder schwerwiegenden Unterbrechungen eines Produktionssystems führt, wird eine Telefonnummer zur sofortigen Unterstützung bereitgestellt.
 
-Auf der nächsten Seite können Sie Kontaktinformationen ausfüllen und die beste Zeit für die Kontaktaufnahme durch den Adobe-Support angeben. Wählen Sie nach Abschluss **[!UICONTROL Senden]** unten rechts und Ihr Ticket wird an den Adobe-Support gesendet.
 
-![Ticket senden](./assets/submit_case.png)
+
 
 <!--
 
