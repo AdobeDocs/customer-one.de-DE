@@ -6,27 +6,27 @@ seo-description: New Adobe Customer Support Experience
 seo-title: Adobe Experience Cloud Customer One for Enterprise
 exl-id: 276e0862-6f7e-491e-b63e-10a50b7238c2
 source-git-commit: 79858d43281431431b980c71ee3b09f99b445c62
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '860'
-ht-degree: 56%
+ht-degree: 100%
 
 ---
 
 # Adobe-Support-Erlebnis
 
-## Experience League Support-Tickets
+## Experience League – Support-Tickets
 
 Support-Tickets werden jetzt über [Experience League](https://experienceleague.adobe.com/home#support) eingereicht. Anweisungen zum Senden eines Support-Tickets finden Sie im Abschnitt [Senden eines Support-Tickets](#submit-ticket).
 
-Wir arbeiten daran, die Interaktion mit dem Adobe-Kunden-Support zu verbessern. Unsere Vision ist es, das Supporterlebnis durch den Wechsel zu einem einzigen Einstiegspunkt mithilfe von Experience League zu optimieren. Dadurch wird Ihre Interaktion mit dem Adobe-Support deutlich vereinfacht. Denn das System bündelt Ihren gesamten Service-Verlauf an einer zentralen Stelle, über die Sie fortan auch alle weiteren Support-Anfragen per Telefon, Web und Chat aufgeben können.
+Wir arbeiten daran, die Interaktion mit dem Adobe-Kunden-Support zu verbessern. Wir möchten alle Support-Vorgänge optimieren, indem wir eine zentrale Anlaufstelle in Experience League bereitstellen. Dadurch wird Ihre Interaktion mit dem Adobe-Support deutlich vereinfacht. Denn das System bündelt Ihren gesamten Service-Verlauf an einer zentralen Stelle, über die Sie fortan auch alle weiteren Support-Anfragen per Telefon, Web und Chat aufgeben können.
 
-Wenn Sie Adobe Commerce-Benutzer sind, finden Sie weitere Informationen unter [Support-Fall senden](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#support-case) im Benutzerhandbuch für Experience League-Support für Adobe Commerce.
+Wenn Sie Adobe Commerce verwenden, finden Sie weitere Informationen unter [Support-Ticket senden](https://experienceleague.adobe.com/de/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#support-case) im Benutzerhandbuch für Experience League-Support für Adobe Commerce.
 
-## Unterstützende Rollen für die Übermittlung von Fällen {#submit-ticket}
+## Für den Support zugelassene Rollen zur Ticket-Übermittlung erforderlich {#submit-ticket}
 
-Um ein Support-Ticket in [Experience League](https://experienceleague.adobe.com/home#support) einzureichen, muss ein Systemadministrator die Rolle &quot;Support-Administrator&quot;zugewiesen haben. Nur ein Systemadministrator in Ihrem Unternehmen kann diese Rolle zuweisen. Produkt-, Produktprofil- und andere Administratorrollen können die Support-Administratorrolle nicht zuweisen und können die Option **[!UICONTROL Anfrage erstellen]** nicht anzeigen, die zum Senden eines Support-Tickets verwendet wird. Weitere Informationen zu den verschiedenen Arten von Admin-Rollen und deren Berechtigungen finden Sie unter [Admin-Rollen](admin-roles.md).
+Damit Sie ein Support-Ticket in [Experience League](https://experienceleague.adobe.com/home#support) einreichen können, muss Ihnen von einem Systemadministrator bzw. einer Systemadministratorin die Support-Administratorrolle zugewiesen werden. Nur ein Systemadministrator in Ihrem Unternehmen kann diese Rolle zuweisen. Produkt-, Produktprofil- und andere Administratorrollen können die Support-Administratorrolle nicht zuweisen und können die Option **[!UICONTROL Anfrage erstellen]** nicht anzeigen, die zum Senden eines Support-Tickets verwendet wird. Weitere Informationen zu den verschiedenen Arten von Admin-Rollen und deren Berechtigungen finden Sie unter [Administratorrollen](admin-roles.md).
 
-Wenn Sie Commerce verwenden, ist der Prozess für die Freigabe des Zugriffs für Support-Fälle anders. Weitere Informationen finden Sie unter [Freigegebener Zugriff: Gewähren Sie anderen Benutzern Berechtigungen für den Zugriff auf Ihr Konto](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#shared-access) im Experience League Support-Benutzerhandbuch für Adobe Commerce.
+Wenn Sie Commerce verwenden, ist der Freigabeprozess für die Übermittlung von Support-Tickets anders. Weitere Informationen finden Sie im Experience League-Support-Benutzerhandbuch für Adobe Commerce unter [Shared access: grant privileges for other users to access your account](https://experienceleague.adobe.com/de/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#shared-access) (Zugriff freigeben: anderen Benutzenden Berechtigungen für den Zugriff auf Ihr Konto gewähren).
 
 ### Hinzufügen von Support-Berechtigungen zu einer Organisation
 
@@ -69,27 +69,27 @@ Im Rahmen des Anmeldeprozesses können Benutzer aufgefordert werden, ein Benutze
 
 Weitere Informationen finden Sie in den Anweisungen zur [Bearbeitung von Unternehmens-Administratorrolle](admin-roles.md#add-enterprise-role) in der Dokumentation zu Administratorrollen. Beachten Sie, dass nur ein Systemadministrator für Ihr Unternehmen diese Rolle zuweisen kann. Weitere Informationen zur Administrationshierarchie finden Sie in der Dokumentation zu [Administratorrollen](admin-roles.md).
 
-### Support-Ticket mit Experience League erstellen
+### Erstellen eines Support-Tickets über Experience League
 
-Der Prozess zur Übermittlung von Support-Anfragen ist jetzt direkt in die Experience League-Support-Plattform integriert. Dies ist ein Self-Service-Portal, das kürzlich neu gestaltet wurde, um Kunden mit entsprechenden Berechtigungen eine stärkere Personalisierung und Benutzerfreundlichkeit zu bieten.
+Die Übermittlung von Support-Anfragen erfolgt jetzt direkt über die Experience League-Support-Plattform. Dies ist ein Self-Service-Portal, das kürzlich neu gestaltet wurde. Es bietet Kunden und Kundinnen mit entsprechenden Berechtigungen verbesserte Personalisierungsmöglichkeiten und höhere Benutzerfreundlichkeit.
 
-1. Um ein Ticket mit [Experience League](https://experienceleague.adobe.com/home#support) zu erstellen, wählen Sie in der oberen Navigationsleiste die Registerkarte **[!UICONTROL Support]** aus.
-   ![Registerkarte &quot;Unterstützung der ErlebnisLiga&quot;](./assets/experience-league-support-tab.png)
-1. Auf der Support-Startseite können Sie einfach zu Ihren offenen Support-Fällen navigieren, einen neuen Fall protokollieren, die wichtigsten Support-Artikel anzeigen oder auf zusätzliche Lernquellen zugreifen.
-   ![Support-Ressourcen für die Experience League](./assets/experience-league-support-resources.png)
-1. Um einen Fall einzureichen, wählen Sie **[!UICONTROL Öffnen Sie ein Support-Ticket]**. Wählen Sie außerdem die Option **[!UICONTROL Ticket öffnen]** im Seitenleistenmenü aus. Sie werden zur Seite zur Fallerstellung weitergeleitet, auf der Sie Ihren Produktnamen (Audience Manager, Kampagne, Ziel usw.), den Titel der Groß-/Kleinschreibung und die Fallbeschreibung eingeben können. Um die Fehlerbehebung zu beschleunigen, sollten Sie bei der Beschreibung des Problems, mit dem Sie konfrontiert sind, möglichst beschreibend sein.
-   ![Erlebnisleague open ticket](./assets/experience-league-open-ticket.png)
-1. Füllen Sie die folgenden Felder am Ende des Formulars aus. Bei der Auswahl einer beliebigen Lösung werden Sie gefragt, ob die Lösung folgende Kriterien erfüllt: Einige Lösungen verfügen über zusätzliche Felder:
+1. Um ein Ticket über [Experience League](https://experienceleague.adobe.com/home#support) zu erstellen, wählen Sie die Registerkarte **[!UICONTROL Support]** in der oberen Navigation.
+   ![Registerkarte „Support“ in Experience League](./assets/experience-league-support-tab.png)
+1. Auf der Support-Startseite können Sie einfach zu Ihren offenen Support-Tickets navigieren, ein neues Ticket senden, die wichtigsten Support-Artikel anzeigen oder auf Lernmaterialien zugreifen.
+   ![Support-Ressourcen in Experience League](./assets/experience-league-support-resources.png)
+1. Um ein Ticket zu senden, wählen Sie **[!UICONTROL Support-Ticket eröffnen]** (Open a support ticket). Sie können auch die Option **[!UICONTROL Ticket eröffnen]** (Open Ticket) im Seitenleistenmenü auswählen. Sie gelangen daraufhin auf die Ticket-Erstellungs-Seite, wo Sie den Produktnamen (Audience Manager, Campaign, Target usw.) sowie den Titel und die Beschreibung des Problems eingeben. Um die Fehlerbehebung zu beschleunigen, sollten Sie das Problem möglichst genau beschreiben.
+   ![Experience League – Ticket eröffnen](./assets/experience-league-open-ticket.png)
+1. Füllen Sie am Ende des Formulars die folgenden Felder aus. Bei der Auswahl einer Lösungsoption werden Ihnen folgende Fragen gestellt. Manche Lösungen verfügen über zusätzliche Felder:
 
-   * Groß-/Kleinschreibung (niedrig, Medium, hoch, kritisch)
+   * Priorität des Problems (niedrig, mittel, hoch, kritisch)
    * Auswirkung auf den Betrieb
-   * Customer Timezone (Nord- und Südamerika, EMEA, APAC)
+   * Zeitzone des Kunden bzw. der Kundin (Nord- und Südamerika, EMEA, APAC)
 
-![Erlebnisleague-Ticketpriorität](./assets/experience-league-ticket-priority.png)
+![Experience League – Priorität des Tickets](./assets/experience-league-ticket-priority.png)
 
 >[!TIP]
 >
-> Wenn Sie die Option **[!UICONTROL Anfrage erstellen]** oder die Registerkarte **[!UICONTROL Support]** nicht sehen, müssen Sie einen Systemadministrator kontaktieren, damit er Ihnen die Support-Administratorrolle zuweist.
+> Wenn Sie die Option **[!UICONTROL Anfrage erstellen]** oder die Registerkarte **[!UICONTROL Support]** nicht sehen, kontaktieren Sie einen Systemadministrator bzw. eine Systemadministratorin, um die Support-Administratorrolle zugewiesen zu bekommen.
 
 
 
@@ -100,7 +100,7 @@ Der Prozess zur Übermittlung von Support-Anfragen ist jetzt direkt in die Exper
 
 >[!NOTE]
 >
-> Wenn das Problem zu Ausfällen oder schwerwiegenden Unterbrechungen eines Produktionssystems führt, wird eine Telefonnummer zur sofortigen Unterstützung bereitgestellt.
+> Führt das Problem zu Ausfällen oder schwerwiegenden Unterbrechungen eines Produktionssystems, wird eine Telefonnummer zur sofortigen Hilfe bereitgestellt.
 
 
 
