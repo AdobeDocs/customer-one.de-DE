@@ -5,9 +5,9 @@ feature-set: Experience Cloud
 feature: Support
 sub-product: customer one
 audience: end-user
-user-guide-title: „[!DNL Customer One for Enterprise] Hilfe“
+user-guide-title: '[!DNL Customer One for Enterprise] Hilfe'
 source-git-commit: 12a432e20b4447f05b617ba63b4e6baf7a54dfe7
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '23'
 ht-degree: 100%
 
