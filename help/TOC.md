@@ -8,8 +8,8 @@ audience: end-user
 user-guide-title: '[!DNL Customer One for Enterprise] Hilfe'
 source-git-commit: 12a432e20b4447f05b617ba63b4e6baf7a54dfe7
 workflow-type: tm+mt
-source-wordcount: '23'
-ht-degree: 100%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 

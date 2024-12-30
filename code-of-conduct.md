@@ -1,9 +1,11 @@
 ---
 source-git-commit: 30844dc968b7d94b2cb29d92917a08f6cf322144
-translation-type: ht
+workflow-type: tm+mt
+source-wordcount: '427'
+ht-degree: 100%
 
 ---
-# Adobe-Verhaltenskodex
+# Adobe-Verhaltenskodex.
 
 ## Unsere Verpflichtung
 
@@ -35,11 +37,11 @@ Die Projektbetreuer haben das Recht und die Verantwortung, Kommentare, Commits, 
 
 ## Geltungsbereich
 
-Dieser Verhaltenskodex gilt sowohl innerhalb des Projektbereichs als auch in öffentlichen Bereichen, wenn eine Person das Projekt oder seine Gemeinschaft repräsentiert. Beispiele für die Repräsentation eines Projektes oder der Community beinhalten die Verwendung einer offiziellen Projekt-E-Mail-Adresse, das Versenden von Nachrichten über ein öffentliches Social-Media-Konto oder das Handeln als Repräsentant während einer Online- oder Offline-Veranstaltung. Der Begriff „Repräsentation des Projektes“ kann durch die Projektenbetreuer weiter ausformuliert und präzisiert werden.
+Dieser Verhaltenskodex gilt sowohl innerhalb des Projektbereichs als auch in öffentlichen Bereichen, wenn eine Person das Projekt oder seine Gemeinschaft repräsentiert. Beispiele für die Repräsentation eines Projektes oder der Community beinhalten die Verwendung einer offiziellen Projekt-E-Mail-Adresse, das Versenden von Nachrichten über ein öffentliches Social-Media-Konto oder das Handeln als Repräsentant während einer Online- oder Offline-Veranstaltung. Der Begriff „Repräsentation des Projektes“ kann durch die Projektbetreuer weiter ausformuliert und präzisiert werden.
 
 ## Umsetzung
 
-Fälle von missbräuchlichem, belästigendem oder anderweitig nicht akzeptablem Verhalten können dem Projektteam unter Grp-opensourceoffice@adobe.com gemeldet werden. Alle Beschwerden werden geprüft und untersucht. Die Antwort wird entsprechend der Erfordernisse und Umstände erfolgen. Das Projektteam ist verpflichtet, die Vertraulichkeit in Bezug auf die Meldung eines Vorfalls zu wahren. Weitere Einzelheiten zu speziellen Umsetzungsrichtlinien können gesondert mitgeteilt werden.
+Fälle von missbräuchlichem, belästigendem oder anderweitig nicht akzeptablem Verhalten können dem Projekt-Team unter Grp-opensourceoffice@adobe.com gemeldet werden. Alle Beschwerden werden geprüft und untersucht. Die Antwort wird entsprechend der Erfordernisse und Umstände erfolgen. Das Projekt-Team ist verpflichtet, die Vertraulichkeit in Bezug auf die Meldung eines Vorfalls zu wahren. Weitere Einzelheiten zu speziellen Umsetzungsrichtlinien können gesondert mitgeteilt werden.
 
 Projektverantwortliche, die den Verhaltenskodex nicht befolgen, oder nicht nach bestem Wissen und Gewissen für dessen Einhaltung sorgen, können sich vorübergehenden oder dauerhaften Maßnahmen gegenübersehen, die durch andere Mitglieder der Projektleitung bestimmt wurden.
 

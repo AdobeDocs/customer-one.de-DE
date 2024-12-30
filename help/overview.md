@@ -4,9 +4,9 @@ title: Überblick über den Adobe Workfront-Support
 description: Adobe Workfront wird in die Adobe Admin Console integriert.
 exl-id: 00740005-270b-4ff7-afcb-4d5fa161cc32
 source-git-commit: 12a432e20b4447f05b617ba63b4e6baf7a54dfe7
-workflow-type: ht
-source-wordcount: '221'
-ht-degree: 100%
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
