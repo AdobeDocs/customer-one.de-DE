@@ -27,7 +27,7 @@ Die Verwaltungshierarchie kann auf die individuellen Anforderungen Ihres Unterne
 
 >[!NOTE]
 >
->Die Verwaltungshierarchie gilt nicht für Team-Kunden. Team-Kunden haben nur eine einzige **Systemadministrator**-Rolle. Der Vertragseigentümer (_zuvor **primärer Administrator**_genannt) ist der Systemadministrator und hat Zugriff auf die Vertragsdetails und den Abrechnungsverlauf. Wenn Sie der aktuelle Vertragseigentümer sind, können Sie einen bestehenden Systemadministrator (_ zuvor als **sekundärer Administrator**_ bezeichnet) zum Vertragseigentümer ernennen.
+>Die Verwaltungshierarchie gilt nicht für Team-Kunden. Team-Kunden haben nur eine einzige **Systemadministrator**-Rolle. Der Vertragseigentümer (_zuvor **primärer Administrator**&#x200B;_genannt) ist der Systemadministrator und hat Zugriff auf die Vertragsdetails und den Abrechnungsverlauf. Wenn Sie der aktuelle Vertragseigentümer sind, können Sie einen bestehenden Systemadministrator (_ zuvor als **sekundärer Administrator**&#x200B;_ bezeichnet) zum Vertragseigentümer ernennen.
 
 ![Administrator-Bild](assets/storage_admin.png)
 
