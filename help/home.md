@@ -16,7 +16,7 @@ ht-degree: 100%
 
 ## Experience League – Support-Tickets
 
-Support-Tickets werden jetzt über [Experience League](https://experienceleague.adobe.com/home#support) eingereicht. Anweisungen zum Senden eines Support-Tickets finden Sie im Abschnitt [Senden eines Support-Tickets](#submit-ticket).
+Support-Tickets werden jetzt über [Experience League](https://experienceleague.adobe.com/home?lang=de#support) eingereicht. Anweisungen zum Senden eines Support-Tickets finden Sie im Abschnitt [Senden eines Support-Tickets](#submit-ticket).
 
 Wir arbeiten daran, die Interaktion mit dem Adobe-Kunden-Support zu verbessern. Wir möchten alle Support-Vorgänge optimieren, indem wir eine zentrale Anlaufstelle in Experience League bereitstellen. Dadurch wird Ihre Interaktion mit dem Adobe-Support deutlich vereinfacht. Denn das System bündelt Ihren gesamten Service-Verlauf an einer zentralen Stelle, über die Sie fortan auch alle weiteren Support-Anfragen per Telefon, Web und Chat aufgeben können.
 
@@ -24,7 +24,7 @@ Wenn Sie Adobe Commerce verwenden, finden Sie weitere Informationen unter [Suppo
 
 ## Für den Support zugelassene Rollen zur Ticket-Übermittlung erforderlich {#submit-ticket}
 
-Damit Sie ein Support-Ticket in [Experience League](https://experienceleague.adobe.com/home#support) einreichen können, muss Ihnen von einem Systemadministrator bzw. einer Systemadministratorin die Support-Administratorrolle zugewiesen werden. Nur ein Systemadministrator in Ihrem Unternehmen kann diese Rolle zuweisen. Produkt-, Produktprofil- und andere Administratorrollen können die Support-Administratorrolle nicht zuweisen und können die Option **[!UICONTROL Anfrage erstellen]** nicht anzeigen, die zum Senden eines Support-Tickets verwendet wird. Weitere Informationen zu den verschiedenen Arten von Admin-Rollen und deren Berechtigungen finden Sie unter [Administratorrollen](admin-roles.md).
+Damit Sie ein Support-Ticket in [Experience League](https://experienceleague.adobe.com/home?lang=de#support) einreichen können, muss Ihnen von einem Systemadministrator bzw. einer Systemadministratorin die Support-Administratorrolle zugewiesen werden. Nur ein Systemadministrator in Ihrem Unternehmen kann diese Rolle zuweisen. Produkt-, Produktprofil- und andere Administratorrollen können die Support-Administratorrolle nicht zuweisen und können die Option **[!UICONTROL Anfrage erstellen]** nicht anzeigen, die zum Senden eines Support-Tickets verwendet wird. Weitere Informationen zu den verschiedenen Arten von Admin-Rollen und deren Berechtigungen finden Sie unter [Administratorrollen](admin-roles.md).
 
 Wenn Sie Commerce verwenden, ist der Freigabeprozess für die Übermittlung von Support-Tickets anders. Weitere Informationen finden Sie im Experience League-Support-Benutzerhandbuch für Adobe Commerce unter [Shared access: grant privileges for other users to access your account](https://experienceleague.adobe.com/de/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#shared-access) (Zugriff freigeben: anderen Benutzenden Berechtigungen für den Zugriff auf Ihr Konto gewähren).
 
@@ -73,7 +73,7 @@ Weitere Informationen finden Sie in den Anweisungen zur [Bearbeitung von Unterne
 
 Die Übermittlung von Support-Anfragen erfolgt jetzt direkt über die Experience League-Support-Plattform. Dies ist ein Self-Service-Portal, das kürzlich neu gestaltet wurde. Es bietet Kunden und Kundinnen mit entsprechenden Berechtigungen verbesserte Personalisierungsmöglichkeiten und höhere Benutzerfreundlichkeit.
 
-1. Um ein Ticket über [Experience League](https://experienceleague.adobe.com/home#support) zu erstellen, wählen Sie die Registerkarte **[!UICONTROL Support]** in der oberen Navigation.
+1. Um ein Ticket über [Experience League](https://experienceleague.adobe.com/home?lang=de#support) zu erstellen, wählen Sie die Registerkarte **[!UICONTROL Support]** in der oberen Navigation.
    ![Registerkarte „Support“ in Experience League](./assets/experience-league-support-tab.png)
 1. Auf der Support-Startseite können Sie einfach zu Ihren offenen Support-Tickets navigieren, ein neues Ticket senden, die wichtigsten Support-Artikel anzeigen oder auf Lernmaterialien zugreifen.
    ![Support-Ressourcen in Experience League](./assets/experience-league-support-resources.png)
