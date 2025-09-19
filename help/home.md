@@ -63,7 +63,7 @@ Der Benutzer erhält per E-Mail eine Einladung zu den neuen Administratorrechten
 
 Benutzer müssen in der E-Mail auf **Erste Schritte** klicken, um Mitglied des Unternehmens zu werden. Wenn neue Administratoren den Link **Erste Schritte** in der E-Mail-Einladung nicht anklicken, können sie sich nicht bei der Admin Console anmelden.
 
-Im Rahmen des Anmeldeprozesses können Benutzer aufgefordert werden, ein Benutzerprofil einzurichten, wenn sie noch keines haben. Wenn Benutzende mehrere Profile haben, die mit ihrer E-Mail-Adresse verknüpft sind, müssen sie (bei entsprechender Aufforderung) auf „Dem Team beitreten“ klicken und danach das mit dem neuen Unternehmen verknüpfte Profil auswählen.****
+Im Rahmen des Anmeldeprozesses können Benutzer aufgefordert werden, ein Benutzerprofil einzurichten, wenn sie noch keines haben. Wenn Benutzende mehrere Profile haben, die mit ihrer E-Mail-Adresse verknüpft sind, müssen sie (bei entsprechender Aufforderung) auf „Dem Team beitreten“ klicken und danach das mit dem neuen Unternehmen verknüpfte Profil auswählen.**&#x200B;**
 
 ![Bestätigung der Administratorrechte](assets/admin-rights-confirmation.png)
 
