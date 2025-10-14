@@ -21,7 +21,7 @@ In den kommenden Monaten werden Kunden bezüglich der Migration zu Adobe Identit
 * Verwenden Sie mehrere SSO-Konfigurationen für Workfront-Benutzer.
 * Verwalten Sie Berechtigungen für Workfront auf dieselbe Weise wie bei anderen Adobe-Produkten.
 
-Eine ausführliche Übersicht über Adobe Identity und die Admin Console finden Sie auf der folgenden [Support-Seite](https://helpx.adobe.com/de/enterprise/admin-guide.html). [Hier](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FAdministration_and_Setup%2FGet_started-WF_administration%2Factions-in-admin-console.htm&amp;_LANG=enus) finden Sie auch einen Vergleich zwischen der aktuellen Workfront-Konsole und der neuen Adobe-Konsole.
+Eine ausführliche Übersicht über Adobe Identity und die Admin Console finden Sie auf der folgenden [Support-Seite](https://helpx.adobe.com/de/enterprise/admin-guide.html). [Hier](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&topicId=Content%2FAdministration_and_Setup%2FGet_started-WF_administration%2Factions-in-admin-console.htm&_LANG=enus) finden Sie auch einen Vergleich zwischen der aktuellen Workfront-Konsole und der neuen Adobe-Konsole.
 
 <!--
 New URL for July 27:
