@@ -8,7 +8,7 @@ exl-id: 276e0862-6f7e-491e-b63e-10a50b7238c2
 source-git-commit: 83a4e81a8ba56f2834b811d6840fc8e21ebed026
 workflow-type: tm+mt
 source-wordcount: '942'
-ht-degree: 84%
+ht-degree: 87%
 
 ---
 
@@ -63,7 +63,7 @@ Der Benutzer erhält per E-Mail eine Einladung zu den neuen Administratorrechten
 
 Benutzer müssen in der E-Mail auf **Erste Schritte** klicken, um Mitglied des Unternehmens zu werden. Wenn neue Administratoren den Link **Erste Schritte** in der E-Mail-Einladung nicht anklicken, können sie sich nicht bei der Admin Console anmelden.
 
-Im Rahmen des Anmeldeprozesses können Benutzer aufgefordert werden, ein Benutzerprofil einzurichten, wenn sie noch keines haben. Wenn Benutzende mehrere Profile haben, die mit ihrer E-Mail-Adresse verknüpft sind, müssen sie (bei entsprechender Aufforderung) auf „Dem Team beitreten“ klicken und danach das mit dem neuen Unternehmen verknüpfte Profil auswählen.**&#x200B;**
+Im Rahmen des Anmeldeprozesses können Benutzer aufgefordert werden, ein Benutzerprofil einzurichten, wenn sie noch keines haben. Wenn Benutzende mehrere Profile haben, die mit ihrer E-Mail-Adresse verknüpft sind, müssen sie (bei entsprechender Aufforderung) auf **„Dem Team beitreten“** klicken und danach das mit dem neuen Unternehmen verknüpfte Profil auswählen.
 
 ![Bestätigung der Administratorrechte](assets/admin-rights-confirmation.png)
 
@@ -110,7 +110,7 @@ Die Übermittlung von Support-Anfragen erfolgt jetzt direkt über die Experience
    * Auswirkung auf den Betrieb
    * Zeitzone des Kunden bzw. der Kundin (Nord- und Südamerika, EMEA, APAC)
 
-   Weitere Informationen dazu, wie sich die Priorität von Fällen und die geschäftlichen Auswirkungen auf die Support-Antwortzeiten auswirken, finden Sie [Gezielte anfängliche Antwortzeiten für Support](https://experienceleague.adobe.com/de/docs/support-resources/data-sheets/overview#targeted-initial-response-times-for-support) in der Dokumentation zu Erfolgsplänen und Ressourcen.
+   Informationen dazu, wie die Priorität des Problems und die Auswirkung auf den Betrieb die Support-Antwortzeiten beeinflussen, finden Sie in der Dokumentation zu Erfolgsplänen unter [Angestrebte anfängliche Reaktionszeiten für den Support](https://experienceleague.adobe.com/de/docs/support-resources/data-sheets/overview#targeted-initial-response-times-for-support).
 
 ![Experience League – Priorität des Tickets](./assets/experience-league-ticket-priority.png)
 
