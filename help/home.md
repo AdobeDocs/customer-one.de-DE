@@ -6,9 +6,9 @@ seo-description: New Adobe Customer Support Experience
 seo-title: Adobe Experience Cloud Customer One for Enterprise
 exl-id: 276e0862-6f7e-491e-b63e-10a50b7238c2
 source-git-commit: 83a4e81a8ba56f2834b811d6840fc8e21ebed026
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '942'
-ht-degree: 87%
+ht-degree: 100%
 
 ---
 
@@ -73,7 +73,7 @@ Weitere Informationen finden Sie in den Anweisungen zur [Bearbeitung von Unterne
 
 >[!NOTE]
 >
-> Bevor Sie ein Support-Ticket senden, sollten Sie Adobe-Systemleistung, -Verfügbarkeit und -Lösungsprobleme auf der Website [Adobe-Status](https://status.adobe.com) überprüfen.
+> Bevor Sie ein Support-Ticket einreichen, sollten Sie auf der Website für den [Adobe-Status](https://status.adobe.com/de) die Adobe-Systemleistung und -Verfügbarkeit sowie Lösungen für Probleme überprüfen.
 
 Die Übermittlung von Support-Anfragen erfolgt jetzt direkt über die Experience League-Support-Plattform. Dies ist ein Self-Service-Portal, das kürzlich neu gestaltet wurde. Es bietet Kunden und Kundinnen mit entsprechenden Berechtigungen verbesserte Personalisierungsmöglichkeiten und höhere Benutzerfreundlichkeit.
 
@@ -81,27 +81,27 @@ Die Übermittlung von Support-Anfragen erfolgt jetzt direkt über die Experience
    ![Registerkarte „Support“ in Experience League](./assets/experience-league-support-tab.png)
 1. Auf der Support-Startseite können Sie einfach zu Ihren offenen Support-Tickets navigieren, ein neues Ticket senden, die wichtigsten Support-Artikel anzeigen oder auf Lernmaterialien zugreifen.
    ![Support-Ressourcen in Experience League](./assets/experience-league-support-resources.png)
-1. Um ein Ticket zu senden, wählen Sie **[!UICONTROL Support-Ticket eröffnen]** (Open a support ticket). Wählen Sie auch die Option **[!UICONTROL Ticket öffnen]** im Seitenleistenmenü aus.
+1. Um ein Ticket zu senden, wählen Sie **[!UICONTROL Support-Ticket eröffnen]** (Open a support ticket). Sie können auch im Seitenleistenmenü die Option **[!UICONTROL Ticket öffnen]** auswählen.
 
 
 ### Ausfüllen des Support-Tickets
 
-1. Wenn Sie **[!UICONTROL Support-Ticket öffnen]** klicken, werden Sie zur Seite zur Fallerstellung weitergeleitet, auf der Sie Ihren Produktnamen (Audience Manager, Campaign, Target usw.), **[!UICONTROL Falltitel]** und **[!UICONTROL Fallbeschreibung“]** können.
+1. Nach der Auswahl von **[!UICONTROL Support-Ticket eröffnen]** werden Sie zur Seite für die Ticket-Erstellung weitergeleitet. Dort können Sie den Produktnamen (Audience Manager, Campaign, Target usw.) sowie den **[!UICONTROL Falltitel]** und die **[!UICONTROL Fallbeschreibung]** eingeben.
 
-   ![Experience League – Ticket eröffnen](./assets/experience-league-open-ticket.png)
+   ![Experience League – Ticket öffnen](./assets/experience-league-open-ticket.png)
 
-   Um den Fehlerbehebungsprozess zu beschleunigen, fügen Sie die folgenden Informationen in das Feld **[!UICONTROL Fallbeschreibung]** ein:
+   Beschleunigen Sie den Fehlerbehebungsprozess, indem Sie die folgenden Informationen in das Feld **[!UICONTROL Fallbeschreibung]** einfügen:
 
-   * Problembeschreibung löschen
-   * Schritte zur Reproduktion
-   * Auswirkungserklärung
+   * Klare Problembeschreibung
+   * Schritte, um das Problem zu reproduzieren
+   * Beschreibung der geschäftlichen Auswirkungen
    * Handelt es sich um eine neue Implementierung/Funktion/Entwicklung?
    * Wann funktionierte der Prozess?
-   * Schritte zur Fehlerbehebung
+   * Zur Fehlerbehebung ergriffene Maßnahmen
    * Relevante Protokolldaten
    * Versionsnummer
    * Build-Informationen (falls zutreffend)
-   * Kritische Kennungen
+   * Wichtige Kennungen
 
 
 1. Bei der Auswahl einer Lösungsoption werden Ihnen folgende Fragen gestellt. Manche Lösungen verfügen über zusätzliche Felder:
