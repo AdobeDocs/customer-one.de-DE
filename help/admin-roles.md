@@ -3,17 +3,10 @@ title: Administratorrollen
 description: Mithilfe der Adobe Admin Console können Unternehmen eine flexible Verwaltungshierarchie einrichten, mit der genau festgelegt werden kann, wer auf Adobe-Produkte zugreifen und sie verwenden kann.
 exl-id: bfee66b5-d7bb-4ecb-8d22-efb68611ecc8
 TQID: https://experienceleague.adobe.com/dINx5tcEsTAUsH7bnbtHTcW8FUnnUHBeiqitGqeaMps
-product_v2:
-  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
-feature_v2:
-  - id: fdbb8fc9-ffa3-4b86-88fe-aa4c5a3e1bc6
-subfeature_v2:
-  - id: b75843fa-0a67-4a44-a6b1-cc627b0481dc
-  - id: bdea9bc8-5600-45db-b85e-d74bb59dfcff
-  - id: d901b097-46a8-4d66-aaed-6f7b45e5d1de
-  - id: f1299f18-ec4b-4531-b2a2-df3b94ff9a68
-topic_v2:
-  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+product_v2: id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+feature_v2: id: fdbb8fc9-ffa3-4b86-88fe-aa4c5a3e1bc6
+subfeature_v2: id: b75843fa-0a67-4a44-a6b1-cc627b0481dcid: bdea9bc8-5600-45db-b85e-d74bb59dfcffid: d901b097-46a8-4d66-aaed-6f7b45e5d1deid: f1299f18-ec4b-4531-b2a2-df3b94ff9a68
+topic_v2: id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
 source-git-commit: 01e067797ad863514b2bb41c6892f53e4af66752
 workflow-type: tm+mt
 source-wordcount: 1647
@@ -39,7 +32,7 @@ Die Verwaltungshierarchie kann auf die individuellen Anforderungen Ihres Unterne
 
 >[!NOTE]
 >
->Die Verwaltungshierarchie gilt nicht für Team-Kunden. Team-Kunden haben nur eine einzige **Systemadministrator**-Rolle. Der Vertragseigentümer (_zuvor **primärer Administrator**&#x200B;_genannt) ist der Systemadministrator und hat Zugriff auf die Vertragsdetails und den Abrechnungsverlauf. Wenn Sie der aktuelle Vertragseigentümer sind, können Sie einen bestehenden Systemadministrator (_ zuvor als **sekundärer Administrator**&#x200B;_ bezeichnet) zum Vertragseigentümer ernennen.
+>Die Verwaltungshierarchie gilt nicht für Team-Kunden. Team-Kunden haben nur eine einzige **Systemadministrator**-Rolle. Der Vertragseigentümer (_zuvor **primärer Administrator**_genannt) ist der Systemadministrator und hat Zugriff auf die Vertragsdetails und den Abrechnungsverlauf. Wenn Sie der aktuelle Vertragseigentümer sind, können Sie einen bestehenden Systemadministrator (_ zuvor als **sekundärer Administrator**_ bezeichnet) zum Vertragseigentümer ernennen.
 
 ![Administrator-Bild](assets/storage_admin.png)
 
