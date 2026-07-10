@@ -2,7 +2,7 @@
 title: Bevorzugte Telefonnummer für den Support angeben
 description: Aktualisierung für Telefonnummern für den Adobe-Supports. Geben Sie Ihre bevorzugte Telefonnummer für den Support an.
 exl-id: 59017843-5989-4618-b7a6-6333bf9ccef4
-source-git-commit: 3f163bffd6f1bf19e8c58688b9068d9ce6aeab0d
+source-git-commit: e207478785c98785a86838cfb2bd34ec82029436
 workflow-type: tm+mt
 source-wordcount: '168'
 ht-degree: 100%
@@ -32,3 +32,4 @@ So geben Sie Ihre bevorzugte Telefonnummer an:
 ![Telefonnummer hinzufügen](assets/enter-phone-number.png)
 
 ![Ergebnisse](assets/result.png)
+
