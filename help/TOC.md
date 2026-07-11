@@ -6,7 +6,7 @@ feature: Support
 sub-product: customer one
 audience: end-user
 user-guide-title: '[!DNL Customer One for Enterprise] Hilfe'
-source-git-commit: 533f79ec31fd301fcaa465cd0cfe08904ebff920
+source-git-commit: e207478785c98785a86838cfb2bd34ec82029436
 workflow-type: tm+mt
 source-wordcount: '23'
 ht-degree: 60%
@@ -19,7 +19,7 @@ ht-degree: 60%
 + [Experience League – Support-Portal](home.md)
 + [Aktualisierung der Telefonnummer für den Support](phone-numbers.md)
 + [Administratorrollen](admin-roles.md)
-+ Referenzdokumente {#ref-docs}
++ {hide-from-toc} Referenzdokumente {#ref-docs}
    + {hide-from-toc}[Vorankündigung](intro-customer-support.md)
    + {hide-from-toc}[Ankündigung von Parkour Now](parkour-now.md)
 + Workfront-Dokumente {#workfront}

@@ -5,7 +5,7 @@ description: Neues Adobe-Support-Erlebnis
 seo-description: New Adobe Customer Support Experience
 seo-title: Adobe Experience Cloud Customer One for Enterprise
 exl-id: 276e0862-6f7e-491e-b63e-10a50b7238c2
-source-git-commit: 83a4e81a8ba56f2834b811d6840fc8e21ebed026
+source-git-commit: e207478785c98785a86838cfb2bd34ec82029436
 workflow-type: tm+mt
 source-wordcount: '1006'
 ht-degree: 100%
@@ -78,9 +78,13 @@ Weitere Informationen finden Sie in den Anweisungen zur [Bearbeitung von Unterne
 Die Übermittlung von Support-Anfragen erfolgt jetzt direkt über die Experience League-Support-Plattform. Dies ist ein Self-Service-Portal, das kürzlich neu gestaltet wurde. Es bietet Kunden und Kundinnen mit entsprechenden Berechtigungen verbesserte Personalisierungsmöglichkeiten und höhere Benutzerfreundlichkeit.
 
 1. Um ein Ticket über [Experience League](https://experienceleague.adobe.com/home?lang=de#support) zu erstellen, wählen Sie die Registerkarte **[!UICONTROL Support]** in der oberen Navigation.
+
    ![Registerkarte „Support“ in Experience League](./assets/experience-league-support-tab.png)
+
 1. Auf der Support-Startseite können Sie einfach zu Ihren offenen Support-Tickets navigieren, ein neues Ticket senden, die wichtigsten Support-Artikel anzeigen oder auf Lernmaterialien zugreifen.
+
    ![Support-Ressourcen in Experience League](./assets/experience-league-support-resources.png)
+
 1. Um ein Ticket zu senden, wählen Sie **[!UICONTROL Support-Ticket eröffnen]** (Open a support ticket). Sie können auch im Seitenleistenmenü die Option **[!UICONTROL Ticket öffnen]** auswählen.
 
 
@@ -112,16 +116,11 @@ Die Übermittlung von Support-Anfragen erfolgt jetzt direkt über die Experience
 
    Informationen dazu, wie die Priorität des Problems und die Auswirkung auf den Betrieb die Support-Antwortzeiten beeinflussen, finden Sie in der Dokumentation zu Erfolgsplänen unter [Angestrebte anfängliche Reaktionszeiten für den Support](https://experienceleague.adobe.com/de/docs/support-resources/data-sheets/overview#targeted-initial-response-times-for-support).
 
-![Experience League – Priorität des Tickets](./assets/experience-league-ticket-priority.png)
+   ![Experience League – Priorität des Tickets](./assets/experience-league-ticket-priority.png)
 
 >[!TIP]
 >
 > Wenn Sie die Option **[!UICONTROL Anfrage erstellen]** oder die Registerkarte **[!UICONTROL Support]** nicht sehen, kontaktieren Sie einen Systemadministrator bzw. eine Systemadministratorin, um die Support-Administratorrolle zugewiesen zu bekommen.
-
-
-
-
-
 
 
 

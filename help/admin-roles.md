@@ -14,7 +14,7 @@ subfeature_v2:
   - id: f1299f18-ec4b-4531-b2a2-df3b94ff9a68
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: 01e067797ad863514b2bb41c6892f53e4af66752
+source-git-commit: e207478785c98785a86838cfb2bd34ec82029436
 workflow-type: tm+mt
 source-wordcount: 1647
 ht-degree: 97%
@@ -121,8 +121,7 @@ So fügen Sie einen Systemadministrator hinzu oder laden einen Systemadministrat
 
 ![Bild des Team-Administrators](assets/teams-admin.png)
 
-Da alle Benutzer in einem Team-Unternehmen Business-ID-Benutzer sind, erhalten sie eine E-Mail-Einladung zu den neuen Administratorrechten von `message@adobe.com`.
-Benutzer müssen in der E-Mail auf „Erste Schritte“ klicken, um dem Unternehmen beizutreten.
+Da alle Benutzer in einem Team-Unternehmen Business-ID-Benutzer sind, erhalten sie eine E-Mail-Einladung zu den neuen Administratorrechten von `message@adobe.com`.Benutzer müssen in der E-Mail auf „Erste Schritte“ klicken, um dem Unternehmen beizutreten.
 
 Im Rahmen des Anmeldeprozesses können Benutzer aufgefordert werden, ein Benutzerprofil einzurichten, wenn sie noch keines haben. Wenn Benutzer mehrere Profile haben, die mit ihrer E-Mail-Adresse verknüpft sind, müssen sie „Team beitreten“ anklicken (wenn Sie dazu aufgefordert werden) und danach das mit dem neuen Unternehmen verknüpfte Profil auswählen.
 
@@ -271,3 +270,4 @@ In der folgenden Tabelle sind alle Berechtigungen für die verschiedenen Adminis
 | Benutzergruppe aus Produktlizenz entfernen | ✔ | |
 | Mitglied der Benutzergruppe anzeigen | ✔ | ✔ |
 | Liste der Benutzergruppen anzeigen | ✔ | ✔ |
+
