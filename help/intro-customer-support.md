@@ -6,20 +6,20 @@ exl-id: bf78dd9e-a47e-4251-8b47-795032a7a673
 TQID: https://experienceleague.adobe.com/A-cIJVAyzKevvnXYjPPanUuA1usfTLn2GK52Vj36iJc
 product_v2:
   - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
-source-git-commit: e207478785c98785a86838cfb2bd34ec82029436
+    internal-label: CX Enterprise
+source-git-commit: 946890c211dddb04752df2e6b53d13c4b2e0913c
 workflow-type: tm+mt
-source-wordcount: 409
+source-wordcount: '409'
 ht-degree: 86%
-
 ---
-
 # Neues Adobe-Support-Erlebnis
 
 Unsere Kunden sind uns wichtig. Deshalb arbeiten wir daran, dass sie bei Bedarf die Unterstützung des Adobe-Kundendienstes schneller in Anspruch nehmen können. Den Anfang machen die Produkte Adobe Experience Manager und Campaign. Das Support-Erlebnis soll durch den Umstieg auf ein modernes Zugangsportal, das Adobe Admin Console Support-Portal, deutlich vereinfacht werden. Die Einführung dieser Änderungen ist für Mai 2020 geplant. Nachdem das System live geschaltet ist, kann Ihre Organisation auf den Adobe-Support zugreifen. Über das zentrale Zugangsportal erhalten Sie einen besseren Einblick in Ihren bisherigen Service-Verlauf und können Hilfe per Telefon, Web und Chat anfordern.
 
 ## Weitere Informationen
 
-Im Februar und März wird Adobe sowohl die neuen Support-Systemadministratoren als auch die Support-Anwender in diesem Portal einrichten. Wenn aus unseren Unterlagen hervorgeht, dass Sie derzeit als Support-Systemadministrator in der Admin Console von Adobe fungieren - oder - Ihr Name im Kaufvertrag als Kundenkontakt für Adobe für die Bereitstellung von Adobe Campaign und/oder Adobe Experience Manager in Ihrem Unternehmen aufgeführt ist, werden Sie als Support-Systemadministrator für Ihr Unternehmen eingerichtet.Support-Systemadministratoren haben in der Admin Console den Status von Super-Usern. Sie sehen die vom System generierten E-Mails, wenn ein neuer Support-Anwender erstellt wird. Darüber hinaus können sie:
+Im Februar und März wird Adobe sowohl die neuen Support-Systemadministratoren als auch die Support-Anwender in diesem Portal einrichten. Wenn aus unseren Unterlagen hervorgeht, dass Sie derzeit als Support-Systemadministrator in der Admin Console von Adobe fungieren - oder - Ihr Name im Kaufvertrag als Kundenkontakt für Adobe für die Bereitstellung von Adobe Campaign und/oder Adobe Experience Manager in Ihrem Unternehmen aufgeführt ist, werden Sie als Support-Systemadministrator für Ihr Unternehmen eingerichtet.
+Support-Systemadministratoren haben in der Admin Console den Status von Super-Usern. Sie sehen die vom System generierten E-Mails, wenn ein neuer Support-Anwender erstellt wird. Darüber hinaus können sie:
 
 * Support-Anwender im Portal erstellen/entfernen und Zugriffsrollen steuern
 * Von den Vorteilen der Werkzeuge für das Fall-Management profitieren, die die Zusammenarbeit mit dem Adobe-Support erleichtern

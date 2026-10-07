@@ -5,22 +5,27 @@ exl-id: bfee66b5-d7bb-4ecb-8d22-efb68611ecc8
 TQID: https://experienceleague.adobe.com/dINx5tcEsTAUsH7bnbtHTcW8FUnnUHBeiqitGqeaMps
 product_v2:
   - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+    internal-label: CX Enterprise
 feature_v2:
   - id: fdbb8fc9-ffa3-4b86-88fe-aa4c5a3e1bc6
+    internal-label: Administration
 subfeature_v2:
   - id: b75843fa-0a67-4a44-a6b1-cc627b0481dc
+    internal-label: Support
   - id: bdea9bc8-5600-45db-b85e-d74bb59dfcff
+    internal-label: Organizations, Organizations (AEC)
   - id: d901b097-46a8-4d66-aaed-6f7b45e5d1de
+    internal-label: Onboarding
   - id: f1299f18-ec4b-4531-b2a2-df3b94ff9a68
+    internal-label: User management
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: e207478785c98785a86838cfb2bd34ec82029436
+    internal-label: Administration
+source-git-commit: 946890c211dddb04752df2e6b53d13c4b2e0913c
 workflow-type: tm+mt
-source-wordcount: 1647
+source-wordcount: '1647'
 ht-degree: 97%
-
 ---
-
 # Administratorrollen
 
 Mithilfe der Adobe Admin Console können Unternehmen eine flexible Verwaltungshierarchie einrichten, mit der genau festgelegt werden kann, wer auf Adobe-Produkte zugreifen und sie verwenden kann. Ein oder mehrere Systemadministratoren, die während des Unternehmens-Onboarding-Prozesses festgelegt werden, befinden sich in der Hierarchie ganz oben. Diese Systemadministratoren verfügen über die Gesamtkontrolle über das System und können einzelne Zuständigkeiten an andere Administratoren übertragen.
@@ -121,7 +126,8 @@ So fügen Sie einen Systemadministrator hinzu oder laden einen Systemadministrat
 
 ![Bild des Team-Administrators](assets/teams-admin.png)
 
-Da alle Benutzer in einem Team-Unternehmen Business-ID-Benutzer sind, erhalten sie eine E-Mail-Einladung zu den neuen Administratorrechten von `message@adobe.com`.Benutzer müssen in der E-Mail auf „Erste Schritte“ klicken, um dem Unternehmen beizutreten.
+Da alle Benutzer in einem Team-Unternehmen Business-ID-Benutzer sind, erhalten sie eine E-Mail-Einladung zu den neuen Administratorrechten von `message@adobe.com`.
+Benutzer müssen in der E-Mail auf „Erste Schritte“ klicken, um dem Unternehmen beizutreten.
 
 Im Rahmen des Anmeldeprozesses können Benutzer aufgefordert werden, ein Benutzerprofil einzurichten, wenn sie noch keines haben. Wenn Benutzer mehrere Profile haben, die mit ihrer E-Mail-Adresse verknüpft sind, müssen sie „Team beitreten“ anklicken (wenn Sie dazu aufgefordert werden) und danach das mit dem neuen Unternehmen verknüpfte Profil auswählen.
 
